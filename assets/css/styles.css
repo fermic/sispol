@@ -1,0 +1,302 @@
+/* Garante que HTML e BODY ocupem 100% da altura da tela */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Área principal do conteúdo */
+#content {
+    flex: 1; /* Faz o conteúdo ocupar todo o espaço disponível */
+}
+
+/* Footer fixado ao final */
+footer {
+    background-color: #343a40; /* Cor de fundo escura */
+    color: white; /* Texto branco */
+    text-align: center; /* Centraliza o texto */
+    padding: 10px 0; /* Espaçamento interno */
+    width: 100%; /* Garante que o footer ocupe toda a largura */
+    flex-shrink: 0; /* Evita que o footer encolha */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+/* Estilo principal para tooltips */
+.tooltip {
+    opacity: 1 !important; /* Remove qualquer transparência */
+}
+
+.tooltip-inner {
+    background-color: #ffffff !important; /* Fundo branco sólido */
+    color: #000000 !important; /* Texto preto */
+    padding: 10px !important; /* Espaçamento interno */
+    border-radius: 5px !important; /* Bordas arredondadas */
+    text-align: left !important; /* Alinhamento à esquerda */
+    font-size: 16px !important; /* Tamanho da fonte */
+    font-weight: normal !important; /* Peso do texto */
+    max-width: 550px !important; /* Largura máxima */
+    border: 2px solid #000000 !important; /* Borda preta sólida */
+    box-shadow: none !important; /* Remove sombra para evitar efeito de transparência */
+}
+
+/* Ajuste do espaçamento entre itens */
+.tooltip-inner p {
+    margin-bottom: 1px !important; /* Espaçamento entre os itens */
+}
+
+.tooltip-inner p:last-child {
+    margin-bottom: 0 !important; /* Remove margem do último item */
+}
+
+/* Estilo da seta */
+.tooltip-arrow {
+    border-color: #000000 !important; /* Cor da seta */
+    border-width: 2px !important; /* Largura da seta */
+    background-color: #ffffff !important; /* Fundo sólido da seta */
+}
+
+
+
+
+/* Ajusta o alinhamento vertical dos itens */
+.navbar-brand, .nav-link {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+/* Espaçamento entre os links */
+.navbar-nav .nav-link {
+    padding: 0 15px; /* Reduz o padding horizontal */
+    font-size: 0.95rem; /* Tamanho de fonte ajustado */
+}
+
+/* Estiliza o título da navbar */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* Estilo para links ao passar o mouse */
+.navbar-nav .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Fundo semi-transparente */
+    border-radius: 5px; /* Bordas arredondadas */
+    color: #fff;
+}
+
+.badge {
+    border-radius: 20px; /* Torna a tag oval */
+    padding: 0.4rem 0.8rem; /* Ajusta o tamanho */
+    font-size: 0.85rem; /* Fonte menor para caber mais informações */
+    text-transform: capitalize; /* Primeira letra maiúscula */
+}
+
+.badge-primary { background-color: #0d6efd; color: #fff; }
+.badge-secondary { background-color: #6c757d; color: #fff; }
+.badge-success { background-color: #198754; color: #fff; }
+.badge-danger { background-color: #dc3545; color: #fff; }
+.badge-warning { background-color: #ffc107; color: #000; }
+.badge-info { background-color: #0dcaf0; color: #000; }
+.badge-dark { background-color: #212529; color: #fff; }
+.badge-purple {
+    background-color: #800080; /* Cor roxa */
+    color: #fff; /* Cor do texto */
+}
+.text-purple {
+    color: #800080; /* Define o texto em roxo */
+}
+
+
+/* Centraliza o conteúdo das células verticalmente */
+.table td, .table th {
+    vertical-align: middle;
+}
+
+/* Ajusta o espaçamento e fonte da tabela */
+.table-sm td, .table-sm th {
+    font-size: 0.85rem;
+    padding: 0.5rem;
+}
+
+.crime-suggestions {
+    border: 1px solid #ddd;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: white;
+    position: absolute;
+    z-index: 1000;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.crime-suggestions .suggestion-item {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.crime-suggestions .suggestion-item:hover {
+    background: #f0f0f0;
+}
+
+.selected-crimes .badge {
+    margin-right: 5px;
+}
+
+
+
+.table td:first-child span {
+    display: inline-block; /* Permite que o span seja tratado como um bloco */
+    word-wrap: break-word; /* Quebra palavras longas */
+    white-space: normal; /* Permite múltiplas linhas */
+    max-width: 250px; /* Garante o limite de largura */
+}
+
+.emoji-alert {
+    font-size: 1em; /* Mantém o emoji proporcional ao texto */
+    vertical-align: middle; /* Alinha o emoji com o texto */
+}
+
+/* Para badges de fundo claro (exemplo: text-bg-warning) */
+.text-bg-warning .emoji-alert {
+    color: black; /* Contraste para fundos claros */
+}
+
+/* Para badges de fundo escuro (exemplo: text-bg-danger e text-bg-success) */
+.text-bg-danger .emoji-alert,
+.text-bg-success .emoji-alert {
+    color: white; /* Contraste para fundos escuros */
+}
+
+.table td {
+    padding: 15px 15px; /* Ajusta o padding vertical e horizontal */
+    vertical-align: top; /* Alinha verticalmente o conteúdo */
+}
+
+.custom-link {
+    text-decoration: none; /* Remove o sublinhado */
+    color: inherit; /* Mantém a cor herdada */
+}
+
+.custom-link:hover {
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse (opcional) */
+}
+
+.prazo-link {
+    margin-bottom: 8px; /* Define o espaçamento inferior entre os prazos */
+}
+
+.break-column {
+    white-space: normal; /* Permite que o texto quebre para uma nova linha */
+    word-wrap: break-word; /* Garante a quebra de palavras longas, se necessário */
+    word-break: break-word; /* Para navegadores mais antigos */
+}
+
+#graficoPrazoOMP {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+#crimes-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Para criar o espaçamento entre elementos */
+    min-height: 0; /* Certifica-se de que o container não tenha altura extra */
+    padding: 0;
+}
+
+
+    /* Ajustar a altura e estilo do campo Select2 */
+    .select2-container--default .select2-selection--single {
+        height: calc(2.25rem + 2px); /* Altura padrão dos campos Bootstrap */
+        padding: 0.1rem 0.3rem; /* Espaçamento interno padrão */
+        font-size: 1rem; /* Tamanho da fonte padrão */
+        line-height: 1.5; /* Altura da linha padrão */
+        color: #495057; /* Cor do texto padrão */
+        background-color: #fff; /* Fundo branco */
+        border: 1px solid #ced4da; /* Borda padrão */
+        border-radius: 0.25rem; /* Bordas arredondadas padrão */
+        box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.075); /* Sombra interna padrão */
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; /* Animação padrão */
+    }
+
+    /* Estilo do placeholder no Select2 */
+    .select2-container--default .select2-selection--single .select2-selection__placeholder {
+        color: #6c757d; /* Cor padrão do placeholder do Bootstrap */
+        font-style: normal; /* Fonte padrão */
+    }
+
+    /* Alteração de borda no hover para igualar ao Bootstrap */
+    .select2-container--default .select2-selection--single:hover {
+        border-color: #80bdff; /* Cor da borda ao passar o mouse */
+    }
+
+    /* Estilo ao receber foco para parecer com os campos do Bootstrap */
+    .select2-container--default.select2-container--focus .select2-selection--single {
+        border-color: #80bdff; /* Cor da borda ao focar */
+        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Sombra ao focar */
+    }
+
+    /* Estilo da seta do Select2 */
+    .select2-container--default .select2-selection--single .select2-selection__arrow {
+        height: calc(2.25rem + 2px); /* Altura igual ao campo */
+        top: 0; /* Centraliza verticalmente */
+        right: 0.75rem; /* Espaçamento à direita */
+    }
+    
+ .table-responsive {
+    border-color: #6c757d; /* Define a cor da borda externa */
+    border-width: 1px; /* Ajusta a espessura da borda externa */
+}
+
+.table tbody tr {
+    border-top: 1px solid #6c757d; /* Cor e espessura das bordas horizontais */
+    border-bottom: 1px solid #6c757d; /* Cor e espessura das bordas horizontais */
+}
+
+
+/* Destacar o bloco */
+.destaque-bloco {
+    border: 2px solid #ccc; /* Borda para destaque */
+    border-radius: 8px; /* Bordas arredondadas */
+    padding: 15px; /* Espaçamento interno */
+    margin-top: 15px; /* Espaçamento superior */
+    background-color: #f9f9f9; /* Cor de fundo leve */
+}
+
+/* Estilo para o título */
+.titulo-bloco {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 15px; /* Espaçamento inferior */
+}
+
+/* Ocultar o bloco quando necessário */
+.hidden {
+    visibility: hidden;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+
+.visible {
+    visibility: visible;
+    height: auto;
+    margin: 1rem 0; /* Define espaçamento controlado quando visível */
+    padding: 15px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+
+/* Garantir que os selects e inputs ocupem 100% do espaço da coluna */
+.form-select, 
+.form-control {
+    width: 100%; /* Certifique-se de que a largura seja 100% */
+    box-sizing: border-box; /* Inclui padding e borda na largura total */
+}
+

@@ -1,0 +1,713 @@
+﻿Tipo;Número;Situação;Origem;"Data de Instauração";Vítimas;Idades;Investigados;"Crimes e Naturezas";"Meios Empregados";RAIs;"Processos Judiciais";"Requisição do MP?";"Data da Remessa";Motivo;Escrivão
+IP;44/2021;"Enviado ao PJ com autoria";Portaria;24/02/0022;"EDUARDO RICARDO ALVES";22;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Arma de Fogo";22362103;5102035-35.2022.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;44/2020;"Enviado ao PJ com autoria";Portaria;04/07/0023;"CARLOS ANTONIO VIEIRA NASCIMENTO FILHO";20;"CONFRONTO POLICIAL (MOISES, HILLYARD E EMILIO)";"Morte por intervenção policial - Consumado";"Arma de Fogo";N/A;5417728-49.____._.__.____;NÃO;N/A;"MORTE POR INTERVEÇÃO POLICIAL";"Fernando Michel de Freitas"
+IP;116/2013;"Enviado ao PJ com pedido de arquivamento";Portaria;13/09/2013;"MAXWEL CARDOSO BORGES";30;IGNORADO;"Homicídio - Consumado";"Arma de Fogo";6518611;0151122-89.2015.8.09.0137;SIM;N/A;;Karina
+IP;131/2013;"Enviado ao PJ com pedido de arquivamento";Portaria;21/11/2013;"CRISTIANO ROSA";26;IGNORADO;"Homicídio - Consumado";"Arma de Fogo";70948582/2011;0166773-64.2015.8.09.0137;NÃO;N/A;.;"Rafaela Dallagnol Secorun"
+IP;59/2015;"Enviado ao PJ com pedido de dilação de prazo";Portaria;28/05/2015;"CARLOS HENRIQUE BERALDO DE FREITAS";31;IGNORADO;"Homicídio - Consumado";"Arma de Fogo";42/2015;0077954-20.2016.8.09.0137;NÃO;N/A;.;"Rafaela Dallagnol Secorun"
+IP;08/2018;"Enviado ao PJ com autoria";Portaria;16/05/2017;"LUCAS SILVA OLIVEIRA";17;IGNORADO;"Morte por intervenção policial - Consumado";"Arma de Fogo";5337727;0147671-51.2018.8.09.0137;NÃO;N/A;"MORTE POR INTERVENÇÃO POLICIAL";"Rafaela Dallagnol Secorun"
+IP;106/2017;"Enviado ao PJ sem autoria";Portaria;21/11/2017;"MANOEL GONÇALVES FERREIRA";60;IGNORADO;"Homicídio - Consumado";"Objeto Contundente";4724094;5593919-46.2023.8.09.0137;SIM;N/A;"BRIGA ENTRE COLEGAS FAZENDO USO DE BEBIDA ALCOÓLICA.";"Rafaela Dallagnol Secorun"
+IP;55/2018;"Enviado ao PJ com pedido de arquivamento";Portaria;03/07/2018;"JHON LENON FERNANDES COSTA";27;IGNORADO;"Homicídio - Tentado";"Arma de Fogo";6898806;5686492-06.2023.8.09.0137;NÃO;N/A;.;"Rafaela Dallagnol Secorun"
+IP;39/2019;"Enviado ao PJ com autoria";Portaria;09/09/2019;"KLAYTON CERQUEIRA SANTOS";27;"MARCOS ANDRÉ PRACIANO CARNEIRO";"Homicídio - Tentado";"Arma Branca";11816566;5565819-81.2023.8.09.0137;NÃO;31/03/2025;;"Fernando Michel de Freitas"
+IP;01/2020;"Enviado ao PJ com autoria";Portaria;13/02/2020;"ORLANDO ALVES DA SILVA";19;"ROBERTO DOS SANTOS SILVA";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"NÃO IDENTIFICADO O MOTIVO APARENTE";"Rafaela Dallagnol Secorun"
+IP;174/2020;"Apurando com autoria";APF;21/02/2020;"ROSANGELA DE AQUINO";20;"NAJAN DOS SANTOS BATISTA";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;19/2020;"Enviado ao PJ com autoria";APF;01/03/2020;"JOSE LUCAS MOURÃO ALVES";19;"CICERO FRANCISCO EUGENIO
+FERNANDA PAULA PEREIRA DA CRUZ";"Homicídio - Tentado";"Não identificado";5312849-93;N/A;NÃO;N/A;"TENTATIVA DE HOMICÍDIO";"Rafaela Dallagnol Secorun"
+IP;312/2020;"Enviado ao PJ com autoria";APF;23/03/2020;"WILSON MORAIS DE OLIVEIRA";20;"ANTONIO CARLOS LEAL RODRIGUES
+ORIVALDO MARITNS SILVA FILHO";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;03/2020;"Enviado ao PJ com autoria";APF;25/03/2020;"EMANUELLE SOUZA BATISTA";20;"LUANA(MENOR)
+PAULO VITOR XAVIER";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;337/2020;"Apurando com autoria";APF;31/03/2020;"JOAO BATISTA DA SILVA";20;"EZIO ALENCAR DA SILVA";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;350/2020;"Enviado ao PJ com pedido de arquivamento";APF;02/04/2020;"AMARIO MARTINS DA SILVA";20;"FELIPE AUGUSTO LIMA DE OLIVEIRA";"Homicídio - Tentado";"Não identificado";0290646-77;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO/TENTATIVA DE HOMICÍDIO";"Rafaela Dallagnol Secorun"
+IP;369/2020;"Enviado ao PJ com autoria";APF;07/04/2020;"WANDERSON FERREIRA DA SILVA";20;"FRANCISCO ELTON DO NASCIMENTO";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;16/2020;"Enviado ao PJ com pedido de dilação de prazo";APF;24/04/2020;"ALMIR AUGUSTO DE SOUZA FERREIRA
+PATRICIA DE SOUZA VIANA";20;IGNORADO;"Homicídio - Consumado
+Homicídio - Tentado";"Não identificado";5578327-59;N/A;NÃO;N/A;"HOMICIDIO E TENTATIVA DE HOMICIDIO";"Rafaela Dallagnol Secorun"
+IP;04/2020;"Apurando com autoria";APF;30/04/2020;"JACKSON BORGES SOUZA";20;"REVIS MARTINS DA SILVA";"Homicídio - Tentado";"Não identificado";5197881.50;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;520/2020;"Apurando com autoria";APF;05/05/2020;"ANGELA SILVA JUSTINO";19;"ALTIERES BRUNO SILVA";"Feminicídio - Consumado";"Não identificado";N/A;;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;530/2020;"Apurando com autoria";APF;13/05/2020;"ROZENILDA PEREIRA GUIMARAES";20;"LUCAS CRUZ DA SILVA";"Homicídio - Tentado";"Não identificado";N/A;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO/TENTATIVA DE HOMICIDIO";"Rafaela Dallagnol Secorun"
+IP;11/2020;"Enviado ao PJ com autoria";APF;15/05/2020;"ROBERVAL PEREIRA";50;"CICERO NEVES DA SILVA
+DENES DUNGA LOPES DA SILVA
+FRANCISCO ALVES DOS SANTOS";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;18/2020;"Enviado ao PJ com pedido de arquivamento";APF;21/05/2020;"RAFAEL SOUSA TEIXEIRA";19;"EVANDIR JUNIO OLIVEIRA SILVA";"Homicídio - Consumado";"Não identificado";5233510-85;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;08/2020;"Enviado ao PJ com autoria";APF;30/05/2020;" LEANDRO SOUZA NASCIMENTO 
+FERNANDA ALMEIDA DE LIMA ";20;"LEANDRO SOUZA NASCIMENTO";"Feminicídio - Consumado
+Suicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;21/2020;"Apurando com autoria";APF;31/05/2020;"ANTONIO JOSE DOS SANTOS";20;IGNORADO;"Homicídio - Consumado";"Não identificado";N/A;;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;654/2020;"Apurando com autoria";APF;09/06/2020;"LUIS CARLOS MARQUES DE OLIVEIRA";20;"EDIMILSON FERNANDES DOS SANTOS";"Homicídio - Tentado";"Não identificado";5249647-45;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;22/2020;"Enviado ao PJ com pedido de arquivamento";APF;13/06/2020;"ALTINO DE OLIVEIRA JUNIOR";20;IGNORADO;"Homicídio - Consumado";"Não identificado";N/A;;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;678/2020;"Enviado ao PJ com autoria";APF;15/06/2020;"ROGERIO SOARES DA SILVA";20;"ANTONIO NERES DA SILVA";"Homicídio - Tentado";"Não identificado";N/A;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";Karina
+IP;743/2020;"Enviado ao PJ com autoria";APF;29/06/2020;"ALEX DE SOUSA";20;"ANTONIO FERNANDES DE SOUSA";"Homicídio - Tentado";"Não identificado";5298907-91;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;245/2020;"Apurando com autoria";APF;30/06/2020;"MARLOS CLEI DA SILVA MENDES";20;"FRANCISCO DAS CHAGAS LULA COSTA";"Homicídio - Tentado";"Não identificado";5314719-76;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;752/2020;"Enviado ao PJ com autoria";APF;01/07/2020;"JOSE FABIANO CAETANO";20;"CAIO FLAVIO SCHREINER ANTUNES FILHO
+WELITON ARAUJO SILVA";"Homicídio - Consumado";"Não identificado";5301305-11;N/A;NÃO;N/A;HOMICIDIO;"Fernando Michel de Freitas"
+IP;816/2020;"Enviado ao PJ com autoria";APF;20/07/2020;" JACOB PAES DE OLIVEIRA JUNIOR
+JACOB PAES DE OLIVEIRA ";"25
+65";"ROBSON ROSA REZENDE";"Homicídio - Consumado";"Arma Branca";N/A;5352101-06.2020.8.09.0137;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;868/2020;"Enviado ao PJ com autoria";APF;04/08/2020;"JOSÉ CÍCERO MACENA";20;"DELIOMAR DA SILVA PEREIRA
+GRENDO WASHINGTON DE JESUS";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;27/2020;"Enviado ao PJ com autoria";APF;12/08/2020;"JOSE RUBENS DA SILVA FILHO";30;"JOSE CARLOS VIEIRA DA SILVA";"Homicídio - Consumado";"Arma Branca";15771240;5368893-35.2020.8.09.0137;NÃO;N/A;"HOMICÍDIO/MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;904/2020;"Enviado ao PJ com autoria";APF;12/08/2020;"ANTONIO SEBASTIÃO PRACHEDE FERREIRA
+JOAO VICTOR LOPES PRACHEDE FERREIRA ";"18
+39";"LEONARDO PEREIRA SAMPAIO";"Tentativa de Homicidio  - Tentado";"Arma de Fogo";15859659;5377489-08.2020.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;31/2020;"Enviado ao PJ com autoria";APF;26/08/2020;"MATEUS BAUER DIAS DA SILVA";20;"JADIELSON GUEDES DOS SANTOS
+JARDIEL GUEDES DOS SANTOS";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"HOMICIDIO/ENCAMINHADO A DEPAI/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Fernando Michel de Freitas"
+IP;02/2020;"Enviado ao PJ com pedido de dilação de prazo";Portaria;29/08/2020;"MARCELO APARECIDO PEREIRA DOS SANTOS";44;IGNORADO;"Homicídio - Consumado";"Arma de Fogo";5569131-65;N/A;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;956/2020;"Enviado ao PJ com autoria";APF;07/09/2020;"BRUNO RAFAEL DIAS DA SILVA";20;"GESIEL SILVA BORGES";"Tentativa de Homicidio  - Consumado";"Não identificado";5415786.84;N/A;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA PROVOCAR O CRIME";"Rafaela Dallagnol Secorun"
+IP;992/2020;"Enviado ao PJ com autoria";APF;09/09/2020;"DAVI LUCAS ALVES";20;"WISLEY SERAFIM DOS SANTOS";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Fernando Michel de Freitas"
+IP;33/2020;"Enviado ao PJ com autoria";APF;10/09/2020;"DAVI LUCAS ALVES";20;"JOYCE ALVES MACHADO";"Tortura - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Fernando Michel de Freitas"
+IP;1041/2020;"Enviado ao PJ com autoria";APF;10/09/2020;"INCOLUMIDADE PUBLICA";20;"EDNEY CORDEIRO SOARES";"Porte de arma de fogo - Consumado";"Não identificado";5453429.76;N/A;NÃO;N/A;"POSSE DE ARMA DE FOGO";"Fernando Michel de Freitas"
+IP;1035/2020;"Enviado ao PJ com autoria";APF;19/09/2020;"JOAO PEDRO OLIVEIRA SOUSA";20;"BRUNO MANOEL CARVALHO DA SILVA
+RODRIGO VIEIRA MENDONÇA";"Tentativa de Homicidio  - Consumado";"Não identificado";5453211-48;N/A;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;1065/2020;"Enviado ao PJ com autoria";APF;30/09/2020;"ADRIANO DE JESUS CHAVES";20;"LORRAN MENDES SILVA";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Fernando Michel de Freitas"
+IP;46/2020;"Enviado ao PJ com autoria";APF;08/10/2020;"INCOLUMIDADE PUBLICA";19;"CIDIVALDO MOREIRA DE JESUS";"Porte de arma de fogo - Consumado";"Arma de Fogo";13412087;5500330-05.2020.8.09.0137;NÃO;N/A;"NÃO IDENTIFICADO O MOTIVO APARENTE";"Rafaela Dallagnol Secorun"
+IP;1125/2020;"Enviado ao PJ com autoria";APF;15/10/2020;"JOSE AIRTON RODRIGUES FILHO";20;"JOSIEL ROBERTO FERREIRA OLIVEIRA";"Tentativa de Homicidio  - Consumado";"Não identificado";N/A;5491416-49.2020.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;1148/2020;"Enviado ao PJ com autoria";APF;19/10/2020;"IGOR SILVA FARIA";20;"LUISLEI FERREIRDA DA COSTA";"Tentativa de Homicidio  - Consumado";"Não identificado";N/A;5501112-12.2020.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;1180/2020;"Enviado ao PJ com autoria";APF;26/10/2020;"BRUNNER JULIANO CABRAL SILVA";20;"EDIVALDO FERREIRA LIMA";"Tentativa de Homicidio  - Consumado";"Não identificado";5512572.93;5512572-93.2020.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;1200/2020;"Enviado ao PJ com autoria";APF;28/10/2020;"JOSE VITORIO FERREIRA MARQUES";20;"JOAO PEDRO BONINO DOS SANTOS
+MAYLON ANDRE FERNANDES (MENOR)";"Homicídio - Consumado";"Não identificado";N/A;5518858-87.2020.8.09.0137;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Fernando Michel de Freitas"
+IP;1205/2020;"Enviado ao PJ com autoria";APF;28/10/2020;"DELCIMAR TELES DE QUEIROZ";40;"MILTON GONDIM DA SILVA";"Homicídio - Tentado";"Não identificado";N/A;5526036-87.2020.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;39/2020;"Apurando com autoria";Portaria;30/10/2020;"ACACIO BATISTA FELIPE";43;IGNORADO;"Homicídio - Consumado";"Arma de Fogo";16897189;5074699-90.____._.__.____;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;30/2020;"Enviado ao PJ com autoria";APF;13/11/2020;"MATHEUS BAUHER FERREIRA SILVA";20;"GABRIEL FERREIRA SILVA";"Tentativa de Homicidio  - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;1280/2020;"Enviado ao PJ com autoria";APF;13/11/2020;"DANIEL PIRES DE SOUSA FILHO";40;"EDIVALDO SOUSA FELIX
+UIS FERNANDO SOUSA DIAS (MENOR)";"Homicídio - Consumado";"Não identificado";N/A;5558067-63.2020.8.09.0137;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;1343/2020;"Enviado ao PJ com autoria";APF;22/11/2020;"WESLEY FRANCO DE LIMA";20;"CARLOS EDUARDO MARTINS BERNARDES
+ISMAEL PEREIRA LIMA
+RAQUEL PEREIRA LIMA";"Homicídio - Consumado";"Não identificado";N/A;;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;1325/2020;"Enviado ao PJ com autoria";APF;25/11/2020;"LEANDRO PEREIRA SILVA";20;"MAYCON PEREIRA DA SILVA
+WARLEY DA SILVA GOMES (MENOR)";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;1371/2020;"Enviado ao PJ com autoria";APF;07/12/2020;" WELLINGOTN SILVEIRO DA SILVA
+LUCAS BENTO TAVARES e WELLINGOTN SILVEIRO DA SILVA";20;"CARLOS AUGUSTO DOS SANTOS PINTO JUNIOT
+PAULO HENRIQUE DA CRUZ SOUSA";"Tentativa de Homicidio  - Consumado";"Não identificado";N/A;5610112-44.2020.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;51/2020;"Enviado ao PJ com autoria";APF;20/12/2020;"RIVADAVIO DA CONCEIÇÃO ARAUJO";30;"ANTONIO J. BARBAOSA DE LIMA
+EDVAN CICERO DOS SANTOS
+HELLRY JHEYSON DE SOUZA SILVA";"Homicídio - Consumado";"Não identificado";N/A;5683959-11.2022.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;45/2020;"Enviado ao PJ com pedido de arquivamento";Portaria;21/12/2020;"JOAO PEDRO GONÇALVES DOS PASSOS";20;"JARDEL KNOP DE ALMEIDA";"Tentativa de Homicidio  - Consumado";"Não identificado";N/A;5626945-50.2020.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;1449/2020;"Enviado ao PJ com autoria";APF;28/12/2020;"WEDSON REIS DE OLIVEIRA";20;"EVERALDO BATISTA DE OLIVEIRA";"Tentativa de Homicidio  - Consumado";"Não identificado";" 5655353.41";N/A;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;50/2020;"Enviado ao PJ com autoria";APF;29/12/2020;"LEANDRO GARCIA SOUSA";40;IGNORADO;"Homicídio - Consumado";"Objeto Contundente";N/A;N/A;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;02/2022;"Apurando com autoria";Portaria;02/01/2021;"GUILHERME DE OLIVEIRA SOUZA
+THAIS MICHELE SANTOS FERREIRA";"22
+25";"PEDRO HENRIQUE CABRAL COELHO
+TIAGO CABRAL COELHO";"Homicídio - Tentado";"Arma de Fogo";22743660;;NÃO;N/A;"AS VITIMAS E AUTORES SAO VIZINHOS E OS VIZINHOS INVADIRAM A CASA DA VITMA E QUEBRARAM MOVEIS";"Rafaela Dallagnol Secorun"
+IP;27/2021;"Enviado ao PJ com autoria";APF;13/01/2021;"MARCIO HENRIQUE OLIVEIRA SILVA";30;"ALTAY ARANTES ALVES DA CONCEIÇÃO (MENOR)
+DANILO
+NATIA MARIA RIBEIRO DA SILVA
+VINICIUS
+VITOR RODRIGUES DUARTE";"Homicídio - Consumado";"Arma de Fogo";17746376;5001121-94.2021.8.09.0137;NÃO;N/A;"HOMICIDIO/DISCUSSAO FAMILIAR";"Fernando Michel de Freitas"
+IP;53/2021;"Enviado ao PJ com autoria";APF;19/01/2021;"JANE ANDRADE DE OLIVEIRA
+VANESSA DE SOUZA NASCIMENTO";29;"DIONE ROUDENBERGUE VIANA DINIZ";"Tentativa de Homicidio  - Tentado";"Não identificado";17823038;5007373-16.2021.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;82/2021;"Enviado ao PJ com autoria";APF;22/01/2021;"MARCIA CRISTINA SOUZA PAULINO";29;"RAFAEL RODRIGUES NOGUEIRA";"Tentativa de Homicidio  - Tentado";"Não identificado";17884804;5018001-64.2021.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;106/2021;"Enviado ao PJ com autoria";APF;28/01/2021;"WIGNER BRITO ALVES LEITE";17;"FELIPE FERREIRA DOS SANTOS";"Tentativa de Homicidio  - Tentado";"Arma Branca";17953395;5027637-54.2021.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Fernando Michel de Freitas"
+IP;150/2021;"Enviado ao PJ com autoria";APF;28/01/2021;"JOSE CARLOS DA SILVA JUNIOR 
+MATUES SOUSA CUNHA
+NEILTON DA SILVA COELHO 
+RAFAEL FRANCESCATO DE LIMA";28;"LUIZ CARLOS FERREIRA";"Homicídio - Consumado
+Lesão Corporal - Consumado";"Não identificado";N/A;;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Fernando Michel de Freitas"
+IP;06/2021;"Apurando com autoria";Portaria;30/01/2021;"THIAGO PEDRO FERREIRA";32;IGNORADO;"Homicídio - Consumado";"Arma de Fogo";18069303;5616632-83.2021.8.09.0137;NÃO;N/A;"VÍITIMA NAO TEM PASSAGEM E FOI ENCONTRADA EM UMA ESTRADA DE TERRA COM DOIS DISPAROS DE ARMA DE FOGO NA REGIÃO DA CABEÇA.";"Fernando Michel de Freitas"
+IP;47/2020;"Enviado ao PJ com autoria";Portaria;06/02/2021;"HIGOR MESSIAS SOARES 
+JOSE CARLOS ARANTES DA SILVA ";20;IGNORADO;"Homicídio - Consumado
+Homicídio - Tentado";"Arma de Fogo";17305139;5686402-66.2021.8.09.0137;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Fernando Michel de Freitas"
+IP;49/2020;"Enviado ao PJ com autoria";APF;09/02/2021;"IDELFRAN CORREIA DOS SANTOS";20;IGNORADO;"Homicídio - Consumado";"Não identificado";5030375.36;N/A;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;191/2021;"Enviado ao PJ com autoria";APF;16/02/2021;"UBIRAJARA SILVA DOS SANTOS";52;"DIEGO RODRIGUES SILVA
+UANDERSON SOARES DA SILVA";"Homicídio - Consumado";"Arma Branca";18159387/18171620;5056723-70.2021.8.09.0137;NÃO;N/A;"HOMICIDIO/BRIGA POR CAUSA DE DROGAS";"Fernando Michel de Freitas"
+IP;211/2021;"Enviado ao PJ com autoria";APF;18/02/2021;"WASHINGTON OLIVEIRA ALVES";37;"GILDO SANTOS";"Tentativa de Homicidio  - Tentado";"Arma Branca";18230923;5068327-28.2021.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE IDENTIFICADO COMO BRIGA DE VIZINHOS";"Rafaela Dallagnol Secorun"
+IP;222/2021;"Enviado ao PJ com autoria";APF;22/02/2021;"MARCOS NOGUEIRA REZENDE";45;"ANDERSON RIBEIRO SILVA";"Tentativa de Homicidio  - Tentado";"Arma Branca";18261003;5070771-34.2021.8.09.0137;NÃO;N/A;"MOTIVO APARENTE BRIGA FAMILIAR";"Fernando Michel de Freitas"
+IP;1011/2020;"Enviado ao PJ com autoria";APF;25/02/2021;"JAILSON ALVES DOS SANTOS";20;"ANTONIO LINHARES DA SILVA";"Tentativa de Homicidio  - Consumado";"Não identificado";5443430-02;N/A;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;270;"Enviado ao PJ com autoria";APF;05/03/2021;"LAILTON DA SILVA SANTOS";20;"EDUARDO JOSÉ CABRAL
+LUCAS CAMARGO RODRIGUES ROCHA";"Tentativa de Homicidio  - Tentado";"Arma de Fogo";18422773;5093421-75.2021.8.09.0137;NÃO;N/A;"IDENTIFICOU-SE A EXISTÊNCIA DE DESAFETOS NO AMBIENTE  INTERPESSOAIS ENTRE OS COLABORADORES";"Rafaela Dallagnol Secorun"
+IP;270/2021;"Enviado ao PJ com autoria";APF;05/03/2021;"LAILTON DA SILVA SANTOS";20;"EDUARDO JOSÉ CABRAL
+LUCAS CAMARGO RODRIGUES ROCHA";"Homicídio - Tentado";"Arma de Fogo";18422773;5093421-75.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;11/2021;"Enviado ao PJ com autoria";Portaria;07/03/2021;"NATANAEL ALMEIDA FERREIRA JUNIOR";20;"ANTONIO JOSE DOS SANTOS FILHO (MENOR)
+GABRIEL, OLIVEIRA SILVA (MENOR)
+LEOSMAR ALVES DE JESUS FILHO (MENOR)
+MIKAEL VITOR SILVA REIS (MENOR)";"Homicídio - Consumado";"Não identificado";N/A;;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;1261/2020;"Enviado ao PJ com autoria";APF;11/03/2021;"RONY EVANDRO SERRÃO MACEDO";20;"VALDECI DE SOUZA SANTOS";"Tentativa de Homicidio  - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;04/2021;"Enviado ao PJ com autoria";Portaria;15/03/2021;"MARCOS TADEU FREDERICO SEVERO";29;IGNORADO;"Tentativa de Homicidio  - Tentado";"Arma Branca";17737349;;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE DESENTENDIMENTO";"Rafaela Dallagnol Secorun"
+IP;10/2021;"Enviado ao PJ com autoria";Portaria;18/03/2021;"EDIMAR PEREIRA DA SILVA JUNIOR";30;"ANDRÉ DA SILVA ARAUJO
+JOAO VITOR BARBOSA DA SILVA MENEZES
+PAULA CRISTINA ALVES PAGLIARINI";"Tentativa de Homicidio  - Tentado";"Não identificado";18045605;5077581-25.2021.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;324/2021;"Enviado ao PJ com autoria";APF;19/03/2021;"ANDREY MARTINS OLIVEIRA DA SILVA";19;"MARIA DO SOCORRO DELFINO DE LIMA";"Tentativa de Homicidio  - Tentado";"Não identificado";5122105.10;5122105-10.2021.8.09.0137;NÃO;N/A;"NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;13/2021;"Apurando com autoria";Portaria;22/03/2021;"LUCIO ADRIANO SCHNEIDER";39;IGNORADO;"Homicídio - Tentado";"Não identificado";N/A;;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;07/2021;"Enviado ao PJ com autoria";Portaria;30/03/2021;"UELTON DA SILVA AMARAL";29;"DENNYS WILKER PEREIRA ARAUJO
+GLEICE LIMA DA SILVA
+LUCELIA PIRES DE LIMA
+RIBAMAR SOUSA ROSA (MENOR)
+SIRO FERREIRA DA SILVA";"Homicídio - Consumado";"Arma de Fogo";1816608;5104694-51.2021.8.09.0137;NÃO;N/A;"DISCUSSAO POR CAUSA DA COMPRA DE UM APARELHO CELULAR/VÍTIMA FOI ALVEJADA NO INTERIOR DE SUA RESIDENCIA, POR DISPAROS DE ARMA DE FOGO, SENDO QUE TRES PESSOAS DESCERAM DE UM CARRO, FIAT/UNO, DOIS HOMENS E UMA MULHER, E EFETURAM O DISPAROS DE VITIMA";"Fernando Michel de Freitas"
+IP;15/2021;"Enviado ao PJ com autoria";Portaria;07/04/2021;"GABRIEL FRANKLIN MARQUES DE AGUIAR";20;"PABLO HENRIQUE RIBEIRO DA SILVA
+RIBAMAR SOUSA ROSA (MENOR)";"Homicídio - Consumado";"Não identificado";5156262-09;5156262-09.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;16/2021;"Enviado ao PJ com autoria";Portaria;14/04/2021;"GEOVANE FERREIRA DE PAIVA";20;IGNORADO;"TENTATIVA DE LATROCINIO - Tentado";"Não identificado";N/A;N/A;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;318/2020;"Apurando com autoria";APF;16/04/2021;"GELCI VIAN";40;"NELSON PEREIRA DE OLIVEIRA";"Homicídio - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;468/2021;"Enviado ao PJ com autoria";APF;18/04/2021;"HELIANE MONTEIRO DOS SANTOS
+JOCIEL SOUSA DE JESUS";20;"WAGNER ADRIANO CABRAL";"Tentativa de Homicidio  - Tentado";"Não identificado";N/A;;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;17/2021;"Enviado ao PJ com autoria";Portaria;19/04/2021;"LEANDRO RODRIGUES DE OLIVEIRA";20;"ALDAIR SILVA DE SOUZA";"Homicídio - Consumado";"Não identificado";;5190838-28.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;19/2021;"Enviado ao PJ com autoria";Portaria;21/04/2021;"ISAEL DA SILVA SANTOS";20;"DIEGO DA SILVA";"Tentativa de Homicidio  - Tentado";"Não identificado";;5195032-71.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;451/2021;"Enviado ao PJ com autoria";APF;23/04/2021;"FABYANNA NEVES DA SILVA";20;"MAURUZAN FIRMIANO DA SILVA";"Tentativa de Homicidio  - Tentado";"Não identificado";;5180406-47.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;45/2021;"Enviado ao PJ com autoria";APF;29/04/2021;"MILLER REZENDE DE SOUZA";22;"CONFRONTO POLICIAL";"Homicídio - Consumado";"Arma de Fogo";N/A;5247984-90.2022.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;21/2021;"Apurando com autoria";Portaria;29/04/2021;"NEYVAN NERY DA SILVA";39;"RENE GOMES DOS SANTOS";"Homicídio - Tentado";"Não identificado";N/A;;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;48/2021;"Apurando com autoria";APF;29/04/2021;"CHARLES GOUVEIA FERREIRA";30;"JOAO VICTOR LOPES PRECHEDES FERREIRA";"Homicídio - Tentado";"Não identificado";N/A;N/A;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;512/2021;"Enviado ao PJ com pedido de arquivamento";APF;01/05/2021;"LAZARO MARTINS GOMES";20;"HELIO MARTINS GOMES";"Tentativa de Homicidio  - Consumado";"Não identificado";2130608-72.021;N/A;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;18/2021;"Apurando crime a esclarecer";Portaria;04/05/2021;" YAGO LEMOS BARRETO
+ELIVAN SOARES SILVA
+VITOR RODRIGUES DE OLIVEIRA";20;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Não identificado";N/A;5306529-90.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;595/2021;"Enviado ao PJ com autoria";APF;21/05/2021;" RICARDO CAUAN LINS DOS SANTOS
+VALDEMIR FERREIRA DOS SANTOS";20;"GERALDO LOPES DA SILVA
+SEBASTIÃO ANTONIO DA COSTA
+UEBERTON MENDES SENA";"Tentativa de Homicidio  - Tentado";"Não identificado";N/A;;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;621/2021;"Enviado ao PJ com autoria";APF;30/05/2021;"LEONARDO MACHADO BARBOSA";20;"ELIENE GOMES DE JESUS";"Tentativa de Homicidio  - Tentado";"Não identificado";N/A;;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;12/2021;"Enviado ao PJ com autoria";Portaria;03/06/2021;"DARLAN MAGALHÃES VILELA";20;"DANILO MIGUEL DOS ANJOS
+SIDINEY RODRIGUES DA CUNHA SILVA
+VALTER JUNIOR DE SOUSA";"Tentativa de Homicidio  - Tentado";"Não identificado";5220706.51;5220706-51.2021.8.09.0137;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;467/2021;"Enviado ao PJ com autoria";APF;09/06/2021;"NATANAEL FERREIRA";20;"AURELIANO MAIA DE OLIVEIRA
+DIEGO HENRIQUE ALVES PIRES
+MARCIO MAIA OLIVEIRA";"Homicídio - Consumado";"Não identificado";;5187866-85.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;520/2021;"Enviado ao PJ com autoria";APF;11/06/2021;"CARLOS ALEXANDRE ALMEIDA OLHER";20;"JEHANRIER JUNIOR BIOLCHI";"Tentativa de Homicidio  - Consumado";"Não identificado";;5212734-30.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;675/2021;"Enviado ao PJ com pedido de arquivamento";APF;21/06/2021;"FRANCISCO JORGE SUNÇÃO DE SOUSA";20;"MARCOS ANTÔNIO DE MATOS";"Tentativa de Homicidio  - Consumado";"Não identificado";;5291833-49.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;622/2021;"Enviado ao PJ com autoria";APF;28/06/2021;"ANDERSON DONIZETE CAMPOS";20;"FRANCISCO EUDES DO NASCIMENTO";"Tentativa de Homicidio  - Tentado";"Não identificado";;5268344-80.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;1308/2020;"Enviado ao PJ com autoria";APF;07/07/2021;"ALACI GONÇALVES SANTIAGO";20;"RODRIGO LAABS";"Tentativa de Homicidio  - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME/REMETIDO DIA 19/11/2020";"Rafaela Dallagnol Secorun"
+IP;753/2021;"Enviado ao PJ com autoria";APF;11/07/2021;"JESSE DA SILVA LIMA";30;"WESLEY FERREIRA DA SILVA";"Homicídio - Tentado";"Não identificado";N/A;;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;28/2021;"Apurando com autoria";APF;12/07/2021;"EVERALDO HERMINIO DOS SANTOS";39;IGNORADO;"Homicídio - Tentado";"Não identificado";N/A;;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;29/2021;"Apurando com autoria";Portaria;20/07/2021;"JOSE RUBSON DE OLIVEIRA";39;IGNORADO;"Outros - Consumado";"Não identificado";N/A;;NÃO;N/A;"ENCONTRO DE CADAVER";"Rafaela Dallagnol Secorun"
+IP;774/2021;"Enviado ao PJ com autoria";APF;23/07/2021;"ITOR JUNIOR PIRES";20;"ANDRE LUIZ GONÇALVES
+DOUGLAS SANTOS SOUZA";"Tentativa de Homicidio  - Tentado";"Não identificado";;5364259-59.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;22/2021;"Enviado ao PJ com autoria";Portaria;30/07/2021;"ALISSON DOS SANTOS SILVA";20;"DANYEL LUCAS SANTOS AMORIM";"Homicídio - Consumado";"Não identificado";;5224034-86.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;17/2020;"Enviado ao PJ com autoria";Portaria;17/08/2021;"FILIPE VILELA DE OLIVEIRA";20;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Arma de Fogo";;5212162-41.2021.8.09.0051;NÃO;N/A;"MORTE POR INTERVENÇÃO POLICIAL/CONFRONTO POLICIAL";"Fernando Michel de Freitas"
+IP;860/2021;"Enviado ao PJ com autoria";APF;17/08/2021;"NEILTON GUILHERME PAZ FILHO";27;"TIAGO DA SILVA SANTOS";"Tentativa de Homicidio  - Tentado";"Arma Branca";20613530;5408779-07.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;33/2021;"Enviado ao PJ com autoria";APF;25/08/2021;"DANILO JESUS DOS SANTOS";27;"GENIVALDO RODRIGUES DOS SANTOS";"Tentativa de Homicidio  - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;32/2021;"Enviado ao PJ com autoria";APF;25/08/2021;"PAULIANA DUARTE DA SILVA";27;IGNORADO;"Suicídio - Consumado";"Não identificado";;5444424-93.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;34/2020;"Enviado ao PJ com autoria";APF;31/08/2021;" LUCILA CARRIJO DE OLIVEIRA
+ADRIEL JERRE MOREIRA SOARES ";20;"RENATO DIAS CANDIDO";"Tentativa de Homicidio  - Consumado";"Não identificado";;5456311-74.2021.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;"   	 41/2020";"Enviado ao PJ com autoria";APF;14/09/2021;"MAICON DOS SANTOS OLIVEIRA";20;"SILVANILSON DIAS SOARES";"Lesão Corporal - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;41/2020;"Enviado ao PJ com autoria";APF;14/09/2021;"MAICON DOS SANTOS OLIVEIRA";20;"SILVANILSON DIAS SOARES";"Lesão Corporal - Consumado";"Não identificado";N/A;5478996-75.2022.8.09.0158;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;31/2021;"Enviado ao PJ com autoria";APF;22/09/2021;"EVANDRO TIBA SANTOS";30;"JOSE FABIO DOS SANTOS";"Homicídio - Consumado";"Não identificado";;5423385-40.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;41/2021;"Enviado ao PJ com autoria";Portaria;28/09/2021;"YAGO NUNES DE OLIVEIRA";28;IGNORADO;"Morte por intervenção policial - Consumado";"Arma de Fogo";21361600;5665140-60.2021.8.09.0137;NÃO;14/12/2021;"CONFRONTO POLICIAL";"Fernando Michel de Freitas"
+IP;40/2021;"Enviado ao PJ com pedido de arquivamento";Portaria;28/09/2021;"JOSE RIBAMAR AZEVEDO";30;"LASARO BATISTA SILVEIRA";"Tentativa de Homicidio  - Tentado";"Arma de Fogo";21218709;5488099-09.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;09/2021;"Enviado ao PJ com autoria";Portaria;30/09/2021;"PEDRO EMILIO DE ARAUJO";66;"NUBIA CHRISTINE ARANTES PRADO";"Tentativa de Homicidio  - Tentado";Fogo;17838672/18125820;5120475-16.2021.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE DESENTENDIMENTO";"Rafaela Dallagnol Secorun"
+IP;1051/2021;"Enviado ao PJ com autoria";APF;01/10/2021;"JOSE RIBAMAR AZEVEDO";30;"EVANDRO MENDES DE SOUSA";"Tentativa de Homicidio  - Tentado";"Não identificado";21218709;5496629-02.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;1066/2021;"Enviado ao PJ com autoria";APF;06/10/2021;"PEDRO RODRIGUES MACHADO";68;"CLAUDIA RODRIGUES VIEIRA";"Tentativa de Homicidio  - Tentado";"Arma Branca";21343539;5505585-07.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;38/2021;"Enviado ao PJ com pedido de arquivamento";Portaria;08/10/2021;"ALESSANDRA
+GEOVANE FERREIRA DE PAIVA";29;"MILTON BERNARDES DA SILVA NETO";"Homicídio - Consumado";"Arma de Fogo";21173034;5500729-97.2021.8.09.0137;NÃO;N/A;"VÍTIMA É TRANSEXUAL E APÓS REALIZAR UM PROGRAMA SEXUAL COM O AUTOR, ESTE VOLTOU AO LOCAL ONDE A DEIXOU E EFETUOU UM DISPARO DE ARMA DE FOGO EM SEU ROSTO";"Fernando Michel de Freitas"
+IP;1084/2021;"Enviado ao PJ com autoria";APF;08/10/2021;"MARCELO DOS SANTOS SOUSA";20;"WELLYSSON ARAÚJO DE SOUZA";"Homicídio - Consumado";"Não identificado";N/A;5517376-70.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;14/2021;"Enviado ao PJ com autoria";Portaria;09/10/2021;"ULISSES ACACIO MOREIRA";20;"Jorsimar Dias dos Reis";"Tentativa de Homicidio  - Tentado";"Não identificado";18696258;5675402-98.2023.8.09.0137;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;35/2021;"Enviado ao PJ com autoria";Portaria;27/10/2021;"HEVELYN MONTINE SANTOS";30;"SAULO DIOLINO DA SILVA NETO";"Homicídio - Consumado";"Arma de Fogo";5562383-85;N/A;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;20/2021;"Enviado ao PJ com autoria";Portaria;29/10/2021;"EDMUNDO RAMOS ALVES DE OLIVEIRA";40;"JOSUE BRITO BRAGA";"Tentativa de Homicidio  - Tentado";"Não identificado";5334953-45;;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;1079/2021;"Enviado ao PJ com autoria";APF;03/11/2021;"RAIMUNDO JOSÉ ARAUJO DE SOUZA";50;"JOÃO MARTINS FILHO";"Tentativa de Homicidio  - Tentado";"Não identificado";N/A;5514912-73.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;37/2021;"Enviado ao PJ com autoria";APF;05/11/2021;"ROSINEIDE NASCIMENTO";20;"FRANCISCO ASSIS JERONIMO";"Feminicídio - Consumado";"Não identificado";21054411;5524747-85.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;1197/2021;"Enviado ao PJ com autoria";APF;05/11/2021;"CARLOS RODRIGUES DOS SANTOS SOBRINHO";30;"ALEX NUNES DA SILVA";"Tentativa de Homicidio  - Tentado";"Não identificado";N/A;5570739-69.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;1209/2021;"Enviado ao PJ com autoria";APF;09/11/2021;"ANDERSON RAMON SOUSA BORGES
+DIVINO JOHNNY PEREIRA BORGES";30;"ANA PAULA GUEDES DE SOUSA BORGES
+ANDERSON RAMON SOUSA BORGES
+JOSE JOSIMAR GUILHERME DA SILVA";"Homicídio - Consumado
+Tentativa de Homicidio  - Tentado";"Não identificado";21836942;5571974-71.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;37/2020;"Enviado ao PJ com pedido de arquivamento";Portaria;19/11/2021;"MAICON EVANIR BEZ BETTI";20;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Arma de Fogo";N/A;5608626-87.2021.8.09.0137;NÃO;N/A;"CONFRONTO POLICIAL";"Fernando Michel de Freitas"
+IP;34/2021;"Enviado ao PJ com autoria";APF;22/11/2021;"RICARDO ROSA SOUZA";27;"DANILO SOUZA XAVIER";"Tentativa de Homicidio  - Tentado";"Não identificado";" 5312451-39";N/A;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;1351/2021;"Enviado ao PJ com autoria";APF;10/12/2021;"HANGRA BARBOSA ALVES DE LIMA";22;"IVON KELLYSON FERREIRA DE FREITAS";"Feminicídio - Consumado";"Não identificado";N/A;5635287-06.2021.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;23/2021;"Enviado ao PJ com autoria";APF;14/12/2021;"JAIR ANTONIO DA COSTA";30;"DARLAN MAGALHAES VILELA";"Homicídio - Consumado";"Não identificado";19264411;5376022-57.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;08/2021;"Enviado ao PJ com autoria";Portaria;15/12/2021;"EMILY BORGES DE LELIS";15;"EDIMAR PEREIRA DA SILVA JUNIOR
+NATANAEL BORGES SOUSA";"Tentativa de Homicidio  - Tentado";"Arma de Fogo";17253372;5283000-42.0218.0.90.137_;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;1398/2021;"Enviado ao PJ com autoria";APF;16/12/2021;" LUCIANO VIEIRA DE OLIVEIRA
+WISLEY BARBOSA DA COSTA";22;"VITOR HUGO CAMPOS LIMA";"Tentativa de Homicidio  - Tentado";"Não identificado";N/A;N/A;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;1402/2021;"Enviado ao PJ com autoria";APF;17/12/2021;"EVERSON GUILHERME PEREIRA RIBEIRO";30;"MATEUS TEIXEIRA SILVA";"Tentativa de Homicidio  - Tentado";"Não identificado";N/A;5659114-46.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;1410/2021;"Enviado ao PJ com autoria";APF;17/12/2021;"ELIELTON NUNES 
+SARA CRISTINA BISPO SOUSA";"22
+23";"JOHNY LIMA MARQUES DE OLIVEIRA";"Tentativa de Homicidio  - Consumado";"Não identificado";N/A;5659543-13.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;50/2021;"Apurando com autoria";Portaria;24/12/2021;"WESLEY DA SILVA MARTINS";30;"CARLOS EDUARDO VELASCO URIEPERO";"Homicídio - Consumado";"Não identificado";N/A;;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;39/2021;"Enviado ao PJ com autoria";APF;28/12/2021;"VARLEY DAVID DA COSTA";30;"GILMARIO GASPAR PIRES";"Tentativa de Homicidio  - Tentado";"Não identificado";;;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;1455/2021;"Enviado ao PJ com autoria";APF;29/12/2021;"RENATO PEIXOTO";27;"ESDRAS QUEIROS MENDES";"Homicídio - Tentado";"Não identificado";N/A;5681772-64.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;1464/2021;"Enviado ao PJ com autoria";APF;30/12/2021;"JOSE MARTINS SOARES";27;"LAZARO HENRIQUE MIRANDA DE OLIVEIRA";"Homicídio - Tentado";"Não identificado";N/A;5685557-34.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;1473/2021;"Enviado ao PJ com pedido de arquivamento";APF;03/01/2022;" MARIA ALENILTA DUTRA
+MARCOS ANTONIO SILVA ALVES 
+PAULO JOAO BOTELHO GUIMARAES";27;"LAERCIO BARBOSA PEREIRA";"Homicídio - Tentado";"Não identificado";N/A;5687576-13.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;47/2021;"Enviado ao PJ com autoria";Portaria;13/01/2022;"JAIME FELIX DAS NEVES FILHO";27;"PAULO VIEIRA XAVIER";"Homicídio - Consumado";"Arma Branca";22478189;5686402-66.2021.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;31/2022;"Enviado ao PJ com autoria";APF;18/01/2022;"CRISTIANO LOPES DE MELO";35;"WALKLEY GARCIA GOMES";"Homicídio - Consumado";"Arma Branca";22835007;5007688-10.2022.8.09.0137;NÃO;N/A;"AUTOR JÁ AMEAÇAVA A VITIMA ANTES DO CRIME E NO DIA DO FATO O ENCONTROU EM BAR, OCASIAO Q PEGOU UMA FACA E DESFERIU GOLPES DA VÍTIMA";"Fernando Michel de Freitas"
+IP;46/2022;"Enviado ao PJ com autoria";APF;21/01/2022;"GUSTAVO JOSE PEREIRA";23;"DANILO PEREIRA DE FREITAS";"Homicídio - Consumado";"Arma Branca";22875672;5014527-51.2022.8.09.0137;NÃO;N/A;"VITIMA TERIA ROUBADO O CELULAR DO AUTOR , O QUAL ENCONTROU COM ELE ALGUNS DIAS DEPOIS E COMO A VITIMA NAO DEVOLVEU O CEULAR, ELE O MATOU";"Fernando Michel de Freitas"
+IP;04/2022;"Enviado ao PJ com autoria";Portaria;21/01/2022;"WILTON MARTINS DE FREITAS";53;IGNORADO;"Morte por intervenção policial - Consumado";"Arma de Fogo";23003929;5182577-40.2022.8.09.0137;NÃO;N/A;.;"Rafaela Dallagnol Secorun"
+IP;57/2022;"Enviado ao PJ com autoria";APF;24/01/2022;"LUZINEIA ROSA FERREIRA";32;"PAULO CESAR DE MORAES";"Homicídio - Tentado";"Objeto Contundente";22917780;5019764-66.2022.8.09.0137;NÃO;N/A;"A VITMA É AMIGA DA ESPOSA DO INVESTIGADO, A QUAL FAZ USO DE DROGAS EM SUA CASA E O AUTOR NAO GOSTA";"Fernando Michel de Freitas"
+IP;72/2022;"Enviado ao PJ com autoria";APF;26/01/2022;"JOSE RUBEM DE SOUZA";32;"DIVINO DOS REIS VITOR FRANCO";"Homicídio - Tentado";"Arma de Fogo";22944722;5022669-44.2022.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;06/2022;"Apurando com autoria";Portaria;29/01/2022;"ALBERT PEREIRA";46;IGNORADO;"Homicídio - Tentado";"Arma Branca";23001056;N/A;NÃO;N/A;"VITIMA XINGOU UMA MULHER NO BAR E O AUTOR INTERVEIO NA BRIGA E O ESFAQUEOU";"Rafaela Dallagnol Secorun"
+IP;92/2022;"Enviado ao PJ com autoria";APF;01/02/2022;" PAULO VITOR DE SOUSA SILVA - GCM
+RENAN EDUARDO PEREIRA SANTOS ";30;"JOAO GABRIEL BARROS MEIRELES";"Morte por intervenção policial - Tentado";"Não identificado";230022129;5033886-84.2022.8.09.0137;NÃO;N/A;"GCM PERSEGUIU O INVESTIGADO Q EFETUOU DISPAROS CONTRA OS GUARDAS CIVIS";"Fernando Michel de Freitas"
+IP;09/2022;"Apurando com autoria";Portaria;02/02/2022;"GEORGE VINICIUS LARA";39;IGNORADO;"Homicídio - Consumado";Espancamento;23168763;;NÃO;N/A;"VÍTIMA ESTAVA RECOLHIDO NA CPP DE RIO VERDE E APOS COMSEGUIR SEU ALVARA DE SOLTURA FOI LEVADO PARA O CAT DE RIO VERDE E DEPOIS PARA JATAI, SENDO QUE SOFREU UMA PARADA CARDÍACA ANTES DE CHEGAR EM JATAI E VEIO A OBITO NO HOSPITAL DE JATAI.";"Fernando Michel de Freitas"
+IP;128/2022;"Enviado ao PJ com autoria";APF;07/02/2022;"JOCIENE BISPO DOS SANTOS";28;"VANESSA DE SOUZA NASCIMENTO";"Homicídio - Tentado";"Arma Branca";23100373;5047359-40.2022.8.09.0137;NÃO;N/A;"VÍTIMA E AUTORA SAO USUARIAS DE DROGAS E DISCUTIRAM PQ A VITIMA ACUSOU UMA AMIGA DA AUTORA DE FURTO";"Fernando Michel de Freitas"
+IP;10/2022;"Apurando com autoria";Portaria;19/02/2022;"JOAO BATISTA DA SILVA";50;IGNORADO;"Homicídio - Tentado";"Arma de Fogo";23267169;5578095-47.2022.8.09.0137;NÃO;N/A;"VÍTIMA E USUARIA DE DROGAS E FOI ALVEJADA POR INDIVIDUO QUE ESTAVA EM UM VEICULO";"Fernando Michel de Freitas"
+IP;11/2022;"Enviado ao PJ com pedido de arquivamento";Portaria;03/03/2022;"JOAO ADILSON DA SILVA";30;"ELISMAR GOUVEIA FERNANDES (MENOR)
+PEDRO GABRIEL MACHADO DA SILVA (MENOR)
+SYNARA RODRIGUES ALVES";"LATOCINIO E CORRUPÇÃO DE MENORES - Consumado";"Não identificado";23300545;5086782-07.2022.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;42/2023;"Apurando crime a esclarecer";Portaria;05/03/2022;"SINOMAR MENDES TEODORO";45;IGNORADO;"Morte a esclarecer - Consumado";Veículo;23656179;N/A;NÃO;N/A;"ENCAMINHADO PELO 1º DP";"Fernando Michel de Freitas"
+IP;15/2022;"Enviado ao PJ com autoria";Portaria;14/03/2022;"JOSIEL ROBERTO FERREIRA DE OLIVEIRA";25;"JOHNNY MAIKON SOUZA ROSA";"Homicídio - Tentado";"Arma de Fogo";23748412;5184523-47.2022.8.09.0137;SIM;N/A;"DESENTENDIMENTO COM A EX ESPOSA.";"Rafaela Dallagnol Secorun"
+IP;348/2022;"Enviado ao PJ com autoria";APF;23/03/2022;"FAUSTO MARTINS RIBEIRO FILHO
+RAIANA DOS SANTOS ";"22
+27";"ELCIO JESUS VIEIRA
+VALDECI BARBOSA FILHO";"Homicídio - Tentado";"Arma de Fogo";23870839;5156763-26.2022.8.09.0137;NÃO;N/A;"VÍTIMAS E AUTORES SAO VIZINHOS E DISCUTIRAM DEVIDO O SOM ALTO E OS AUTORES PEGARAM UMA ARMA DE FOGO E EFETUARAM DISPAROS NA DIREÇAO DA CASA DAS VITIMAS, ACERTANDO O MURO";"Fernando Michel de Freitas"
+IP;393/2022;"Enviado ao PJ com autoria";APF;24/03/2022;"VANDERLEI FERREIRA NASCIMENTO";55;"WILTON PROTO ARANTES";"Homicídio - Consumado";"Arma Branca";23987209;5174243-17.2022.8.09.0137;NÃO;N/A;"VÍTIMA E AUTOR TINHAM JÁ TINHAM UM DESENTEDIMENTO ANTIGO E NO DIA DO CRIME, A VITIMA FOI EM CASA, PEGOU UMA FACA E VOLTOU AO BAR E ACERTOU O AUTOR. O AUTOR TOMOU A FACA DA VITIMA E O ESFAQUEOU, VINDO A OBITO NO LOCAL";"Fernando Michel de Freitas"
+IP;16/2022;"Enviado ao PJ com autoria";Portaria;24/03/2022;"EWERTON SOUSA MACEDO";47;"KAMILLA MACEDO DO NASCIMENTO (MENOR)
+MATEUS EDUARDO SOBRINHO ANDRADE";"Homicídio - Consumado";"Arma Branca";23792045;5146200-70.2022.8.09.0137;NÃO;N/A;"GIH ACIONADO NA MADRUGADA, NÃO TEVE LOCAL, POIS FOI ENCAMINHADO PARA UPA; FOI ATRAS DO AUTOR E CONSEGUIU OBTER ÊXITO NO FLAGRANTE; APREENDIDA KAMILLA CONFESSOU TER ENTREGUE A FACA PARA MATEUS MATÁ-LO. QUE MATEUS ESFAQUEOU DEPOIS FUGIU COM KAMILLA, SENDO ENCONTRADO HORAS DEPOIS PELA MANHÃ.";"Rafaela Dallagnol Secorun"
+IP;05/2022;"Enviado ao PJ com autoria";Portaria;30/03/2022;"EDILSON NERES";29;"JOAO EMANUEL MOREIRA DINIZ";"Homicídio - Tentado";"Arma Branca";22991844;5121262-11.2022.8.09.0137;NÃO;N/A;"VITIMA INTERVEIO EM UMA BRIGA DE SUA ENTEADA COM O AUTOR, PAI DO FILHO DELA, E FOI ESFAQUEADO PELO AUTOR";"Fernando Michel de Freitas"
+IP;14/2022;"Enviado ao PJ com autoria";Portaria;08/04/2022;"COLETIVIDADE ";20;"MANOEL EURIPEDES DA SILVA FILHO (CRIME INTELECUAL DE DISPARO DE ARMA DE FOGO)
+MAYKON DOUGLAS SANTANA SOUSA (DISPARO DE ARMA DE FOGO)
+PAULO VITOR SANTANA SOUSA (PORTE ILEGAL DE ARMA DE  DE FOGO DE USO PERMITIDO)
+PAULO VITOR SANTANA SOUSA (PORTE ILEGAL DE ARMA DE  DE FOGO DE USO PERMITIDO) ALTURES PAULO DE MELO (POSSE IRREGULAR DE ARMA DE FO";"Outros - Consumado";"Arma de Fogo";23756002;5139184-72.022_._.__.____;NÃO;N/A;"VÍTIMA PAGOU PARA AUTOR PARA TENTAR CONTRA SUA VIDA A FIM DE SUA NAMORADA FICAR COM DÓ E REATAR COM ELE
+(DISPARO DE ARMA DE FOGO, PORTE ILEGAL DE DE ARMA DE FOGO DE USO PERMITIDO, POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO)";"Fernando Michel de Freitas"
+IP;20/2022;"Apurando com autoria";Portaria;09/04/2022;"JOAO PEDRO DOS SANTOS RIBEIRO";21;IGNORADO;"Homicídio - Consumado";"Arma de Fogo";24497291;N/A;NÃO;N/A;"VÍTIMA PARTICIPAVA DE UM EVENTO NO CLUBE DO LAÇO, OCASIAO QUE FOI ALVEJADO POR DISPAROS DE ARMA DE FOGO DURANTE A FESTA";"Fernando Michel de Freitas"
+IP;18/2022;"Apurando com autoria";Portaria;10/04/2022;"JOAO MARIA DOS SANTOS";44;IGNORADO;"Homicídio - Consumado";"Arma de Fogo";24038018;N/A;NÃO;N/A;"VÍTIMA FOI ALVEJADA POR 5 DISPAROS DE ARMA DE FOGO, É CATADORA DE LATINHAS E USUARIO DE DROGAS";"Fernando Michel de Freitas"
+IP;08/2022;"Enviado ao PJ com autoria";Portaria;29/04/2022;"NELSON REGIO MOREIRA DOS SANTOS";40;"JONATHAN ROSA PEREIRA";"Homicídio - Tentado";"Arma Branca";23133431;5247767-47.____._.__.____;NÃO;N/A;"VÍITMA É USUARIO DE DROGAS E FOI ESFAQUEADO POR AUTOR AINDA DESCONHECIDO EM UMA BOCA DE FUMO - COTA MINISTERIAL";"Fernando Michel de Freitas"
+IP;49/2022;"Enviado ao PJ com autoria";Portaria;04/05/2022;"GABRIEL SOUZA DA CRUZ";18;"JOAO PEDRO ALVES TEIXEIRA";"Homicídio - Consumado";"Arma de Fogo";27811114;5272994-05.2023.8.09.0137;NÃO;N/A;"A VÍTIMA FOI A CASA DE KAROLLYNE ENCONTRAR SUA NAMORADA QUE ESTAVA AO LOCAL, PORÉM NO MOMENTO EM QUE A VÍTIMA FOI ATENDIDO NO PORTÃO DA REFERIDA RESIDÊNCIA, SOFREU DISPAROS DE ARMA DE FOGO EM SEU DESFAVOR,  VÍTIMA FOI ALVEJADA DIA 14/12/2022 E VEIO A OBITO NO HOSPITAL DIA 21/12/2022";"Fernando Michel de Freitas"
+IP;19/2022;"Enviado ao PJ com autoria";Portaria;05/05/2022;"FABRICIA STEFANI ARRUDA DE CASTRO";27;"ORNILO PALMEIRA JORGE";"Feminicídio - Consumado";"Não identificado";24430198;5240227-45.2022.8.09.0137;NÃO;N/A;"VITIMA E AUTOR ERAM NAMORADOS E BRIGARAM NA NOITE ANTERIOR AO CRIME E FORAM PARA UM MATAGAL E O AUTOR VOLTOU SOZINHO E A VITIMA FOI ENCONTRADA EM UM LIXAO COM UMA LESAO NA CABEÇA";"Rafaela Dallagnol Secorun"
+IP;13/2022;"Enviado ao PJ com autoria";Portaria;10/05/2022;"FUNCIONARIOS, ALUNOS DO CURSO DE PSICOLOGIA";18;"NATHAN DUTRA MORAES";"Outros - Consumado";"Não identificado";N/A;5174424-18.2022.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;516/2022;"Enviado ao PJ com autoria";APF;13/05/2022;" FRANCIELLE MATTOS GOLDINHO
+ANA LAURA MATTOS SOUZA 
+MARIA HELENA MATTOS SOUZA 
+MARIANA MATTOS SOUZA
+VICENTE RAMOS DE OLIVEIRA SOUZA";30;"AGNALDO FERREIRA DE JESUS";"Homicídio - Consumado
+Outros - Consumado";Veículo;24413900;5244507-59.2022.8.09.0137;NÃO;N/A;"O AUTOR NÃO POSSUI CNH, ESTAVA EMBRIAGADO E NO MOMENTO DOS FATOS COLIDIU O VEÍCULO, OCASIONANDO UMA VÍTIMA FATAL";"Fernando Michel de Freitas"
+IP;24/2022;"Enviado ao PJ com autoria";Portaria;24/05/2022;"ACINETO ALVES DA SILVA NETO
+ALEX APARECIDO GOMES DOS SANTOS
+EDUARDO RODRIGUES FERREIRA
+TIAGO DE MEDEIROS BRANDÃO";1;"CAMILA MENDES DOS REIS
+CHESLEY RODRIGUES DAS CHAGAS
+MANOEL ARAUJO DA SILVA
+MARCOS FELIPE RODRIGUES SANTOS
+REGIS MORAES DE ALMEIDA
+RICARDO SILVA SOUZA
+ROBSON PEIXOTO DE OLIVEIRA";"Homicídio - Consumado";"Arma de Fogo";24825491;5544159-94.0000.0.00.0000;NÃO;05/06/2024;"CONFRONTO POLICIAL FORJADO";"Fernando Michel de Freitas"
+IP;21/2022;"Enviado ao PJ com pedido de arquivamento";Portaria;25/05/2022;"MARLON SILVA OLIVEIRA JUNIOR";30;"EPITACIO LEMES DE FREITAS";"Morte por intervenção policial - Consumado";"Arma de Fogo";24701192;5325077-95.____._.__.____;NÃO;N/A;"CONFORNTO POLICIAL";"Rafaela Dallagnol Secorun"
+IP;1/2022;"Enviado ao PJ com autoria";Portaria;26/05/2022;"ONILDO ALUIZIO SOUZA SILVA NETO";36;"EVERTON SILVA DO NASCIMENTO";"Morte por intervenção policial - Consumado";"Arma de Fogo";22708242;5308365-64.2022.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;22/2022;"Apurando com autoria";Portaria;27/05/2022;"LEANDRO DE OLIVEIRA";30;IGNORADO;"Homicídio no Trânsito - Consumado";Veículo;N/A;N/A;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;26/2022;"Enviado ao PJ com autoria";Portaria;05/06/2022;"MARIA DO CARMO MARTINS DA SILVA";45;"JEAN SANTOS BRITO";"Feminicídio - Consumado";Esganadura;25150951;5452033-93.0000.0.00.0000;NÃO;27/09/2022;"VITIMA TEVE SEU PESCOÇO FRATURADO DURANTE RELAÇÃO SEXUAL COM O INVESTIGADO";"Fernando Michel de Freitas"
+IP;29/2022;"Apurando com autoria";Portaria;06/06/2022;"JOSÉ CARLOS DA COSTA DA SILVA";36;IGNORADO;"Homicídio - Consumado";"Arma Branca";25346170;N/A;NÃO;N/A;"USUÁRIA DE DROGAS, A QUAL RECEBIA VÁRIOS PARCEIROS EM SUA CASA";"Rafaela Dallagnol Secorun"
+IP;630/2022;"Enviado ao PJ com autoria";APF;15/06/2022;"SEBASTIAO DE PAIVA OLIVEIRA";60;"ALEXANDRE ROMEIRO";"Homicídio no Trânsito - Consumado";Veículo;24834543;5299351-56.2022.8.09.0137;NÃO;N/A;"AUTOR EMBRIAGADO COLIDIU COM 06 VEICULOS E ESTAVA EM UMA AMAROK E ACABOU PRENSANDO A VITIMA NO MEIO DOS CARROS QUE NAO RESISTIU E MORREU NA HORA";"Rafaela Dallagnol Secorun"
+IP;39/2022;"Enviado ao PJ com autoria";Portaria;28/06/2022;"O ESTADO";30;"CLODOALDO RAMOS SOARES";"FALSA IDENTIDADE E DESOBEDIÊNCIA - Consumado";"Não identificado";N/A;5631153-96.2022.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;42/2022;"Enviado ao PJ com autoria";Portaria;29/06/2022;"FRANCISCO DA SILVA (GEPATRI)";73;"JUCINALDO FREIRE DA SILVA";"Homicídio - Consumado";"Arma Branca";25322753;5384581-66.2022.8.09.0137;NÃO;N/A;"A VÍTIMA FOI ENCONTRADA SEM VIDA DENTRO DE SUA RESIDÊNCIA, E ALGUNS PERTENCES DO LOCAL HAVIAM SIDO SUBTRAÍDOS - GEPATRI";"Fernando Michel de Freitas"
+IP;760/2022;"Enviado ao PJ com pedido de arquivamento";APF;20/07/2022;"WELLINGTON LUIZ FERREIRA FREITAS";67;"KAIO RODRIGUES DE LIMA
+RENATO DE SOUZA
+ROGERIO OLIVEIRA MUNIZ
+ROGERIO TELES BORGES";"Tortura - Consumado";Fogo;25260632;5364429-94.2022.8.09.0137;NÃO;N/A;"VÍTIMA HAVIA SAÍDO CEDO E COMO NÃO RETORNOU PARA SUA RESIDÊNCIA, FAMILIARES  ACIONARAM A EMPRESA DO RASTREADOR DO VEÍCULO E ACIOARAM A EQUIPE DE POLICIAMENTO QUE AO CHEGAR NO REFERIDO LOCAL ENCONTROU O VEÍCULO E EM SEGUIDA O CORPO DA VÍTIMA FOI ENCONTRADO PRÓXIMO A UMA FAZENDA QUE A VÍTIMA HAVIA COMPRADO RECENTEMENTE";"Fernando Michel de Freitas"
+IP;30/2022;"Enviado ao PJ com autoria";Portaria;27/07/2022;"GILCLEITON SOARES LOPES";26;"FRANCISCO  DAS CHAGAS DE ASSIS";"Lesão Corporal - Consumado";"Arma Branca";25350512;5451794-89.2022.8.09.0137;NÃO;N/A;"DESENTENDIMENTO ENTRE A VÍTIMA E O SUPOSTO AUTOR";"Rafaela Dallagnol Secorun"
+IP;34/2022;"Enviado ao PJ com autoria";Portaria;27/07/2022;"Não identificada";20;"JUNIO BORGES LENZA";"Homicídio - Consumado";"Arma de Fogo";25774927;;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;32/2022;"Apurando com autoria";Portaria;29/07/2022;"RODRIGO LAABS";30;IGNORADO;"Homicídio - Consumado";"Arma Branca";25674573;5742527-20.2022.8.09.0137;NÃO;N/A;"VITIMA É ENCONTRADA DENTRO DE SUA RESIDÊNCIA SEM VIDA,SEGURANDO UMA ARMA BRANCA (FACA)";"Fernando Michel de Freitas"
+IP;33/2022;"Apurando com autoria";Portaria;05/08/2022;" MARCELO SILVA TELES";40;IGNORADO;"Homicídio - Consumado";"Arma Branca";"25774720 / 25778931";N/A;NÃO;N/A;"VÍTIMA USUÁRIA DE DROGAS ENCONTRADA EM VIA PÚBLICA COM LESÕES DE FACA";"Rafaela Dallagnol Secorun"
+IP;37/2022;"Apurando com autoria";Portaria;17/08/2022;" APARECIDO FRANCISCO DE JESUS";55;IGNORADO;"Furto - Consumado";"Objeto Contundente";25939615;N/A;NÃO;N/A;"A VÍTIMA FOI ENCONTRADA MORTA NO INTERIOR DE SUA RESIDÊNCIA";"Fernando Michel de Freitas"
+IP;36/2022;"Apurando com autoria";Portaria;17/08/2022;"MAYK HENRIQUE SOUZA DA SILVA";20;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Arma de Fogo";25929233;N/A;NÃO;N/A;"A VÍTIMA VEIO A ÓBITO EM DECORRÊNCIADE INTERVENÇÃO POLICIAL DURANTE O CONFRONTO ARAMDO,CONFORME APURADO NOS AUTOS DOS AGENTES ENVOLVIDOS";"Rafaela Dallagnol Secorun"
+IP;38/2022;"Enviado ao PJ com autoria";Portaria;30/08/2022;"MAYKON DOUGLAS SANTANA SOUSA";22;"WELLINGTON VIEIRA LOPES";"Homicídio - Consumado";"Arma de Fogo";26268557;5580110-23.0000.0.00.0000;NÃO;29/05/2024;"A VÍTIMA ESTAVA EM CASA QUANDO UM INDIVÍDUO CHEGOU AO LOCAL E EFETUOU UM DISPARO DE ARMA DE  FOGO EM SUA CABEÇA E EM SEGUIDA EVADIU-SE DO LOCAL , VEIO A ÓBITO DIA 10/09/2022";"Fernando Michel de Freitas"
+IP;1037/2022;"Enviado ao PJ com autoria";APF;06/09/2022;"AVELINO FRANISCO VANI";64;"GABRIEL RODRIGUES DA SILVA";"Homicídio - Tentado";"Arma de Fogo";26250241;5522857-77.2022.8.09.0137;NÃO;N/A;"RIXA ENTRE AUTOR E VÍTIMA, POIS O AUTOR GOSTARIA DE COMERCIALIZAR DROGAS NO ESTABELECIEMNTO DA VÍTIMA, A QUAL NÃO PERMITIU";"Fernando Michel de Freitas"
+IP;17/2022;"Enviado ao PJ com autoria";Portaria;27/09/2022;"EDILEZIO DA SILVA OLIVEIRA";48;"GLADEMIR MIRANDA DE SOUZA";"Homicídio - Consumado";"Arma Branca";23871351;5166244-13.2022.8.09.0137;NÃO;N/A;"VÍTIMA E PROPRIETARIA DE UM BAR E DISCUTIU COM UM CLIENTE. E DURANTE A DISCUSSÃO O AUTOR ESFAQUEOU A VITIMA QUE VEIO A OBITO NO LOCAL";"Rafaela Dallagnol Secorun"
+IP;23/2022;"Enviado ao PJ com autoria";Portaria;27/09/2022;"LUCIANA GONÇALVES SILVA MORAES 
+WESLEY MORAES DOS SANTOS";"38
+43";"EBER DA SILVEIRA SOUSA";"Disparo de arma de fogo - Consumado";"Arma de Fogo";24573916;5305847-04.2022.8.09.0137;NÃO;N/A;"DISCUSSAO DE COMERCIO/AUTOR CHEGOU NA PORTA DA CASA DAS VITIMAS E EFETUOU SEIS DISPAROS DE ARMA DE FOGO EM DIREÇÃO A RESIDENCIA, MAS NAO ALVEJOU NINGUEM";"Rafaela Dallagnol Secorun"
+IP;1135/2022;"Enviado ao PJ com autoria";APF;03/10/2022;"SONIA DA SILVA FERREIRA";50;"FRANCISCO ALEXANDRE TEIXEIRA";"Homicídio - Consumado";"Arma de Fogo";26621713;5584506-33.2022.8.09.0011;NÃO;N/A;"AUTOR ATIROU NA ESPOSA AO CHEGAR EM CASA EMBRIAGADO, FORAM APREENDIDAS UM REVOLVER E UMA ESPINGARDA";"Rafaela Dallagnol Secorun"
+IP;1128/2022;"Enviado ao PJ com autoria";APF;04/10/2022;"ATAÍDES SOUSA PERES";63;"EDUARDO DE SOUZA LIMA";"Outros - Consumado";"Arma de Fogo";26597988;5576238-97.2022.8.09.0137;NÃO;N/A;"A VÍTIMA ESTAVA EM SUA VENDA QUANDO O AUTOR CHEGOU EMBRIAGADO SOLICITANDO BEBIDA ALCOÓLICA, PORÉM COMO NÃO HOUVE ÊXITO EM SEU PEDIDO, EFETUOU UM DISPARO DE ARMA DE FOGO EM DESFAVOR DA VÍTIMA E POSTERIORMENTE EVADIU-SE DO LOCAL";"Fernando Michel de Freitas"
+IP;1184/2022;"Enviado ao PJ com autoria";APF;13/10/2022;"JOSÉ MARCOS MANICOBA LUSTOSA";30;"MARCOS ALMEIDA BARROS";"Lesão Corporal - Consumado";"Não identificado";N/A;5612642-50.2022.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;1231/2022;"Enviado ao PJ com autoria";APF;26/10/2022;" ANA PAULA ARANTES
+PATRICK FERREIRA DA SILVA";"24
+30";"PRESLIE RAMOS TAVARES";"Homicídio - Tentado";"Arma de Fogo";26980514;5639743-62.2022.8.09.0137;NÃO;N/A;"AS VÍTIMAS ESTAVAM NO BAR AMERICA BEAR, NO MOMENTO EM QUE HOUVE UM DESENTENDIMENTO ENTRE AS PARTES E EM SEGUIDA O AUTOR EM POSSE DE ARMA FOGO EFETUOU UM DISPARO EM DESFAVOR DAS VÍTIMAS";"Rafaela Dallagnol Secorun"
+IP;44/2022;"Enviado ao PJ com autoria";Portaria;11/11/2022;COLETIVIDADE;30;"LEANDRO BORGES SILVA";"POSSE IRREGULAR DE ARMA DE FOGO - Consumado";"Arma de Fogo";N/A;5680065-17.2022.8.09.0011;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;846/2022;"Enviado ao PJ com autoria";APF;30/11/2022;"JEFFERSON CAMPOS DOURADO
+THIAGO LOPES DA SILVA ";"26
+33";"DIVINO LUIZ DA COSTA";"Homicídio - Consumado
+Homicídio - Tentado";"Arma Branca";25592221;5416794-28.2022.8.09.0137;NÃO;N/A;"VÍTIMA DISCUTIU DIAS ATRÁS DO FATO COM O AUTOR";"Fernando Michel de Freitas"
+IP;40/2022;"Enviado ao PJ com autoria";Portaria;30/11/2022;"ADRIANO DE JESUS CARACIOLA";29;"LEANDRO BORGES SILVA";"Homicídio - Tentado";"Arma de Fogo";26377112;5572743-45.____._.__.____;NÃO;N/A;"A VÍTIMA TRABALHAVA NA CHÁCARA MENCIONADA PARA A NAMORADA DO AUTOR, POREM NO MOMENTO EM QUE O AUTOR ""DEU UMA ORDEM"" PARA QUE A VÍTIMA CUMPRISSE, ESTA INFORMOU QUE NÃO CUMPRIRIA, POIS RECEBIA ORDENS APENAS DE SUA PATROA";"Fernando Michel de Freitas"
+IP;47/2022;"Apurando com autoria";Portaria;01/12/2022;"LUCIVANIA CAMPOS MOREIRA";1;IGNORADO;"Feminicídio - Consumado";"Não identificado";27610646;5185370-44.2025.8.09.0137;NÃO;N/A;"FOI ENCONTRADO O CORPO DA VÍTIMA, AINDA NÃO IDENTIFICADA, EM ESTADO AVANÇADO DE DECOMPOSIÇÃO E PARCIALMENTE QUEIMADO,AOS FUNDOS DO LOTEAMENTO  ALPES VERDES.";"Fernando Michel de Freitas"
+IP;48/2022;"Apurando com autoria";Portaria;11/12/2022;"ERNESTO SITTA FILHO";63;IGNORADO;"Homicídio - Tentado";Veneno;27450468;N/A;NÃO;N/A;"A VÍTIMA SUSPEITA QUE SEUS FAMILIARES ESTEJAM ADMINISTRANDO SUBSTÂNCIAS TÓXICAS,POSSIVELMENTE METAIS PESADOS COM A INTENÇÃO DE CAUSAR SUA MORTE E,ASSIM,TOMAR POSSE DE SUA PARTE NA HERANÇA";"Fernando Michel de Freitas"
+IP;1386/2022;"Enviado ao PJ com autoria";APF;16/12/2022;"DERICK LUCA SILVA BRAGA";2;"FÁBIO MENDES DE OLIVEIRA";"Homicídio - Consumado";"Homicidio e Tortura";"27461349 E 27465581";5710297-22.2022.8.09.0137;NÃO;N/A;"O AUTOR DISSE QUE A VÍTIMA ESTAVA  DESOBEDECENDO E POR ESTE MOTIVO,  JOGOU A VÍTIMA SOBRE A CAMA NA INTENÇÃO DE QUE A CRIANÇA PERMANECESSE NO LOCAL QUIETO., OCASIÃO EM QUE A VÍTIMA VEIO A ÓBITO APÓS AS AGRESSÕS";"Rafaela Dallagnol Secorun"
+IP;1477/2022;"Enviado ao PJ com autoria";APF;20/12/2022;"SONILDO SANTANA BATISTA JUNIOR";22;"EZEQUIEL FARIA SILVA";"Homicídio - Tentado";"Arma Branca";27755286;5752291-20.2022.8.09.0011;NÃO;N/A;"A VÍTIMA ESTAVA EM UMA FESTA NO MOMENTO EM QUE DISCUTIU COM O AUTOR. VALE RESSALTAR QUE  SEGUNDO OS AUTORES A VÍTIMA É SUA RIVAL NO BAIRO PROMISSÃO";"Rafaela Dallagnol Secorun"
+IP;27/2022;"Enviado ao PJ com pedido de arquivamento";Portaria;27/12/2022;" CAIO GOMES VIERA
+GUSTAVO ALEXANDRE CEZARIO (consumado)
+THAYS DO CARMO MATTOS (tentado)";25;"JEAN CARVALHO OLIVEIRA(VULGO BOLACHA)
+JOSE AUGUSTO PEREIRA CAMPOS(VULGO ZE BIBIU)";"Homicídio - Consumado
+Homicídio - Tentado";"Arma de Fogo";25193338;5781521-20.2022.8.09.0137;NÃO;N/A;"VÍTIMA ESTAVA EM UMA FESTA QUANDO DISCUTIU COM OS AUTORES POR ESTAREM ATIRANDO PARA CIMA , MOMENTO QUE FOI ALVEJADO NO PEITO. CONSTA AINDA QUE OS DISPAROS ATINGIRAM OUTRA PESSOA";"Fernando Michel de Freitas"
+IP;1528/2022;"Enviado ao PJ com autoria";APF;29/12/2022;"LUCAS WILAMYS DA SILVA";31;"ISMAEL PEREIRA DE JESUS
+MARCIANO FRANCO DA SILVA
+PAULO CESAR DA SILVA TELES";"Homicídio - Consumado";"Objeto Contundente";27893812;5775033-39.2022.8.09.0011;NÃO;N/A;"CADAVER FOI ENCONTRADO ENTERRADO NO FUNDO DE UMA RESIDENCIA";"Rafaela Dallagnol Secorun"
+IP;51/2022;"Apurando com autoria";Portaria;31/12/2022;"NILTON TELES PEREIRA";33;IGNORADO;"Homicídio - Tentado";"Arma de Fogo";27881266;N/A;NÃO;N/A;"A VÍTIMA SE ENVOLVEU EM UMA BRIGA E,NA OCASIÃO,TERIA SUBTRAÍDO UMA ARMA DE FOGO,SENDO ESSE I POSSÍVEL MOTIVO DOS FATOS OCORRIDOS";"Fernando Michel de Freitas"
+IP;02/2023;"Enviado ao PJ com autoria";Portaria;02/01/2023;"MAX WILLIAN SOARES SILVA";30;IGNORADO;"Morte por intervenção policial - Consumado";"Arma de Fogo";28043359;5473769-36.2023.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;1455/2022;"Enviado ao PJ com autoria";APF;02/01/2023;"JOAO DOS SANTOS SILVA";30;"VINICIUS DE OLIVEIRA DA SILVA";"Homicídio - Tentado";"Arma Branca";27642084;5742400-82.2022.8.09.0137;NÃO;N/A;"VITIMA E USUARIO DE DROGAS E FOI COMPRAR DROGAS DO AUTOR E SE DESETENDERAM";"Rafaela Dallagnol Secorun"
+IP;1550/2022;"Enviado ao PJ com autoria";APF;03/01/2023;"MARCOS CABRAL SALES";30;"EVERALDO HERMINIO DOS SANTOS
+GILMAR ALVES DOS SANTOS";"Homicídio - Tentado";"Objeto Contundente";27957131;5779282-33.2022.8.09.0011;NÃO;N/A;"A  TESTEMUNHA VIU O MOMENTO EM QUE O AUTOR A VÍTIMA ENTRARAM EM VIAS DE FATO E APÓS A VÍTIMA FICAR DESACORDADA, SAÍRAM DO LOCAL TOMANDO RUMO IGNORADO";"Fernando Michel de Freitas"
+IP;1498/2022;"Enviado ao PJ com autoria";APF;09/01/2023;" AGATHA MARIA DE SOUSA
+ELAINE BARBOSA DE SOUSA
+SARA SUNSHINE SOUSA BONIFACIO";"3
+5
+28";"RAFAEL MARTINS MENDONÇA";"Feminicídio - Consumado
+Feminicídio - Tentado";"Arma de Fogo";27809308;5761710-74.2022.8.09.0137;NÃO;N/A;"O AUTOR TINHA UM RELACIONAMENTO COM A VÍTIMA ELAINE BARBOSA E AO CHEGAR EM SUA RESIDÊNCIA, EFETUOU DIVERSOS DISPAROS EM DESFAVOR DAS REFERIDAS VÍTIMAS";"Fernando Michel de Freitas"
+IP;37/2023;"Enviado ao PJ com autoria";APF;09/01/2023;"MARCOS RENATO MORAES DA SILVA";18;"GABRIEL HENRIQUE RODRIGUES BARROS";"Disparo de arma de fogo - Consumado";"Arma de Fogo";28132697;N/A;NÃO;N/A;"A VÍTIMA ESTAVA EM UMA FESTA NOTURNA, MOMENTO EM QUE SE DESENTENDEU COM O AUTOR E EM SEGUIDA FOI VÍTIMA DE DISPARO DE ARMA DE FOGO";"Rafaela Dallagnol Secorun"
+IP;1/2023;"Apurando com autoria";Portaria;11/01/2023;"LEONARDO THALES BARROS DOURADO";30;IGNORADO;"Homicídio - Tentado";"Arma Branca";28039633;N/A;NÃO;N/A;"A VÍTIMA PARTICIPAVA DE UMA CONFRATENIZAÇÃO QUANDO SE DESENTENDEU COM O AUTOR,VINDO SER ATINGIDA POR GOLPE DE ARMA BRANCA EM SEGUIDA";"Rafaela Dallagnol Secorun"
+IP;04/2023;"Apurando com autoria";Portaria;18/01/2023;"CARLOS EDUARDO SOARES DE OLIVEIRA";16;"FRANKLIN DE SOUZA FERREIRA";"Homicídio - Consumado";"Arma de Fogo";28268113;N/A;NÃO;N/A;"APARENTEMENTE O AUTOR TINHA UM DESENTENDIMENTO COM A VÍTIMA, SITUAÇÃO EM QUE  O AUTOR ATRAIU A VÍTIMA PARA FORA DE SUA RESIDÊNCIA E A ALVEJOU COM DISPAROS DE ARMA DE ARMA DE FOGO";"Fernando Michel de Freitas"
+IP;03/2023;"Enviado ao PJ com autoria";Portaria;18/01/2023;"FRANKLIN DE SOUSA FERREIRA";25;IGNORADO;"Morte por intervenção policial - Consumado";"Arma de Fogo";28269427;5371488-02.2023.8.09.0137;NÃO;N/A;"MORTE POR INTERVENÇÃO POLICIAL.";"Rafaela Dallagnol Secorun"
+IP;1351/2022;"Enviado ao PJ com autoria";APF;21/01/2023;"GUSTAVO JOSE PEREIRA";30;"DANILO PEREIRA DE FREITAS";"Homicídio - Tentado";"Não identificado";N/A;5014527-51.2022.8.09.0137;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+IP;35/2023;"Enviado ao PJ com autoria";Portaria;23/01/2023;" WARLEY CARDOSO DE SOUZA(LESÃO)
+ANDRÉ JUNIOR SILVA (HOMICIDIO) ";46;"JOÃO PAULO DA SILVA MIRANDA";"Homicídio - Consumado
+Lesão Corporal - Consumado";"Arma Branca";31765236;5598730-49.5098.0.85.4720;NÃO;N/A;"VITIMA E AUTOR BRIGARAM NA PORTA DE UMA BEBIDA GELADA";"Rafaela Dallagnol Secorun"
+IP;06/2023;"Enviado ao PJ com autoria";Portaria;23/01/2023;"OZIAS SANTANA DA SILVA";37;"BRENDON KLEYZER SILVA BATISTA
+FRANCISCO DE ASSIS ALVES JUNIOR";"Homicídio - Consumado";"Arma Branca";28336310;5356576-97.2023.8.09.0137;NÃO;N/A;"BRIGA EM BAR ENTRE PARENTES.";"Rafaela Dallagnol Secorun"
+IP;09/2023;"Apurando com autoria";Portaria;27/01/2023;"SAÚDE PÚBLICA
+WALISSON DUARTE SILVA";1;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado
+Tráfico de Drogas - Consumado";"Arma de Fogo";28388167;;NÃO;N/A;"CONFRONTO POLICIAL";"Fernando Michel de Freitas"
+IP;08/2023;"Apurando com autoria";Portaria;03/02/2023;"JOSIMAR DE OLIVEIRA SILVA";33;IGNORADO;"Homicídio - Tentado";"Agressões Físicas";28228978;N/A;NÃO;N/A;"A VÍTIMA FOI AGREDIDA POR DOIS INDIVÍDUOS NO ESTACIONAMENTO DA FACULDADE ALMEIDA RODRIGUES";"Fernando Michel de Freitas"
+IP;122/2023;"Apurando com autoria";APF;07/02/2023;"FELIPE FELICIANO DA SILVA";25;"JULIANO GONÇALVES DA SILVA";"Outros - Consumado";"Arma Branca";28437843;5051594-16.2023.8.09.0137;NÃO;N/A;"O AUTOR ESTAVA EM SUA RESIDÊNCIA QUANDO OUVIU UMA DISCUSSÃO NA RESIDEÊNCIA DE SEU PAI COM SEU IRMÃO; NESTE MOMENTO O AUTOR SAIU EM POSSE DE UMA FACA  E AO CHEGAR NA RESIDÊNCIA DE SEU GENITOR, DESFERIU VÁRIAS FACADAS EM DESFAVOR DA VÍTIMA";"Fernando Michel de Freitas"
+IP;174/2023;"Apurando com autoria";APF;17/02/2023;"FÓRUM DE RIO VERDE-GO";30;"RIQUELME SOUSA ROSA";"FALSO TESTEMUNHO  - Consumado";"Não identificado";28593863;5079810-84.2023.8.09.0137;NÃO;N/A;"FALSO TESTEMUNHO/FÓRUM DE RIO VERDE-GO";"Fernando Michel de Freitas"
+IP;11/2023;"Apurando com autoria";Portaria;18/02/2023;"FRANCISCO BARBOSA LULA NETO";37;"SEBASTIÃO INÁCIO DE JESUS";"Homicídio - Tentado";"Arma de Fogo";28511323;N/A;NÃO;N/A;"A VÍTIMA ESTAVA TRABALHANDO HAVIA UMA SEMANA NA FAZENDA DO INVESTIGADO, PORÉM APÓS TRÊS DIAS DE TRABALHO PEDIU DEMISSÃO E APÓS DESENTENDIMENTO O AUTOR PEGOU SUA ESPINGARDA E EFETUOU DISPAROS EM DESFAVOR DA VÍTIMA";"Rafaela Dallagnol Secorun"
+IP;25/2022;"Enviado ao PJ com autoria";Portaria;24/02/2023;"DANIEL ALVES OLIVEIRA";24;"LEONARDO PATRICK DE JESUS";"Homicídio - Consumado";"Arma de Fogo";25061278;5407641-68.2022.8.09.0137;NÃO;N/A;"VITIMA ESTAVA EM UM BAR E FOI ALVEJADA POR UM INDIVIDUO QUE CHEGOU EM UMA MOTOCICLETA E EFETUOU DISPAROS DE ARMA DE FOGO EM SUA DIREÇÃO, VINDO A OBITO NO LOCAL";"Fernando Michel de Freitas"
+IP;12/2023;"Apurando com autoria";Portaria;05/03/2023;"FABIO SIPRIANO DA SILVA 
+IDAEL SILVA DE SOUSA";30;"FABIO SIPRIANO DA SILVA
+IDAEL SILVA DE SOUSA";"Homicídio - Tentado
+lesao corporal seguida de morte - Tentado";"Não identificado";28821701;N/A;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;172/2023;"Apurando com autoria";APF;08/03/2023;"ULISSES APOLINARIO DOS SANTOS";44;JUNIOR;"Homicídio - Consumado";"Arma Branca";28556032;5073082-27.2023.8.09.0137;NÃO;N/A;"VITIMA ESTAVA DORMINDO NA OBRA Q TRABALHAVA E O AUTOR CHEGOU E DESFERIU UMA MARRETADA NA SUA CABEÇA";"Fernando Michel de Freitas"
+IP;45/2022;"Enviado ao PJ com autoria";Portaria;17/03/2023;"BRUNO LUCIO CARDOSO";42;"RENATO DOS SANTOS NEVES";"Homicídio - Consumado";"Arma Branca";27252632;5159762-15.2023.8.09.0137;NÃO;N/A;"A VÍTIMA ESTAVA EM UM BAR, E APÓS DISCUSSÃO COM O AUTOR SOFREU GOLPES DE ARMA BRANCA, LOCAL ONDE VEIO A ÓBITO";"Fernando Michel de Freitas"
+IP;13/2023;"Enviado ao PJ com pedido de arquivamento";Portaria;17/03/2023;"JONATAS MARQUES DOS SANTOS";20;"SAMUEL DA SILVA E JOSÉ ORLANDO DA SILVA ALVES";"ROUBO SEGUIDO DE MORTE - Consumado";"Não identificado";28856491;5126176-84.2023.8.09.0137;NÃO;N/A;LATROCINIO;"Rafaela Dallagnol Secorun"
+IP;16/2023;"Apurando com autoria";Portaria;20/03/2023;"GIRLENO BEZERRA DE LIMA
+JOSE DAVI EUFRASIO DOS SANTOS";"30
+37";"FELIPE DA SILVA SANTOS
+GUILHERME HENRIQUE OLIVEIRA MOREIRA";"Homicídio - Tentado";"Arma Branca";29173534;5223557-92.2023.8.09.0137;NÃO;N/A;"VITIMAS SÃO UM CASAL HOMOSSEXUAL QUE CONVIDARAM OS AUTORES PARA IREM ATE SUA CASA, NO LOCAL DERAM A CHAVE PARA UM DELES, SENDO QUE ELES RETORNARAM DIA SEGUINTE E ESFAQUEARAM AS VITIMAS ENQUANTO DORMIAM";"Fernando Michel de Freitas"
+IP;17/2023;"Apurando com autoria";Portaria;21/03/2023;"ADALBERTO NEVES LIMA";34;"CLAUDIMAR DE JESUS SANTOS";"Homicídio - Tentado";"Arma Branca";29184056;N/A;NÃO;N/A;"VITIMA FOI ESFAQUEADO PELAS COSTAS ENQUANTO ANDAVA PELA RUA. AMBOS SAO USUÁRIOS DE DROGAS, POSSIVELMENTE BRIGA POR DROGAS";"Fernando Michel de Freitas"
+IP;446/2023;"Enviado ao PJ com pedido de arquivamento";APF;20/04/2023;"SÉRGIO REIS DE SOUSA";42;"LEANDRO ALVES VIEIRA";"Disparo de arma de fogo - Consumado";"Arma de Fogo";29583255/29573757;5236164-30.2023.8.09.0011;NÃO;N/A;"DESENTENDIMENTO COMERCIAL - VENDA DE VEÍCULO";"Rafaela Dallagnol Secorun"
+IP;21/2023;"Apurando com autoria";Portaria;27/04/2023;"LUCAS DA SILVA DOS SANTOS";25;IGNORADO;"Homicídio - Tentado";"Arma Branca";29323373;N/A;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;290/2023;"Apurando com autoria";APF;04/05/2023;"JONATAS MARQUES DOS SANTOS";19;"MICHAEL DOUGLAS OLIVEIRA DOS SANTOS";"Outros - Consumado";"Não identificado";28989907;5134360-29.2023.8.09.0137;NÃO;N/A;"SEM MOTIVO APARENTE";"Rafaela Dallagnol Secorun"
+IP;22/2023;"Apurando com autoria";Portaria;09/05/2023;"A COLETIVIDADE";20;"JUNIOR KENED LAURENÇO SILVA";"Tráfico de Drogas - Consumado";"Não identificado";29675711;5247958-58.2023.8.09.0137;NÃO;N/A;"TRÁFICO DE DROGAS";"Rafaela Dallagnol Secorun"
+IP;600/2023;"Apurando com autoria";APF;24/05/2023;"MARINA  DE LOURDES FAGUNDES OLIVEIRA";41;"JOSÉ ANTÔNIO BATISTA";"Feminicídio - Consumado";"Arma Branca";30083926;5302676-05.2023.8.09.0137;NÃO;N/A;"O AUTOR TINHA UM RELACIONAMENTO COM A VÍTIMA, E APÓS SENTIR CIÚMES DESTA COM UM TERCEIRO, HOUVE UMA DISCUSSÃO A QUAL OCASIONOU O CRIME EM QUESTÃO";"Fernando Michel de Freitas"
+IP;620/2023;"Enviado ao PJ com autoria";APF;31/05/2023;"CILIOMAR DIAS CAMPOS";34;"KERLY ADRIANO PEREIRA DA SILVA
+MÁRCIO ROBERTO RAMOS SANTOS";"Homicídio - Tentado";"Arma de Fogo";30177461;5317423-57.2023.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICÍDIO E POSSE DE ARMA DE FOGO";"Rafaela Dallagnol Secorun"
+IP;23/2023;"Apurando com autoria";Portaria;08/06/2023;" STENER ANTONIO DOS SANTOS
+KAMYLA PANIAGO RODRIGUES";20;"SEBASTIAO CARLOS NUNES MENO";"Outros - Consumado";"Não identificado";N/A;N/A;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;20/2023;"Apurando com autoria";Portaria;16/06/2023;"FLAVIO PEREIRA MAIA";38;"EVERTON SILVA DO NASCIMENTO";"Morte por intervenção policial - Consumado";"Arma de Fogo";29623852;5375874-75.2023.8.09.0137;NÃO;N/A;"MORTE POR INTERVENÇÃO POLICIAL(CONFRONTO POLICIAL)";"Rafaela Dallagnol Secorun"
+IP;356/2023;"Enviado ao PJ com pedido de arquivamento";APF;27/06/2023;"RODRIGO ALVES FERREIRA";41;"IRAMAR CABRAL DE FREITAS";"Homicídio - Consumado";Veículo;29269596;5189672-77.2023.8.09.0011;NÃO;N/A;"ACIDENTE DE TRÂNSITO/HOMICÍDIO";"Rafaela Dallagnol Secorun"
+IP;25/2023;"Apurando com autoria";Portaria;30/06/2023;"MARCIA PEREIRA CABRAL DE SOUSA";30;"DIVINA PERES CRUVINEL
+IOLANDA PERES DE SOUSA
+JOAO KENEDI PEREIRA LIMA
+MARCOS ANTONIO PERES CRUVINEL
+VANILSA LOURENÇA LINA DE QUEIROZ CRUVINEL";"Porte de arma de fogo - Consumado";"Arma de Fogo";30641892;N/A;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;35/2020;"Enviado ao PJ com autoria";Portaria;01/07/2023;"WEMERSON FERREIRA RODRIGUES";27;"BRUNO SILVA BORGES";"Tentativa de Homicidio  - Tentado";"Arma de Fogo";16280075;5586037-33.2023.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;15/2023;"Apurando com autoria";Portaria;03/07/2023;"AUGUSTO CEZAR PAIXÃO DA SILVA";19;"TAMARA DOS SANTOS PAIXÃO";"Lesão Corporal - Consumado";"Não identificado";29161989;5416611-23.2023.8.09.0137;NÃO;N/A;"LESÃO CORPORAL E MAUS TRATOS";"Rafaela Dallagnol Secorun"
+IP;225/2023;"Apurando com autoria";APF;05/07/2023;"GUILHERME DE MELO FERREIRA ";23;IGNORADO;"Homicídio no Trânsito - Consumado";Veículo;28768552;5100864-09.2023.8.09.0137;NÃO;N/A;"ACIDENTE DE TRÂNSITO";"Rafaela Dallagnol Secorun"
+IP;07/2023;"Apurando com autoria";Portaria;18/07/2023;"ISAC DOS SANTOS NERYS";41;"SIRLENE ROSA DE ASSIS";"Outros - Consumado";Fogo;28259764;5699312-23.2024.5.80.9013;NÃO;N/A;"SEGUNDO INFORMAÇÕES UMA MULHER HAVIA JOGADO ÁLCOOL  NA VÍTIMA E EM SEGUIDA COLOCADO FOGO";"Fernando Michel de Freitas"
+IP;28/2023;"Apurando com autoria";Portaria;18/07/2023;"CAIQUE HENRIQUE BASILIO DE LIMA";29;"ALESSANDRO FERREIRA DA SILVA
+JENIFER ASSIS DE MELO";"Homicídio - Tentado";"Objeto Contundente";30903109;5573169-23.2023.8.09.0137;NÃO;N/A;"SEGUNDA CONSTA A VÍTIMA ESTAVA B~EBADA INCOMODANDO OS CLIENTES E FOI AGREDIDA PELA PROPRIETÁRIA DO BAR E POR SEU EXCOMPANHEIRO";"Rafaela Dallagnol Secorun"
+IP;2/2023;"Enviado ao PJ com pedido de arquivamento";Portaria;26/07/2023;"MAX WILLIAN SOARES SILVA";18;"EVERTON SILVA DO NASCIMENTO";"Morte por intervenção policial - Consumado";"Arma de Fogo";28043359;5473769-36.2023.8.09.0137;NÃO;N/A;;"Fernando Michel de Freitas"
+IP;29/2023;"Enviado ao PJ com pedido de arquivamento";Portaria;09/08/2023;"CRISTIANO ALVES SILVA (suicídio)";40;"CRISTIANO ALVES SILVA";"Suicídio - Consumado";"Arma Branca";30914757;5519686-78.2023.8.09.0137;NÃO;N/A;"PAI MATOU A FILHA DE 03 ANOS DEVIDO NAO ACEITAR O FIM DO RELACIONAMENTO COM MAE DA CRIANÇA";"Rafaela Dallagnol Secorun"
+IP;32/2023;"Apurando com autoria";Portaria;11/08/2023;"MAELCIO SANTOS DE PORTUGAL";20;IGNORADO;"Outros - Consumado";"Não identificado";31255613;N/A;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;05/2023;"Apurando com autoria";APF;15/08/2023;"JEIEL ROCHA DE SOUSA (CONSUMADO) E MARCIO JUNQUEIRA DA SILVA ( TENTADO)";46;IGNORADO;"Disparo de arma de fogo - Consumado";"Arma de Fogo";28303022;5533621-88.2023.8.09.0137;NÃO;N/A;"O AUTOR VEIO A ATINGIR A VITIMA DURANTE EM UM CONFRONTO POLICIAL";"Rafaela Dallagnol Secorun"
+IP;40/2020;"Enviado ao PJ com pedido de dilação de prazo";Portaria;23/08/2023;"WESLEI PEREIRA DOS SANTOS";30;"JOSIEL  DOS SANTOS DIAS";"Homicídio - Consumado";"Arma de Fogo";17069860;5581682-77.2023.8.09.0137;NÃO;N/A;"HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;31/2023;"Apurando com autoria";Portaria;25/08/2023;"LUCIANO DA SILVA SANTOS";25;"LUCAS TEIXEIRA DA SILVAO
+MARCEL TEIXEIRA DA SILVA";"Homicídio - Consumado";"Arma de Fogo";31215612;5510270-86.2023.8.09.0137;NÃO;N/A;"VITIMA ESTAVA EM UM BAR QUANDO CHEGOU DOIS AUTORES EM UMA MOTOCICLETA E ATIRARAM NA VITIMA(FACÇÃO)";"Fernando Michel de Freitas"
+IP;43/2020;"Enviado ao PJ com pedido de dilação de prazo";Portaria;25/08/2023;"JOSUE DOMINGOS GOMES";21;IGNORADO;"Tentativa de Homicidio  - Tentado";"Não identificado";N/A;5581735-58.2023.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO APARENTE NÃO IDENTIFICADO PARA COMETER O CRIME";"Rafaela Dallagnol Secorun"
+IP;1032/2023;"Enviado ao PJ com autoria";APF;28/08/2023;"WELITON ARAUJO SILVA";21;"ALISSON ALMEIDA DOS SANTOS";"Homicídio - Tentado";"Arma de Fogo";31544902;5544730-89.2023.8.09.0011;NÃO;N/A;"RIXA DE BAIRRO/VITIMA ESTAVA SENDO AMEAÇADA PELO AUTOR DEVIDO RIXA ENTRE GRUPO RIVAIS";"Fernando Michel de Freitas"
+IP;1033/2023;"Apurando com autoria";APF;30/08/2023;"ELEONEL SILVA DOS SANTOS 
+FÁBIO JUNIOR FERREIRA DA SILVA";"22
+23";"FRANCINELDO DIAMANTINA GOMES";"Homicídio - Tentado";"Arma Branca";31548612;5545175-10.2023.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;06/2020;"Enviado ao PJ com pedido de arquivamento";APF;01/09/2023;"EDSON JOSE DOS SANTOS";20;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Não identificado";N/A;5581889-43.2023.8.09.0051;NÃO;N/A;"MORTE POR INTERVENÇÃO POLICIAL";"Fernando Michel de Freitas"
+IP;1094/2023;"Enviado ao PJ com autoria";APF;06/09/2023;"GUSTAVO SADESKI PAIXÃO";22;"DANIEL SILVA MOTA";"Homicídio - Tentado";"Arma de Fogo";31715252;5578280-85.2023.8.09.0137;NÃO;N/A;"RIXA/VITIMA FOI ALVEJADA LOGO APOS ENTRAR NO CARRO E LEVOU UM TIRO DE RASPAO NA CABEÇA";"Rafaela Dallagnol Secorun"
+IP;34/2023;"Apurando com autoria";Portaria;06/09/2023;"CHRISTIAN PROFIRO DA CRUZ";16;"DHIEK ARAÚJO DA SILVA
+WELLINGTON ARAÚJO DE SOUSA";"Homicídio - Tentado";"Arma de Fogo";31588524;5603572-72.2023.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;1177/2023;"Enviado ao PJ com autoria";APF;26/09/2023;"CARLOS HENRIQUE DE FREITAS GONÇALVES";23;"CRISTIANO QUEIROZ DA SILVA (PORTE DE ARMA)
+FRANCISCO DA SILVA FERNANDES (POSSE DE ARMA)
+VICTOR PAULINO SANTANA (TENTATIVA)";"Homicídio - Tentado";"Arma de Fogo";31985105/31990940;5618241-33.2023.8.09.0137;NÃO;N/A;"VITIMA ESTAVA EM UM BAR QUANDO O AUTOR PASSOU NA PORTA E TIVERAM UMA DISCUSSÃO, O AUTOR FOI EM CASA, BUSCOU A ARMA DE FOGO E VOLTOU AO BAR E ATIROU NA VITIMA";"Fernando Michel de Freitas"
+IP;1239/2023;"Enviado ao PJ com autoria";APF;06/10/2023;"PAULO VITOR XAVIER";20;"HARNOLDO GOMES DA COSTA
+LEONARDO OLIVEIRA DOS SANTOS";"Homicídio - Tentado";"Arma de Fogo";32172819;5654168-50.2023.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICÍDIO/PASSIVO";"Rafaela Dallagnol Secorun"
+IP;1240/2023;"Enviado ao PJ com autoria";APF;10/10/2023;"DEVISON MELO PEREIRA";29;"EDILSON ABREU LIMA
+JOCENILDO SOUSA DO NASCIMENTO";"Homicídio - Tentado";"Arma de Fogo";32203810;5657449-24.2023.8.09.0137;NÃO;N/A;"BRIGA DE BAR/VÍTIMA FOI ALVEJADA NO AMBRO DURANTE UMA DISCUSSAO E ESCONDEU A ARMA NA CASA DO AMIGO QUE FOI PRESO POR TRAFICO";"Fernando Michel de Freitas"
+IP;1248/2023;"Enviado ao PJ com autoria";APF;11/10/2023;"LARISSA ARAÚJO SILVA";20;"JERFESON ERIVALDO DA SILVA NASCIMENTO";"Feminicídio - Consumado";"Não identificado";32211510;N/A;NÃO;N/A;"SOB EFEITO DE DROGAS E MOVIDO PELA INTENÇÃO DE ROUBAR,O AUTOR INVADIU A RESIDENCIA DA VITIMA ACREDITANDO QUE O IMOVEL ESTIVESSE VAZIO.NO ENTANTO,AO ENTRAR,DEPAROU-SE INESPERADAMENTE COM A VITIMIA AINDA DENTRO DE CASA";"Rafaela Dallagnol Secorun"
+IP;39/2023;"Apurando com autoria";Portaria;12/10/2023;" SIDNEI GARCIA SANTOS
+MAURICIO ALVES TORRES LISBOA";"28
+34";IGNORADO;"Homicídio - Tentado";"Arma Branca";32235721;N/A;NÃO;N/A;"VITIMAS ESTAVAM EM BAR E ENTRARAM EM VIAS DE FATO COM O AUTOR";"Fernando Michel de Freitas"
+IP;20/2020;"Enviado ao PJ com autoria";APF;13/10/2023;"HERIBERTO OLIVEIRA SILVA";20;"GUILHERME MARTINS";"Homicídio - Tentado";"Não identificado";N/A;5433409-64.2020.8.09.0137;NÃO;N/A;"MOTIVO APARENTE NÃO IDENTIFICADO";"Rafaela Dallagnol Secorun"
+IP;1289/2023;"Enviado ao PJ com autoria";APF;18/10/2023;"SILAS FERDINAN DE OLIVEIRA";41;"CALIL FAUSTINO DA SILVA
+MAYKON DOUGLAS VIEIRA ARAÚJO";"Homicídio - Tentado";"Arma Branca";"32315748 / 32311736";5676873-52.2023.8.09.0137;NÃO;N/A;"VÍTIMA E AUTORES SE DESENTENDERAM NA PORTA DA BOATE ANTONIETA";"Rafaela Dallagnol Secorun"
+IP;19/2023;"Apurando com autoria";Portaria;19/10/2023;"JOAO BATISTA PORFIRO DE MORAES
+WEMERSON GARCIA CARMO";"26
+27";"FLAVIO PEREIRA MAIA";"Homicídio - Tentado";"Arma de Fogo";29578909;5698848-33.2023.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO E ROUBO";"Fernando Michel de Freitas"
+IP;30/2023;"Apurando com autoria";Portaria;19/10/2023;"FERNANDO NASCIMENTO SILVA";32;"GABRIEL FELPE DA SILVA MELO
+LORRAINE DE JESUS FLORES";"Homicídio - Tentado";"Arma Branca";30912849;5536688-61.2023.8.09.0137;NÃO;N/A;"A VÍTIMA ESTAVA NA PORTA DA CASA DE SUA CUNHADA QUANDO FOI ATACADO PELA AUTORA";"Rafaela Dallagnol Secorun"
+IP;1330/2023;"Enviado ao PJ com autoria";APF;27/10/2023;" MANOEL MESSIAS ALVES DA CRUZ
+SIDNEY RODRIGUES SILVA CUNHA";"33
+56";"BAYRON KAUAN OLIVEIRA BARBOSA
+JOSUÉ BARBOSA";"Homicídio - Tentado";"Arma Branca";32449098;5696773-21.2023.8.09.0137;NÃO;N/A;"VITIMAS E AUTORES DISCUTIRAM POR CAUSA DA VENDA DE UMA VACA";"Rafaela Dallagnol Secorun"
+IP;1356/2023;"Enviado ao PJ com autoria";APF;01/11/2023;"WILLIAN RIBEIRO MARTINS";33;"WESLEY RIBEIRO MARTINS";"Homicídio - Consumado";"Arma de Fogo";"32528557 / 32534002";5707656-17.2023.8.09.0011;NÃO;N/A;"OS IRMÃOS SE DESENTENDERAM POR CAUSA DE DINHEIRO E PROBLEMAS FAMILIARES";"Rafaela Dallagnol Secorun"
+IP;1357/2023;"Enviado ao PJ com autoria";Portaria;01/11/2023;"JOSÉ CARVALHO DOS SANTOS";61;"JHONATAN MOURA AZEVEDO";"Homicídio - Consumado";"Arma Branca";32524993;5707646-70.2023.8.09.0011;NÃO;N/A;"A VÍTIMA DENUNCIOU O AUTOR E ESTE SE VINGOU";"Rafaela Dallagnol Secorun"
+IP;46/2023;"Enviado ao PJ com autoria";Portaria;05/11/2023;"DANIEL MEDEIROS DE OLIVEIRA";35;"DANILO DANTAS CASTELO BRANCO";"Homicídio - Tentado";"Arma Branca";33470784;5006156-30.2024.8.09.0137;NÃO;N/A;"VITIMA FOI GOLPEADA TRES VEZ PELO AUTOR DURANTE UMA DISCUSSÃO POR PERTECEREM A GRUPOS RIVAIS";"Rafaela Dallagnol Secorun"
+IP;44/2023;"Apurando com autoria";Portaria;11/11/2023;"LORENÇO MENDONÇA MELO";58;"DIEGO DA SILVA
+TONIEL MATHEUS DE LIMA ARAUJO";"Homicídio - Tentado";"Arma Branca";32680984;N/A;NÃO;N/A;"VITIMA E AUTORES SE DESENTENDERAM APOS UM ACIDENTE DE TRANSITO";"Fernando Michel de Freitas"
+IP;1413/2023;"Enviado ao PJ com pedido de arquivamento";APF;14/11/2023;"GERSON JEFERSON PEREIRA ARAÚJO 
+REJANE DOS SANTOS ROSA";65;"JOAS PEREIRA NASCIMENTO
+WELITON ARAÚJO SILVA";"Homicídio - Consumado
+Homicídio - Tentado";"Arma de Fogo";32715141;5736675-68.2023.8.09.0011;NÃO;N/A;"OS AUTORES DESEJAVAM MATAR SEU DESAFETO, EDILSON LIMA DOS SANTOS FILHO, MAS ACERTARAM AS VÍTIMAS";"Rafaela Dallagnol Secorun"
+IP;1442/2023;"Enviado ao PJ com autoria";APF;20/11/2023;"IGOR ANGELO DOS SANTOS OLIVEIRA";26;"MARCOS ISAAC CASTRO DOS SANTOS";"Homicídio - Consumado";"Arma de Fogo";32804554;5754231-83.2023.8.09.0011;NÃO;N/A;"CIUMES DO AUTOR EM RELAÇÃO A VITIMA/O EX MARIDO DA NAMORADA DA VÍTIMA O ALVEJOU NA PORTA DA CASA DESTE";"Rafaela Dallagnol Secorun"
+IP;1493/2023;"Enviado ao PJ com autoria";APF;27/11/2023;"ARTUR PEREIRA JUNIOR";33;"MARCOS FELIPE DOS SANTOS";"Homicídio - Consumado";"Arma Branca";32939390;5770130-34.2023.8.09.0137;NÃO;N/A;"VITIMA E AUTORES SAO VIZINHOS E SE DESENTENDERAM DURANTE UMA DISCUSSAO";"Fernando Michel de Freitas"
+IP;343/2023;"Apurando sem autoria";Portaria;28/11/2023;"JEFFERSON CURY
+LEONARDO RIBEIRO NALESSO";"40
+83";IGNORADO;"Homicídio - Consumado
+Homicídio - Tentado";"Arma de Fogo";33083351;"5100146-50.2025.8.09.0134
+5104893-77.2024.8.09.0134
+5336593-87.2024.8.09.0134
+5818642-57.2023.8.09.0134";NÃO;N/A;"CASO QUIRINÓPOLIS";"Fernando Michel de Freitas"
+IP;1518/2023;"Enviado ao PJ com autoria";APF;04/12/2023;"REGINALDO ROSA DA SILVA";38;"PAULO HENRIQUE LEITE AMORIM";"Homicídio - Tentado";"Arma de Fogo";33026715;5788510-95.2023.8.09.0011;NÃO;N/A;"BRIGA POR CAUSA DE SOM ALTO";"Fernando Michel de Freitas"
+IP;41/2023;"Enviado ao PJ com autoria";Portaria;06/12/2023;"EDIVANILSON GOUVEA DO COUTO JUNIOR";24;"LEONARDO DE JESUS FERREIRA";"Homicídio - Consumado";"Arma de Fogo";32533807;5733545-80.2023.8.09.0137;NÃO;N/A;"A VÍTIMA FOI ALVEJADA POR VÁRIOS DISPAROS DE ARMA DE FOGO NO INTERIOR DO SEU VEÍCULO";"Fernando Michel de Freitas"
+IP;43/2023;"Enviado ao PJ com autoria";Portaria;11/12/2023;"MATEUS ALVES BARBOSA";18;"PEDRO HENRIQUE VIEIRA DA SILVA";"Disparo de arma de fogo - Consumado";"Arma de Fogo";32624780;5831449-03.2023.8.09.0137;NÃO;N/A;"VITIMA TEVE UM CASO AMOROSO COM A COMPANHEIRO DO AUTOR QUE ATIROU COM ESPINGARDA EM SUA DIREÇÃO QND CHEGAVA EM CASA";"Fernando Michel de Freitas"
+IP;1635/2023;"Enviado ao PJ com autoria";APF;22/12/2023;"CLAYTON PEREIRA GOMES DE ABREU";31;"ANDRE LUIZ ANTUNES FERREIRA";"Homicídio - Tentado";"Arma de Fogo";33381975;5847788-37.2023.8.09.0137;NÃO;N/A;"A VITIMA DEVIA DINHEIRO AO AUTOR";"Rafaela Dallagnol Secorun"
+IP;01/2024;"Enviado ao PJ com autoria";Portaria;10/01/2024;"FRANSCISCO CARLOS SILVA MENDES";16;"RONEY PIRES BAILÃO
+SIDNEI PIRES BAILÃO";"Homicídio - Consumado";"Objeto Contundente";33412071;5028551-16.0000.0.00.0000;NÃO;26/02/2024;"VITIMA TERIA FURTADO DROGAS DOS AUTORES";"Fernando Michel de Freitas"
+IP;38/2023;"Enviado ao PJ com autoria";Portaria;10/01/2024;" KATIUSCIA SANTANA GARCIA(tentado)
+BRUNO MANOEL LOPES DOS SANTOS 
+LUIZ FERNANDO ROSA ESCOBAR 
+MARCOS GOMES FEITOSA
+VITOR PAULINO SANTANA";21;"CHRISTIAN PROFIRO DA CRUZ (MENOR)
+EVERSON GUILHERME PEREIRA RIBEIRO
+MAIKON MACHADO OLIVEIRA";"Homicídio - Consumado
+Outros - Tentado";"Arma de Fogo";32177565;5787304-56.2023.8.09.0137;NÃO;N/A;"VITIMAS FORAM ALVEJADAS POR TRES AUTORES QUE CHEGARAM EM UM VEICULO E TEM RIXA COM O GRUPO RIVAL NO BAIRRO";"Fernando Michel de Freitas"
+IP;107/2024;"Enviado ao PJ com autoria";APF;21/01/2024;"WESILON DE SOUZA RAMOS";57;"JORGE DOS SANTOS FILHO";"Homicídio - Tentado";"Arma Branca";33922200;5038226-03.2024.8.09.0137;NÃO;30/01/2024;"BRIGA DE BAR, AUTOR CHEGOU APARENTEMENTE SOB EFEITO DE DROGAS E ESFAQUEOU A VITIMA";"Fernando Michel de Freitas"
+IP;02/2024;"Enviado ao PJ com autoria";Portaria;27/01/2024;"DALVANIRA ALVES MARTINS FUGA
+OSVALDO FUGA FILHO";"1
+44";"OSVALDO FUGA FILHO";"Feminicídio - Consumado
+Suicídio - Consumado";"Arma de Fogo, Enforcamento";34013336;5137379-09.2024.8.09.0137;NÃO;29/02/2024;"VITIMA E AUTOR ESTAVAM EM PROCESSO DE SEPARAÇÃO";"Rafaela Dallagnol Secorun"
+IP;151/2024;"Enviado ao PJ com autoria";APF;31/01/2024;"MAX ALEN DE FREITAS SOUZA";43;"GLORIVAL CRUVINEL MORAES";"Disparo de arma de fogo - Consumado
+Furto - Consumado
+Porte de arma de fogo - Consumado";"Arma de Fogo";34071061;5061814-39.2024.8.09.0137;NÃO;13/03/2024;"VITIMA E AUTOR SE ENVOLVERAM EM UM ACIDENTE DE TRANSITO E SE DESENTENDERAM, SENDO QUE O AUTOR TOMOU A ARMA DA VÍTIMA (BOMBEIRO) E EFETUOU UM DISPARO CONTRA A VÍTIMA";"Rafaela Dallagnol Secorun"
+IP;03/2024;"Enviado ao PJ com autoria";Portaria;01/02/2024;"JÉSSICA MARTINS DE SOUSA";31;"PAULO AUGUSTO DA SILVA";"Feminicídio - Consumado";"Arma Branca, Objeto Contundente";34101784;5094818-67.2024.8.09.0137;NÃO;06/03/2024;"VITIMA USUÁRIA DE DROGA E GAROTA DE PROGRAMA COM MUITAS INIMIZADES";"Fernando Michel de Freitas"
+IP;18/2023;"Enviado ao PJ com autoria";Portaria;07/02/2024;"MESSIAS GONÇALVES DE OLIVEIRA";49;"DHAYGARO MATHEUS SOUZA SANTANA";"Outros - Consumado";"Arma Branca";29274561;5450449-54.2023.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICÍDIO";"Rafaela Dallagnol Secorun"
+IP;09/2024;"Enviado ao PJ com autoria";Portaria;09/02/2024;"DIEGO DOS SANTOS SALES";34;"MATHEUS FELIPE DOS SANTOS";"Homicídio - Tentado";"Arma de Fogo";34225999;5607412-56.2024.8.09.0137;SIM;21/06/2024;"EX COMPANHEIRO ATIROU CONTRA O NAMORADO DA TESTEMUNHA";"Rafaela Dallagnol Secorun"
+IP;4/2024;"Enviado ao PJ com autoria";APF;19/02/2024;"FABIO JUNIOR APOLINARIO VILELA";36;"MOACIR LEANDRO DA SILVA";"Homicídio - Consumado";"Arma Branca";34399096;5109284-66.2024.8.09.0137;NÃO;28/02/2024;"AUTOR ALEGA DESENTENDIMENTO COM A PESSOA DE VULGO PINTADINHO E QUE ACREDITA QUE A VÍTIMA ESTAVA INDO MATÁ-LO A MANDO DELE";"Fernando Michel de Freitas"
+IP;05/2024;"Enviado ao PJ com autoria";Portaria;21/02/2024;"FERNANDO MARTINS DE ANDRADE JUNQUEIRA";61;IGNORADO;"Suicídio - Consumado";"Arma de Fogo";34419227;5380567-68.2024.8.09.0137;NÃO;14/05/2024;"VÍTIMA COM HISTÓRICO DE DEPRESSÃO";"Rafaela Dallagnol Secorun"
+IP;01/2024;"Enviado ao PJ com autoria";APF;25/02/2024;"ANDRÉ GOMES DA SILVA";22;"BERNARDO BATISTA DE OLIVEIRA ARAÚJO";"Homicídio - Tentado";"Arma Branca";34497153;5125041-03.2024.8.09.0137;NÃO;04/03/2024;"AUTOR ESFAQUEOU O ATUAL NAMORADO DE SUA EX NAMORADA";"Rafaela Dallagnol Secorun"
+IP;06/2024;"Enviado ao PJ com autoria";Portaria;27/02/2024;"ANNA PAULA SILVA";27;"VANESSA DE SOUZA NASCIMENTO";"Homicídio - Tentado";"Arma Branca";34516918;5337100-39.2024.8.09.0137;NÃO;30/04/2024;"VÍTIMA ALEGA QUE AO NEGAR DINHEIRO PARA A AUTORA, FOI ATACADA COM UMA FACA.";"Fernando Michel de Freitas"
+IP;08/2024;"Enviado ao PJ com autoria";Portaria;01/03/2024;"AUIR LOPES GONÇALVES 
+RAINE LOPES GONÇALVES";"55
+59";"RAINE LOPES GONÇALVES";"Homicídio - Tentado
+Suicídio - Consumado";"Arma Branca, Enforcamento";34567691;5336840-59.2024.8.09.0137;NÃO;30/04/2024;"O AUTOR ESFAQUEOU O IRMÃO E DEPOIS SE MATOU";"Rafaela Dallagnol Secorun"
+IP;301/2024;"Enviado ao PJ com autoria";APF;03/03/2024;"ALBERTO CARLOS DE ALMEIDA
+ALDA CELESTE ALVES BATISTA DE ALMEIDA
+OTÁVIO ALVES DE ALMEIDA";"15
+50
+54";"HYGOR EMRICH LEÃO";"Homicídio no Trânsito - Consumado
+Homicídio no Trânsito - Tentado
+Lesão Corporal - Consumado";Veículo;34608666;5145883-04.2024.8.09.0137;NÃO;15/05/2024;"ACIDENTE DE TRÂNSITO";"Rafaela Dallagnol Secorun"
+IP;11/2024;"Enviado ao PJ com autoria";Portaria;04/03/2024;"NÃO IDENTIFICADA";1;IGNORADO;"Morte a esclarecer - Consumado";Incêndio;34613299;5379826-28.2024.8.09.0137;NÃO;14/05/2024;"BARRACÕES FREQUENTADOS POR MORADORES DE RUA PEGOU FOGO E UM CORPO FOI ENCONTRADO CARBONIZADO.";"Fernando Michel de Freitas"
+IP;07/2024;"Enviado ao PJ com autoria";Portaria;05/03/2024;"DANIEL DONEGA DE OLIVEIRA";38;"JOHN FREITAS DA SILVA";"Homicídio - Tentado";"Arma Branca";34627824;5337900-67.2024.8.09.0137;NÃO;30/04/2024;"BRIGA DE IRMÃOS, AUTOR DAS FACADAS SE SUICIDOU";"Rafaela Dallagnol Secorun"
+IP;345/2024;"Enviado ao PJ com autoria";APF;09/03/2024;"BRUNO SOUSA DA SILVA";25;"CAUAN DE JESUS CRATEUS ALVES";"Homicídio - Consumado";"Arma Branca";34699001;5163655-67.2024.8.09.0011;NÃO;18/03/2024;"VÍTIMA DEVIA R$30,00 PARA O AUTOR, O QUE GEROU O DESENTENDIMENTO";"Fernando Michel de Freitas"
+IP;10/2024;"Enviado ao PJ com autoria";APF;09/04/2024;"IVAN DOS SANTOS";41;"LEO SILVA DE SOUZA
+OSEAS BORGES DA SILVA";"Homicídio - Consumado";Enforcamento;35164378;5267788-73.2024.8.09.0137;NÃO;17/04/2024;"USUÁRIOS DE DROGAS QUE TINHAM UM DESENTENDIMENTO ANTERIOR";"Fernando Michel de Freitas"
+IP;517/2024;"Enviado ao PJ com autoria";APF;13/04/2024;"GUILLER GONÇALVES DE SOUZA
+JEANNE SANCHES NASCIMENTO";"19
+32";"WELTON ALVES FERREIRA SOBRINHO";"Homicídio - Consumado
+Homicídio - Tentado";"Arma de Fogo";35253372;5283618-69.2024.8.09.0011;NÃO;22/04/2024;"VÍTIMA E AUTOR TINHAM UM DESENTENDIMENTO DEVIDO A UMA DISPUTA POR PONTOS DE VENDAS DE CHOCOLATES PELA CIDADE";"Fernando Michel de Freitas"
+IP;12/2024;"Enviado ao PJ com autoria";Portaria;19/04/2024;"LEANDRO JOSÉ DA SILVA";31;"VALTEMIR CRUZ SILVA";"Homicídio - Tentado";"Arma Branca";35357409;5311361-64.2024.8.09.0137;SIM;06/06/2024;"VITIMA E AUTOR TRABALHAVAM JUNTOS E DISCUTIRAM NO ONIBUS DE TRANSPORTE DA EMPRESA";"Rafaela Dallagnol Secorun"
+IP;548/2024;"Enviado ao PJ com autoria";APF;21/04/2024;"VANDERLEI NOGUEIRA DOS SANTOS";36;"INGRID CORREIA DOS SANTOS
+THIAGO FERNANDES MARQUES
+WEGLESSON PEREIRA SILVA";"Homicídio - Tentado";"Arma Branca, Objeto Contundente";35403352;5310861-95.2024.8.09.0137;SIM;30/04/2024;"VITIMA ACUSOU O AUTOR THIAGO DE ABUSAR SEXUALMENTE DE UM CRIANÇA. THIAGO E OS PAIS DA CRIANÇA AGREDIRAM A VÍTIMA";"Rafaela Dallagnol Secorun"
+IP;551/2024;"Enviado ao PJ com autoria";Portaria;22/04/2024;"NIELE SANTOS DIAS";26;"GRAZIELLY VITORIA ALVES DE OLIVEIRA
+VERONICA QUEIROZ GOMES";"Homicídio - Tentado";"Arma Branca";35406124;5310965-87.2024.8.09.0137;NÃO;30/04/2024;"VÍTIMA E AUTORAS SE DESENTENDERAM NO FORRÓ DO BAIXINHO, OCASIÃO EM QUE A AUTORA TAMBÉM ATINGIU CULPOSAMENTE UMA MULHER QUE ESTAVA PRÓXIMA COM UMA FACADA NAS COSTAS.";"Fernando Michel de Freitas"
+IP;15/2024;"Enviado ao PJ com autoria";Portaria;23/04/2024;"VINÍCIUS SILVA VIEIRA";24;"BRUNNO ALVES MATOS
+DÉBORA BEATRIZ RODRIGUES DA SILVA
+FILIPH RANGEL ALVES PEREIRA
+MARCUS VINÍCIUS DE ARAÚJO RIBEIRO
+PEDRO HENRIQUE MARTINS MORAIS";"Homicídio - Consumado";"Arma Branca";"35451332
+35455394";5367512-50.2024.8.09.0137;NÃO;12/07/2024;"VÍTIMA TEVE UM DESENTENDIMENTO ANTIGO COM OS AUTORES POR CAUSA DE UMA DÍVIDA";"Fernando Michel de Freitas"
+IP;13/2024;"Enviado ao PJ com autoria";APF;26/04/2024;"CELIOMAR AQUINO DA SILVA";47;"GILMAR ALVES DOS SANTOS";"Homicídio - Consumado";"Objeto Contundente";35475189;5327965-90.2024.8.09.0011;NÃO;03/05/2024;"VÍTIMA E AUTOR SÃO USUÁRIOS DE DROGAS E SE DESENTENDERAM NA PRAÇA";"Rafaela Dallagnol Secorun"
+IP;14/2024;"Enviado ao PJ com autoria";Portaria;27/04/2024;"KATHERINE LILIANA ROJAS TORRES";35;"MARCOS SHIGUEO KUABATA";"Feminicídio - Consumado";"Arma Branca";35506622;5363862-92.2024.8.09.0137;NÃO;14/06/2024;"VITIMA ERA DONA DE UM BAR E PROSTÍBULO";"Fernando Michel de Freitas"
+IP;180/2024;"Enviado ao PJ com autoria";APF;27/04/2024;"GEORGE DIAS PEREIRA";29;"DENOMAR ALVES RODRIGUES";"Homicídio - Consumado";"Arma Branca";35498159;5329745-65.2024.8.09.0011;NÃO;06/05/2024;"VITIMA E AUTOR SE DESENTENDERAM POR CAUSA DE UMA DIVIDIA DE ALUGUEL";"Rafaela Dallagnol Secorun"
+IP;16/2024;"Enviado ao PJ com autoria";APF;21/05/2024;"A SAÚDE PÚBLICA";1;"MARCOS SHIGUEO KUABATA";"Tráfico de Drogas - Consumado";"Não identificado";35897764;5405098-24.2024.8.09.0137;NÃO;21/06/2024;"DROGA APREENDIDA DURANTE CUMPRIMENTO DE BUSCA E APREENSÃO - DROGA ENCAMINHADA EM 03/06/2024 PARA INCINERAÇÃO";"Rafaela Dallagnol Secorun"
+IP;240615367;"Enviado ao PJ com autoria";Portaria;22/05/2024;"SERGIO VITOR BATISTA OLIVEIRA MELO";23;"ANTHONY GABRIEL GUERRA GUERRA";"Homicídio - Tentado";"Arma Branca";35919757;5431257-04.2024.8.09.0137;NÃO;21/06/2024;"VITIMA ERA USUARIA DE DROGAS E TINHA DIVIDAS";"Rafaela Dallagnol Secorun"
+IP;240622869;"Enviado ao PJ com autoria";APF;09/06/2024;"ADÃO NASCIMENTO BASTOS
+MARAISA MARTINS DE OLIVEIRA
+TANIA CUNHA ARAUJO";"32
+37
+62";"DHEYSON DE SOUSA PEREIRA";"Homicídio - Tentado";"Arma de Fogo";36214815;5558889-13.2024.8.09.0137;NÃO;19/06/2024;"VITIMA E AUTOR TRABALHAVAM JUNTOS NA OBRA DE DO NOVO HMU, TIVERAM UMA DISCUSSÃO, A VÍTIMA ESTAVA ARMADA, O AUTOR TOMOU A ARMA DA VÍTIMA E DESFERIU VÁRIOS DISPAROS QUE ATINGIRAM DUAS MULHERES QUE ESTAVAM SENTADAS NA PORTA DE CASA.";"Fernando Michel de Freitas"
+IP;240623848;"Enviado ao PJ com autoria";APF;11/06/2024;"DANILO FERREIRA PERES";26;"MURILO SILVA VIEIRA";"Homicídio - Consumado";"Arma de Fogo";36241067;5563136-37.2024.8.09.0137;NÃO;09/07/2024;"AUTOR TINHA UMA RIXA COM O VIZINHO DA VÍTIMA";"Rafaela Dallagnol Secorun"
+IP;240629388;"Apurando com autoria";APF;18/06/2024;"O ESTADO";1;"MARCUS VINICIUS DE ARAÚJO RIBEIRO";"Tráfico de Drogas - Consumado";"Não identificado";36345088;N/A;NÃO;N/A;"DROGA ENCONTRADA NA CASA DO AUTOR DURANTE CUMPRIMENTO DE BUSCAS";"Rafaela Dallagnol Secorun"
+IP;240635811;"Enviado ao PJ com autoria";Portaria;22/06/2024;"NILTON OLIVEIRA FERNANDES";31;"CICERO PIRES GONCALVES DE OLIVEIRA";"Homicídio - Tentado";"Arma Branca";36409870;5694613-86.2024.8.09.0137;NÃO;16/10/2024;"A VÍTIMA AGREDIU O AUTOR COM TAPAS NO ROSTO, DEPOIS DISSO O AUTOR SAIU DO LOCAL E VOLTOU COM UMA FACA E ESFAQUEOU A VÍTIMA.";"Fernando Michel de Freitas"
+IP;240664851;"Apurando com autoria";APF;28/07/2024;"GABRIEL FERREIRA SILVA
+ROGERIO OLIVEIRA NASCIMENTO FILHO";"21
+25";"GUILHERME OLIVEIRA MACHADO
+LUANDERSON FERREIRA DE OLIVEIRA
+MAYRONE SILVA FERREIRA";"Homicídio - Tentado";"Arma de Fogo";37005103;5726136-09.2024.8.09.0011;SIM;N/A;"TROCA DE TIROS EM UMA FESTA";"Fernando Michel de Freitas"
+IP;240689321;"Enviado ao PJ com autoria";Portaria;28/07/2024;"A COLETIVIDADE";1;"CUSTÓDIO CABRAL DA SILVA";"Disparo de arma de fogo - Consumado";"Arma de Fogo";37010239;6049667-61.2024.8.09.0137;NÃO;14/11/2024;"AUTOR ATIROU NOS CACHORROS QUE BRIGAVAM";"Rafaela Dallagnol Secorun"
+IP;240676006;"Enviado ao PJ com autoria";Portaria;28/07/2024;"RAIMUNDO FARIAS SILVA";27;GCM;"Lesão Corporal - Consumado";"Arma de Fogo";"37004833
+37184979 ";6052620-95.2024.8.09.0137;NÃO;18/11/2024;"A VÍTIMA AMEAÇOU SUA COMPANHEIRA E DEPOIS OS AGENTES QUE DISPARARAM EM SEU DESFAVOR";"Rafaela Dallagnol Secorun"
+IP;240666660;"Enviado ao PJ com autoria";Portaria;29/07/2024;"MATHEUS ALMEIDA RIBEIRO";25;"LUDIEYME MOREIRA DA CRUZ
+MATHEUS BORGES LAURIANO FERREIRA";"Homicídio - Consumado";"Arma de Fogo";37028726;"5814103-05.2024.8.09.0137
+5830411-19.2024.8.09.0137";NÃO;23/09/2024;"CADÁVER ENCONTRADO EM LOTEAMENTO EM CONSTRUÇÃO NO BAIRRO MARANATA, COM SINAIS DE VIOLÊNCIA E LESÕES PROVOCADAS POR ARMA DE FOGO. - GRUPO FAMÍLIAS ENLUTADAS";"Fernando Michel de Freitas"
+VPI;241068284;"Apurando (VPI)";Despacho;31/07/2024;"ADÃO JUSTINO DOS SANTOS";1;IGNORADO;"Morte a esclarecer - Consumado";Veneno;"37023603
+37078062";N/A;NÃO;N/A;"IRMÃO RELATA QUE A VÍTIMA FOI ENVENENADA.";"Fernando Michel de Freitas"
+IP;240677687;"Enviado ao PJ com autoria";Portaria;01/08/2024;"JIVANILSON NASCIMENTO DOS SANTOS";33;"ANA CAROLINA VIEIRA DA SILVA
+GETULIO LUIS DA COSTA ARAUJO
+GUSTAVO FELIX DE SOUZA SANTOS";"Homicídio - Consumado";"Arma Branca";37075303;5797260-62.2024.8.09.0137;NÃO;13/09/2024;"VITIMA ENCONTRADA EM ESTADO AVANÇADO DE DECOMPOSIÇÃO EM LAGOA DO BAUZINHO";"Fernando Michel de Freitas"
+IP;240685190;"Enviado ao PJ com autoria";APF;18/08/2024;"ANTONIO CARLOS CARVALHO MARINHO";53;"DERISVANE SOUSA SANTOS";"Homicídio - Consumado";"Arma Branca";37362013;5794181-65.2024.8.09.0137;NÃO;28/08/2024;"VITIMA E AUTOR TRABALHAVAM JUNTOS NA MESMA EMPRESA E RESIDIAM NO MESMO ALOJAMENTO";"Rafaela Dallagnol Secorun"
+IP;240686456;"Enviado ao PJ com autoria";APF;19/08/2024;"FABRICIO BERNARDES";41;"DAVID SILVA SANTOS";"Homicídio - Tentado";"Objeto Contundente";37374879;5863340-08.2024.8.09.0137;NÃO;10/09/2024;"VITIMA E AUTOR DISCUTIRAM PORQUE A VÍTIMA ESTARIA MEXENDO COM A MULHER DO AUTOR";"Rafaela Dallagnol Secorun"
+IP;240686331;"Enviado ao PJ com autoria";APF;19/08/2024;"ANTÔNIO SIVERNANDES SILVA";41;"RICARDO HENRIQUE SILVA E SILVA";"Homicídio - Consumado";"Arma Branca";37367750;5797657-24.2024.8.09.0137;NÃO;28/08/2024;"VITIMA E AUTOR DISCUTIRAM POR UMA COMPRA DE DROGAS";"Rafaela Dallagnol Secorun"
+IP;240691707;"Apurando com autoria";APF;25/08/2024;"CARLOS EDUARDO DO CARMO FRANCA";23;"WEFERSON BARBOSA SANTOS";"Homicídio - Tentado";"Arma Branca";"37449900
+37475876 ";5817154-14.2024.8.09.0011;NÃO;N/A;"DURANTE UMA BRIGA POR CAUSA DO VOLUME DO SOM E DAS MÚSICAS TOCADAS, A VÍTIMA DESFERIU UM GOLPE COM UM TRONCO DE ÁRVORE NA CABEÇA DO AUTOR, O QUAL REVIDOU DESFERINDO DIVERSAS FACADAS NA VÍTIMA.";"Fernando Michel de Freitas"
+IP;2406101126;"Apurando com autoria";Portaria;04/09/2024;"ALESSANDRA MORAIS DA CONCEIÇÃO
+FERNANDO VINNICIUS COIMBRA DE MORAIS
+ITAMAR";"30
+52
+55";"LUCAS RAFAEL MARQUES DE SOUZA";"Ameaça - Consumado
+Homicídio - Tentado";"Arma Branca";37584447;;NÃO;N/A;"A EX MULHER DO AUTOR E ATUAL NAMORADA DA VÍTIMA CHAMOU A VÍTIMA ATÉ SUA CASA ONDE SOFREU UMA EMBOSCADA POR PARTE DO AUTOR";"Fernando Michel de Freitas"
+IP;2406106468;"Enviado ao PJ com autoria";APF;08/09/2024;"SAMUEL COSTA";23;"JOSÉ WILSON DA SILVA E SILVA
+RADILSON CONCEIÇÃO DA SILVA
+VINÍCIUS DE SOUZA NASCIMENTO";"Homicídio - Tentado";"Arma Branca";37714521;"5862346-77.2024.8.09.0137
+5931416-84.2024.8.09.0137";NÃO;03/10/2024;"VÍTIMA E AUTORES ESTAVAM BEBENDO E USANDO DROGAS JUNTOS QUANDO INICIARAM UMA DISCUSSÃO POR MOTIVO BANAL";"Rafaela Dallagnol Secorun"
+IP;2406118627;"Enviado ao PJ com autoria";APF;21/09/2024;"EDILSON GOMES SILVA";30;"HENRIQUE SANTOS BRAZ";"Homicídio no Trânsito - Consumado";Veículo;37919636;"5898169-05.2024.8.09.0011
+6139747-71.2024.8.09.0137";SIM;17/12/2024;"AUTOR COLIDIU SEU CARRO COM UM VEÍCULO ESTACIONADO, NO QUAL O A VÍTIMA ESTAVA ESCORADA, CAIU NO CHÃO E FOI ATROPELADA PELO VEÍCULO DO AUTOR";"Rafaela Dallagnol Secorun"
+IP;2406132416;"Enviado ao PJ com autoria";APF;03/10/2024;"CASSIO BRUNO BARROSO";48;"ALLAN ALVES SOUSA
+CÁSSIO JOSÉ SOUZA DE OLIVEIRA
+CHESTER BATISTA DA SILVA
+LARA OLIVEIRA DA SILVA
+MÁRIO SÉRGIO FERRARI
+PAULO HENRIQUE SOUZA
+RONALDO SILVANO MOREIRA";"Homicídio - Consumado";"Arma de Fogo";38125835;"5937626-44.2024.8.09.0011
+5983869-56.2024.8.09.0137
+5993746-20.2024.8.09.0137
+6059228-12.2024.8.09.0137
+6064179-49.2024.8.09.0137
+6087493-24.2024.8.09.0137";NÃO;10/12/2024;"VITIMA ERA ADVOGADO E FOI MORTO COM CINCO TIROS NA PORTA DE SEU ESCRITÓRIO";"Fernando Michel de Freitas"
+IP;2406132428;"Enviado ao PJ com autoria";APF;04/10/2024;"JONILTON DE SOUZA QUEIROZ";31;"GUSTAVO COELHO DOS SANTOS";"Homicídio - Consumado";"Arma Branca";38152496;5937630-81.2024.8.09.0011;NÃO;14/02/2025;"VITIMA FOI ESFAQUEADA PELO ENTEADO QUE DEFENDIA A MÃE DE AGRESSÕES";"Rafaela Dallagnol Secorun"
+IP;2406134994;"Enviado ao PJ com autoria";Portaria;05/10/2024;"OCLEVERSON PEREIRA DA SILVA";47;"FABRICIO ROMEIRO BARRETO LEMES
+KAIQUE SANTAN SILVA ALBUQUERQUE
+RAI DA SILVA LIMA";"Homicídio - Consumado";"Arma de Fogo";38158047;"5971530-65.2024.8.09.0137
+6008344-76.2024.8.09.0137
+6074412-08.2024.8.09.0137";NÃO;26/11/2024;"VTIMA BRIGOU COM TRÊS HOMENS EM UM BAR";"Rafaela Dallagnol Secorun"
+IP;2406139071;"Enviado ao PJ sem autoria";Portaria;08/10/2024;"LEANDRO SANTOS ROSA";1;Ignorado;"Morte a esclarecer - Consumado";"Não identificado";38206540;5114941-52.2025.8.09.0137;NÃO;14/02/2025;"VITIMA FOI PRESA NO DIA 07/10/2024 APÓS UM SURTO PSICÓTICO E MORREU NO DIA SEGUINTE NA CPP";"Rafaela Dallagnol Secorun"
+IP;2406135984;"Enviado ao PJ com autoria";Portaria;08/10/2024;"JULIANO PETERSON SOUZA DURIGON";46;"VANDERLEI SOUSA CRUVINEL";"Homicídio - Consumado";"Arma de Fogo";38206102;"5947058-97.2024.8.09.0137
+6002883-26.2024.8.09.0137";NÃO;29/10/2024;"VITIMA E AUTOR ERAM CUNHADOS E POSSUIAM UM DESENTENDIMENTO HÁ MAIS DE 10 ANOS";"Rafaela Dallagnol Secorun"
+IP;2406136894;"Enviado ao PJ com autoria";APF;09/10/2024;"A COLETIVIDADE";1;"VANDERLEI SOUSA CRUVINEL";"Porte de arma de fogo - Consumado";"Arma de Fogo";38227644;5948168-34.2024.8.09.0137;NÃO;17/10/2024;"VITIMA E AUTOR ERAM CUNHADOS E POSSUÍAM UM DESENTENDIMENTO HÁ MAIS DE 10 ANOS";"Fernando Michel de Freitas"
+IP;2406147071;"Enviado ao PJ com autoria";Portaria;20/10/2024;"ANIZIO RICARDO PEREIRA SILVA";27;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Arma de Fogo";38395033;5248015-08.2025.8.09.0137;NÃO;31/03/2025;"CPE FOI REALIZAR ABORDAGEM DE UM GOL BRANCO NA GO 174 E O MOTORISTA DO GOL DESEMBARCOU E DISPAROU CONTRA OS POLICIAIS MILITARES, OCORRENDO REVIDE A INJUSTA AGRESSÃO, LEVANDO O MOTORISTA DO GOL A ÓBITO.";"Fernando Michel de Freitas"
+IP;2406150645;"Apurando com autoria";APF;24/10/2024;"A COLETIVIDADE";1;"ELISANGELA MACHADO TAVARES 
+JUSCELIA FERREIRA INACIO";"Porte de arma de fogo - Consumado";"Arma de Fogo";38467863;"5989614-17.2024.8.09.0137
+9090909-09.0909.0.90.9090";NÃO;N/A;"DURANTE AS DILIGÊNCIAS PARA LOCALIZAR O AUTOR DO HOMICÍDIO DE UM CAMINHONEIRO, FORAM ENCONTRADAS AS ARMAS NA POSSE DAS INVESTIGADAS.";"Fernando Michel de Freitas"
+IP;2406150652;"Enviado ao PJ com autoria";APF;24/10/2024;"FELIPE DE SÁ REIS
+JOAO SEVERINO MACEDO";"22
+66";"JOSIMAR MACHADO ALVES";"Homicídio - Consumado
+Homicídio - Tentado";"Arma de Fogo";38467750;5990409-23.2024.8.09.0137;NÃO;30/10/2024;"APÓS UMA DISCUSSÃO NO TRÂNSITO, O AUTOR FOI ATÉ SEU VEÍCULO E PEGOU UMA ARMA DE FOGO E DISPAROU CONTRA A VÍTIMA AINDA DENTRO DO CAMINHÃO.";"Rafaela Dallagnol Secorun"
+IP;2406150293;"Enviado ao PJ com autoria";APF;24/10/2024;"JOAO BATISTA DA SILVA
+MARIA LUCIA DOS SANTOS GOULART SILVA";"55
+56";"NAILTON SILVA DOS SANTOS";"Homicídio - Consumado
+Homicídio - Tentado";"Arma Branca";38457064;"5987462-83.2024.8.09.0011
+6009300-82.2024.8.09.0137";NÃO;31/10/2024;"O AUTOR POSSUI ESQUIZOFRENIA E ALUCINOU QUE O PAI QUERIA CAPÁ-LO, POR ESSA RAZÃO ELE DECIDIU MATAR O PAI A FACADAS ENQUANTO DORMIA.";"Rafaela Dallagnol Secorun"
+IP;2406169440;"Apurando com autoria";Portaria;09/11/2024;"FLAVIO DE JESUS NERY";30;"IRIVELTO JUSTINO DE OLIVEIRA
+MARCIEL SAURES DOS SANTOS";"Morte por intervenção policial - Consumado";"Arma de Fogo";38727236;;NÃO;N/A;;"Rafaela Dallagnol Secorun"
+IP;2406176342;"Enviado ao PJ com autoria";APF;23/11/2024;"CAROLINA DA SILVA LIMA";23;"JOSÉ CARLOS DA SILVA DE SOUZA";"Feminicídio - Consumado";"Arma Branca";38937166;"6070261-86.2024.8.09.0011
+6096752-43.2024.8.09.0137";NÃO;29/11/2024;;"Rafaela Dallagnol Secorun"
+IP;2406183068;"Enviado ao PJ com autoria";APF;29/11/2024;"ELDA PEREIRA DA SILVA";40;"LUCIANO DA ROCHA CAVALCANTE";"Feminicídio - Consumado";"Arma Branca";39050259;"6089991-83.2024.8.09.0011
+6106823-07.2024.8.09.0137";NÃO;05/12/2024;;"Rafaela Dallagnol Secorun"
+IP;2406188778;"Enviado ao PJ com autoria";APF;04/12/2024;"LUCAS PAULO BORGES";28;"WARLEY FERREIRA DE SOUZA";"Homicídio - Consumado";"Arma Branca";"39116139
+39145992";"6108073-75.2024.8.09.0137
+6131841-30.2024.8.09.0137";NÃO;13/12/2024;"DOIS USUÁRIOS DE DROGAS DISCUTIRAM POR CAUSA DE UM CELULAR";"Rafaela Dallagnol Secorun"
+IP;2406194410;"Apurando com autoria";Portaria;12/12/2024;"CASSIO BRUNO BARROSO";48;"ERICH MARQUES DE SOUSA
+SHARLINTHON SILVA MORAIS";"Homicídio - Consumado";"Arma de Fogo";"39229799
+39776673
+39779979 
+39801991
+40071674
+40087611
+40097722
+40609631";"5023807-41.2025.8.09.0137
+5039168-98.2025.8.09.0137
+5076143-12.2025.8.09.0011
+5113372-16.2025.8.09.0137
+6132438-96.2024.8.09.0137";NÃO;N/A;"INQUÉRITO PARA CONTINUIDADE DAS INVESTIGAÇÕES PARA IDENTIFICAR OUTROS ENVOLVIDOS NO HOMICÍDIO.";"Fernando Michel de Freitas"
+VPI;2410200118;"Convertida para IP (VPI)";Despacho;18/12/2024;"FABIO RODRIGUES CARVALHO";29;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Arma de Fogo";39361888;;NÃO;N/A;"CONFRONTO POLICIAL";"Fernando Michel de Freitas"
+IP;2406203926;"Enviado ao PJ com autoria";APF;25/12/2024;"DIEGO SILVA LIMA
+VALTER FERREIRA DE LIMA";"27
+56";"KAIO SILVA LIMA";"Homicídio - Tentado";"Arma de Fogo";39470747;"5088940-30.2025.8.09.0137
+6159378-88.2024.8.09.0011";SIM;06/02/2025;"DURANTE UMA CONFRATERNIZAÇÃO DE NATAL, JÁ NA MADRUGADA, DOIS IRMÃOS, DIEGO (O MAIS VELHO) E KAIO (O MAIS NOVO), COMEÇARAM A DISCUTIR. DIEGO QUERIA ENCERRAR A NOITE PARA DORMIR, ENQUANTO KAIO DESEJAVA CONTINUAR JOGANDO TRUCO COM SEUS AMIGOS. IRRITADO, DIEGO MANDOU OS AMIGOS DE KAIO EMBORA.
+
+KAIO NÃO ACEITOU BEM A ATITUDE DO IRMÃO E, TOMADO PELA RAIVA, PEGOU UMA ARMA DE FOGO QUE PERTENCIA AO PAI DELES. EM UM MOMENTO DE DESCONTROLE, KAIO DISPAROU CONTRA UMA PORTA, TENTANDO ATINGIR DIEGO, QUE ESTAVA DO OUTRO LADO. CONTUDO, OS TIROS ACABARAM ACERTANDO O PRÓPRIO PAI, QUE FOI FERIDO NO LUGAR DO IRMÃO.";"Fernando Michel de Freitas"
+IP;2406204076;"Enviado ao PJ com autoria";APF;26/12/2024;"ANDERSON GAMA DOS SANTOS";26;"EDNALDO VICENTE DA SILVA";"Homicídio - Consumado";"Arma Branca";"39469990
+39479462";"5198924-46.2025.8.09.0137
+6158700-73.2024.8.09.0011";NÃO;17/03/2025;"O AUTOR TRANSITAVA DE CARRO QUANDO O PNEU DO VEÍCULO FUROU EM FRENTE A UM SOBRADO ONDE A VÍTIMA SE ENCONTRAVA. A VÍTIMA AVISOU AO AUTOR SOBRE O PNEU FURADO, MAS A INTERAÇÃO RESULTOU EM UMA DISCUSSÃO ENTRE AMBOS. DURANTE A DISCUSSÃO, A VÍTIMA ARREMESSOU UMA LATA DE CERVEJA EM DIREÇÃO AO VEÍCULO DO AUTOR.
+
+NA SEQUÊNCIA, A VÍTIMA DESCEU DO SOBRADO E FOI EM DIREÇÃO AO AUTOR, INICIANDO UMA AGRESSÃO FÍSICA AO DESFERIR SOCOS CONTRA ELE. DURANTE O CONFRONTO, O AUTOR REAGIU UTILIZANDO UM CANIVETE, DESFERINDO UM GOLPE QUE CAUSOU UM FERIMENTO FATAL NA VÍTIMA, LEVANDO-A A ÓBITO.";"Fernando Michel de Freitas"
+VPI;2410204069;"Convertida para IP (VPI)";Despacho;26/12/2024;"PAULO AUGUSTO DA SILVA";59;"GILDO SANTOS";"Homicídio - Tentado";"Arma Branca";39479034;N/A;NÃO;N/A;"BRIGA - SEM MAIORES INFORMAÇÕES";"Fernando Michel de Freitas"
+IP;2406205363;"Apurando com autoria";Portaria;27/12/2024;"PAULO AUGUSTO DA SILVA";59;"GILDO SANTOS";"Homicídio - Tentado";"Arma Branca";39479034;N/A;NÃO;N/A;"BRIGA ENTRE DOIS USUÁRIOS DE DROGAS. A VÍTIMA É PAULO AUGUSTO DA SILVA, PRESO PELA MORTE DA JÉSSICA MARTINS DE SOUSA.";"Fernando Michel de Freitas"
+IP;2406206695;"Apurando com autoria";Portaria;30/12/2024;"TACIO LUIZ DA SILVA";24;"GABRIEL FERREIRA SILVA (Rabicó)";"Homicídio - Consumado";"Arma de Fogo";"39517140
+39603393";"5011019-92.2025.8.09.0137
+5117214-04.2025.8.09.0137";NÃO;N/A;"UM HOMEM ENTROU NUMA CASA DE NARGUILÉ E DISPAROU CONTRA A VÍTIMA, FUGINDO DO LOCAL A PÉ E USANDO CAPACETE.";"Fernando Michel de Freitas"
+VPI;2410206921;"Encaminhada para outra delegacia (VPI)";Despacho;31/12/2024;"MARCOS VINICIUS OLIVEIRA CARDOSO";13;"VIVIANE HENRIQUE DE OLIVEIRA";"Ameaça - Consumado";"Não identificado";"39468250
+39489257";;NÃO;N/A;"ADOLESCENTE DE 13 ANOS FUGIU DE CASA EM JATAÍ E VEIO PARA RIO VERDE DE BICICLETA, AFIRMANDO QUE SOFREU AGRESSÕES E AMEAÇAS COM UMA FACA POR PARTE DE SUA MÃE.";"Fernando Michel de Freitas"
+IP;2406206952;"Apurando com autoria";Portaria;31/12/2024;"FABIO RODRIGUES CARVALHO";29;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Arma de Fogo";39361888;N/A;NÃO;N/A;"DURANTE TENTATIVA DE ABORDAGEM REALIZADA PELA EQUIPE DA POLÍCIA MILITAR (CPE 90) A UM INDIVÍDUO COM MANDADO DE PRISÃO EM ABERTO, ESTE, AO AVISTAR A VIATURA, EMPREENDEU FUGA, TRANSPONDO DIVERSAS PROPRIEDADES RESIDENCIAIS. DURANTE A PERSEGUIÇÃO, O INDIVÍDUO ADENTROU UMA RESIDÊNCIA LOCALIZADA NA RUA JA 08, QUADRA 08, LOTE 14, BAIRRO MAURÍCIO ARANTES, E EFETUOU DISPAROS DE ARMA DE FOGO CONTRA OS POLICIAIS.
+
+DIANTE DA INJUSTA AGRESSÃO E VISANDO CESSAR A AMEAÇA IMINENTE À INTEGRIDADE FÍSICA DOS AGENTES DE SEGURANÇA, FOI NECESSÁRIO O USO PROPORCIONAL DA FORÇA, COM REVIDE À AGRESSÃO. O INDIVÍDUO FOI ALVEJADO E IMEDIATAMENTE SOCORRIDO AO HOSPITAL MUNICIPAL UNIVERSITÁRIO DE RIO VERDE, ONDE VEIO A ÓBITO APÓS ATENDIMENTO MÉDICO.";"Fernando Michel de Freitas"
+IP;2406207007;"Enviado ao PJ com autoria";APF;07/01/2025;"MARCIEL ALEXANDRE DA SILVA";35;"JOAO VITOR BARROS COSTA";"Homicídio - Tentado";"Arma Branca";"39563000
+39564904";"5012922-65.2025.8.09.0137
+6166512-69.2024.8.09.0011";SIM;09/01/2025;"BRIGA ENTRE USUÁRIOS DE DROGAS.";"Fernando Michel de Freitas"
+VPI;2510213839;"Encaminhada para outra delegacia (VPI)";Despacho;09/01/2025;"GILVAN DA CONCEIÇÃO";50;"ISRAEL SAMPAIO DOS REIS";"Lesão Corporal - Consumado";"Arma Branca";39689526;;NÃO;N/A;"FUNCIONÁRIO (ISRAEL) E PATRÃO (GILVAN) DE UMA BORRACHARIA DISCUTIRAM DEVIDO A QUALIDADE DO TRABALHO DAQUELE, SENDO QUE ISRAEL FERIU GILVAN COM GOLPES DE ARMA BRANCA.";"Rafaela Dallagnol Secorun"
+VPI;2510217806;"Apurando (VPI)";Despacho;14/01/2025;"JOSÉ GABRIEL DAS NEVES";75;IGNORADO;"Suicídio - Consumado";"Arma Branca";39725835;N/A;NÃO;N/A;"VITIMA IDOSA DE 75 ANOS TIROU A PROPRIA VIDA COM UMA UNICA FACADA NO PESCOÇO EM SUA CHÁCARA.";"Rafaela Dallagnol Secorun"
+VPI;2510218537;"Convertida para IP (VPI)";Despacho;14/01/2025;"CÁSSIO BRUNO BARROZO";40;"ANTÔNIO RODRIGUES EUFRÁZIO";"Outros - Consumado";"Arma de Fogo";39779979;N/A;NÃO;N/A;"APREENSÃO DE UMA ARMA DE FOGO NA CIDADE DE MOZARLÂNDIA-GO REFERENTE AO IP 2406194410.";"Rafaela Dallagnol Secorun"
+IP;2506218521;"Enviado ao PJ com autoria";APF;14/01/2025;"LUILIO MARCIEL VIEIRA";41;"EDILSON ABREU LIMA
+KAUAN IVANHEZ PINHEIRO";"Homicídio - Consumado";"Arma Branca";"39752440
+39772494";"5023695-72.2025.8.09.0137
+5047115-09.2025.8.09.0137";NÃO;23/01/2025;"OS AUTORES SE ENVOLVERAM EM UMA DISCUSSÃO COM A VÍTIMA POR CAUSA DE DROGAS, A ESFAQUEARAM PERTO DE SUA CASA E ESTÁ FUGIU EM SUA MOTO.";"Rafaela Dallagnol Secorun"
+IP;2506218426;"Enviado ao PJ com autoria";Portaria;14/01/2025;"MAURICIO SANTOS BARBOSA";30;"LUCIANO PENA DE LIMA";"Morte por intervenção policial - Consumado";"Arma de Fogo";39772870;5203318-96.2025.8.09.0137;NÃO;18/03/2025;"A VITIMA FOI ABORDADA POR UMA VIATURA DO CPE E EMPREENDEU FUGA, TENDE EFETUADO DISPAROS CONTRA OS POLICIAIS E SIDO ALVEJADO, VINDO À ÓBITO NO LOCAL - CONFRONTO POLICIAL.";"Rafaela Dallagnol Secorun"
+IP;2506223755;"Apurando com autoria";Portaria;21/01/2025;"JUCELIO ROQUE DE SOUSA";54;"ILSON PAULA DE LIMA";"Homicídio - Consumado";"Arma de Fogo";"39850101
+39954486";N/A;NÃO;N/A;DESENTENDIMENTO.;"Fernando Michel de Freitas"
+IP;2506224306;"Apurando com autoria";Portaria;21/01/2025;"ILSON PAULA DE LIMA";52;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Arma de Fogo";39867059;N/A;NÃO;N/A;"INDIVÍDUO COMETEU UM HOMICÍDIO NO DIA ANTERIOR NO BAIRRO PROMISSÃO FAZENDO USO DE UMA ARMA DE FOGO E UMA BICICLETA.";"Fernando Michel de Freitas"
+IP;2506224265;"Enviado ao PJ com autoria";Portaria;21/01/2025;"MARCOS CESAR PEREIRA LOPES
+ROGÉRIO ALVES DE ASSIS";"27
+41";"POLICIAIS MILITARES";"Morte por intervenção policial - Consumado";"Arma de Fogo";39823172;5250495-56.2025.8.09.0137;NÃO;01/04/2025;"MORTE POR INTERVENÇÃO POLICIAL";"Rafaela Dallagnol Secorun"
+IP;25/2020;"Enviado ao PJ com pedido de dilação de prazo";APF;03/02/2025;"BEBÊ NEONATO - SEM IDENTIFICAÇÃO";1;IGNORADO;"Tentativa de Homicidio  - Tentado";"Não identificado";N/A;5574217-17.2023.8.09.0137;NÃO;N/A;"TENTATIVA DE HOMICIDIO/MOTIVO NÃO IDENTIFICADO";"Fernando Michel de Freitas"
+VPI;2510238145;"Encaminhada para outra delegacia (VPI)";Despacho;04/02/2025;"THIAGO ARAÚJO ALEXANDRE";34;IGNORADO;"Suicídio - Consumado";Enforcamento;40010109;N/A;NÃO;N/A;SUICIDIO;"Rafaela Dallagnol Secorun"
+IP;2506242470;"Enviado ao PJ com autoria";APF;07/02/2025;"ANDRE LUIZ CABRAL DE GOUVEIA";39;"ALAIR PEREIRA DA CUNHA
+KETTLYN TAYLINE QUEIROZ MARTINS";"Homicídio - Tentado";"Arma de Fogo";40156559;"5095603-82.2025.8.09.0137
+5114803-85.2025.8.09.0137";NÃO;14/02/2025;"DOIS CAMINHONEIROS FUCNIONÁRIOS DA COMIGO SE ENVOLVERAM EM UMA PEQUENA COLISÃO ENTRE OS VÉICULOS O QUE RESULTOU EM UM DESENTENDIMENTO E O NO DISPARO DE ARMA DE FOGO EM DESFAVOR DA VÍTIMA.";"Rafaela Dallagnol Secorun"
+VPI;2510243165;"Apurando (VPI)";Despacho;09/02/2025;"CARLOS HENRIQUE DA VEIGA RODRIGUES";31;"RAINALDO DOS SANTOS DE OLIVEIRA";"Homicídio - Tentado";"Objeto Contundente";40185752;N/A;NÃO;N/A;"DOIS USUÁRIOS DE DROGAS BRIGARAM NA RODOVIÁRIA E O AUTOR DEFERIU UM GULPE COM UMA BARRA DE FERRO NA CABEÇA DA VÍTIMA QUE FOI INTERNADA NO HERSO.";"Rafaela Dallagnol Secorun"
+IP;2506245412;"Apurando com autoria";Portaria;11/02/2025;"LUCAS JESUS DE SOUZA";30;IGNORADO;"Morte por intervenção policial - Consumado";"Arma de Fogo";40189571;N/A;NÃO;N/A;"LUCAS AGREDIU A ESPOSA E AMEAÇOU A FILHA COM UMA ARMA DE FOGO E SAIU DE CASA EM UMA CAMINHONTE AMAROK, FOI PERSEGUIDO POR POLICIAIS MILITARES DO CPE E MORREU APÓS CONFORNTO NO MOTEL JOIA.";"Rafaela Dallagnol Secorun"
+VPI;2510251525;"Encaminhada para outra delegacia (VPI)";Despacho;17/02/2025;"MARIA JOSÉ TELES DA MOTA";75;IGNORADO;"Suicídio - Consumado";Enforcamento;40236194;;NÃO;N/A;SUICIDIO;"Rafaela Dallagnol Secorun"
+VPI;2510251544;"Encaminhada para outra delegacia (VPI)";Despacho;17/02/2025;"EDER CARLOS ROSA MORAES";59;IGNORADO;"Morte a esclarecer - Consumado";"Não identificado";40260553;;NÃO;N/A;"MORTE NATURAL";"Rafaela Dallagnol Secorun"
+VPI;2510253954;"Convertida para IP (VPI)";Despacho;19/02/2025;"JOELSON DA SILVA DOS SANTOS";24;"CASSILDA MARIA FERREIRA";"Homicídio - Tentado";Fogo;40338685;;NÃO;N/A;"AMANTE ATEOU FOGO AO CORPO DA VITIMA.";"Rafaela Dallagnol Secorun"
+IP;2506255837;"Enviado ao PJ com autoria";APF;20/02/2025;"JOSIVALDO DA SILVA";38;"RAIMUNDO GABRIEL DA SILVA PINTO";"Homicídio - Tentado";"Arma Branca";"40358577
+40370039";"5135702-07.2025.8.09.0137
+5160489-03.2025.8.09.0137";SIM;28/02/2025;"DOIS VIZINHOS DISUTIRAM EM UMA KITNET E O AUTOR ESFAQUEOU A VÍTIMA NO ROSTO E PESCOÇO.";"Rafaela Dallagnol Secorun"
+IP;2506256123;"Apurando crime a esclarecer";Portaria;21/02/2025;IGNORADA;1;IGNORADO;"Outros - Consumado";"Arma de Fogo";"40376544
+40744042
+40744215
+40744320
+40745737";5147396-70.2025.8.09.0137;NÃO;N/A;"RECEBEMOS NO GIH - GRUPO DE INVESTIGAÇÃO DE HOMICÍDIOS, UMA MÍDIA, NA QUAL SE PODE CONSTATAR, COM NITIDEZ, UMA PESSOA (APARENTEMENTE DO SEXO MASCULINO), PEDINDO SOCORRO, CONCOMITANTE AO SOM DE PELO MENOS TRÊS BARULHOS SEMELHANTES À DISPAROS DE ARMA DE FOGO. DIANTE DESTA INFORMAÇÃO,CUMPRIMOS DIVERSAS DILIGÊNCIAS E COLETAMOS ELEMENTOS DE INFORMAÇÃO SUFICIENTES PARA EMBASAR A INSTAURAÇÃO DE UM INQUÉRITO POLICIAL PARA APURAR A AUTORIA A MATERIALIDADE DESTE SUPOSTO CRIME.";"Fernando Michel de Freitas"
+IP;2506264294;"Enviado ao PJ com autoria";APF;01/03/2025;"CASSIO PEREIRA BORGES";24;"ADRIAN OLIVEIRA DA SILVA";"Homicídio - Tentado";"Arma de Fogo";"40532295
+40535525";"5163118-37.2025.8.09.0137
+5177283-02.2025.8.09.0137";SIM;10/03/2025;.;"Rafaela Dallagnol Secorun"
+VPI;2510267739;"Convertida para IP (VPI)";Despacho;06/03/2025;"LAILSON DA COSTA DO ROSÁRIO";32;"KAIKE MOURA FARIA";"Homicídio - Tentado";"Arma de Fogo";40420094;N/A;NÃO;N/A;"BRIGA EM FESTA.";"Rafaela Dallagnol Secorun"
+VPI;2510265314;"Apurando (VPI)";Despacho;07/03/2025;"JOSÉ ADONIAS DOS SANTOS FILHO
+MARIA DA PENHA DE OLIVEIRA
+TIAGO OLIVEIRA";"32
+60
+72";"DIEGO DE OLIVEIRA SANTOS";"Homicídio - Tentado
+Lesão Corporal - Consumado";"Arma Branca";40569718;N/A;NÃO;N/A;"BRIGA EM FAMILIA";"Rafaela Dallagnol Secorun"
+VPI;2510268072;"Encaminhada para outra delegacia (VPI)";Despacho;07/03/2025;"DIOMAR RAMOS DA CUNHA";52;IGNORADO;"Suicídio - Consumado";Enforcamento;40489744;N/A;NÃO;N/A;SUICIDIO;"Rafaela Dallagnol Secorun"
+IP;2506273275;"Apurando com autoria";Portaria;12/03/2025;"RICARDO MEDEIROS ALEIXO";40;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Arma de Fogo";40696289;N/A;NÃO;N/A;"CONFRONTO POLICIAL";"Fernando Michel de Freitas"
+VPI;2510273314;"Encaminhada para outra delegacia (VPI)";Despacho;12/03/2025;"JAVAN DA SILVA MEDEIROS";38;IGNORADO;"Suicídio - Consumado";Enforcamento;"40649491
+40649907";N/A;NÃO;N/A;SUICIDIO;"Rafaela Dallagnol Secorun"
+IP;2506277565;"Apurando crime a esclarecer";Portaria;17/03/2025;"HELIO SANTANA DE ARAUJO";22;"KETLEN GEOVANA DOS SANTOS MARQUES";"Morte a esclarecer - Consumado";"Arma de Fogo";38790754;N/A;NÃO;N/A;"NO DIA 13 DE NOVEMBRO DE 2024, POR VOLTA DAS 22H45, NA RUA PIETRO UBALDI, SETOR PAUZANES, RIO VERDE/GO, A POLÍCIA ATENDEU A UMA OCORRÊNCIA DE DISPARO DE ARMA DE FOGO QUE RESULTOU NA MORTE DE HÉLIO SANTANA DE ARAÚJO. SEGUNDO RELATOS DE SUA ESPOSA, KETLEN GEOVANA DOS SANTOS MARQUES, AMBOS ESTAVAM ASSISTINDO A UM FILME QUANDO HÉLIO PEGOU UM REVÓLVER CALIBRE .38, MARCA ROSSI, E, EM TOM DE BRINCADEIRA, APONTOU PARA A PRÓPRIA CABEÇA E, EM SEGUIDA, PARA O TÓRAX. AO TENTAR IMPEDIR A AÇÃO, KETLEN ACABOU PROVOCANDO UM DISPARO ACIDENTAL QUE ATINGIU SEU MARIDO. SUA AVÓ, GEISA DOS SANTOS MARQUES, CONFIRMOU A VERSÃO DOS FATOS. A PERÍCIA FOI REALIZADA NO LOCAL E A POLÍCIA CIVIL APREENDEU A ARMA, MUNIÇÕES E UM CELULAR PERTENCENTE À ESPOSA DA VÍTIMA PARA INVESTIGAÇÃO.";"Fernando Michel de Freitas"
+VPI;2510277915;"Apurando (VPI)";Despacho;17/03/2025;"FERNANDA OLIVEIRA GARCIA";43;"DOUGLAS SILVA PAIVA";"Suicídio - Consumado";"Ingestão de Medicamentos";40721934;;NÃO;N/A;"A VÍTIMA INGERIU REMÉDIOS CONTROLADOS, FOI HOSPITALIZADA E EVOLUIU PARA ÓBITO NA UTI. O PAI DA VÍTIMA ACREDITA QUE HOUVE NEGLIGENCIA POR PARTE DO MARIDO DA VÍTIMA, QUE SUPOSTAMENTE LEVOU MAIS DE 12 HORAS PARA PRESTAR SOCORRO À VÍTIMA.";"Fernando Michel de Freitas"
+IP;2506277985;"Enviado ao PJ com autoria";Portaria;17/03/2025;"JOELSON DA SILVA DOS SANTOS";24;"CACILDA MARIA FERREIRA";"Homicídio - Tentado";Fogo;"40338685
+41617098";"5221504-70.2025.8.09.0137
+5347774-42.2025.8.09.0137
+5394036-50.2025.8.09.0137
+5412242-15.2025.8.09.0137";NÃO;27/05/2025;"MULHER ATEOU FOGO AO AMANTE.";"Rafaela Dallagnol Secorun"
+IP;2506278297;"Apurando com autoria";Portaria;17/03/2025;"LAILSON DA COSTA DO ROSÁRIO";32;"KAIKE MOURA FARIA";"Homicídio - Tentado";"Arma de Fogo";40420094;5225614-15.2025.8.09.0137;NÃO;N/A;"BRIGA EM FESTA.";"Rafaela Dallagnol Secorun"
+VPI;2510278463;"Encaminhada para outra delegacia (VPI)";Despacho;17/03/2025;"VIVALDO SANTOS MARINHO";35;IGNORADO;"Suicídio - Consumado";Enforcamento;40705192;N/A;NÃO;N/A;SUICIDIO.;"Rafaela Dallagnol Secorun"
+IP;2506284994;"Apurando com autoria";Portaria;24/03/2025;"FELYPE BUENO VIEIRA
+LAURINDO DE SOUZA VIEIRA JUNIOR";"24
+45";"LUCAS VIEIRA CABRAL";"Homicídio - Tentado";"Arma Branca";"40877361
+40877665
+40880175
+41964863";5333841-02.2025.8.09.0137;NÃO;N/A;"NETO AGREDIU A AVÓ E O MARIDO DELA, MOMENTO EM QUE OUTROS FAMILIARES INTERVIERAM E FORAM ESFAQUEADOS PELO AUTOR.";"Fernando Michel de Freitas"
+IP;2506292564;"Enviado ao PJ com autoria";APF;31/03/2025;"WESLEY PERES CAETANO";39;"JAIME BARBOSA JUNIOR";"Homicídio - Tentado";"Arma Branca";41011936;"5249182-60.2025.8.09.0137
+5423817-20.2025.8.09.0137";NÃO;30/05/2025;;"Fernando Michel de Freitas"
+IP;2506297116;"Enviado ao PJ com autoria";APF;04/04/2025;"MURILO DA SILVA CRUVINEL";36;"AILTON COUTO PEREIRA";"Homicídio - Consumado";"Arma Branca";41086531;"5265709-77.2025.8.09.0011
+5284415-21.2025.8.09.0137";NÃO;11/04/2025;"BRIGA ENTRE TRAFICANTES DE DROGA DO BAIRRO POPULAR";"Rafaela Dallagnol Secorun"
+IP;2506297741;"Enviado ao PJ com autoria";APF;05/04/2025;"CARLOS EDUARDO DE OLIVEIRA COSTA";26;"RENATO RIBEIRO DE ARAÚJO";"Homicídio - Consumado";"Arma Branca";"41100647
+41102528";"5265599-16.2025.8.09.0137
+5291575-97.2025.8.09.0137";NÃO;14/04/2025;"BRIGA ENTRE VIZINHOS DE UM CONJUNTO DE KITNETS";"Rafaela Dallagnol Secorun"
+VPI;2510298626;"Encaminhada para outra delegacia (VPI)";Despacho;07/04/2025;"VALDEMIR DOS SANTOS";24;IGNORADO;"Suicídio - Consumado";Enforcamento;41110456;N/A;NÃO;N/A;"SUICIDIO - VITIMA DEPRESSIVA";"Rafaela Dallagnol Secorun"
+IP;2506302244;"Apurando com autoria";APF;10/04/2025;"WELLINGTON CARDOSO DOS SANTOS";28;"WANDERSON ISA DE SOUSA
+WESLEY CASTRO DOS SANTOS";"Homicídio - Consumado";"Arma de Fogo";"41159099
+41165795";5280274-56.2025.8.09.0137;NÃO;N/A;"BRIGA ENTRE DOIS DESAFETOS EM UMA BEBIDA GELADA";"Rafaela Dallagnol Secorun"
+VPI;2510303297;"Apurando (VPI)";Despacho;11/04/2025;"CLAUDIA CRUVINEL MARQUES SANTIAGO";51;IGNORADO;"Morte a esclarecer - Consumado";"Não identificado";41193525;;NÃO;N/A;"VITIMA COM HISTÓRICO DE SURTO PSICÓTICO, APARENTE AVC E BRONCOASPIRAÇÃO - HISTÓRICO DE VIOLÊNCIA DOMÉSTICA - POSSIBILIDADE DE SUICÍDIO.";"Fernando Michel de Freitas"
+VPI;2510307342;"Encaminhada para outra delegacia (VPI)";Despacho;15/04/2025;"WESLEY FERNANDES DOS SANTOS LUVISA";21;IGNORADO;"Suicídio - Consumado";Enforcamento;41191997;N/A;NÃO;N/A;SUICIDIO;"Rafaela Dallagnol Secorun"
+VPI;2510307536;"Encaminhada para outra delegacia (VPI)";Despacho;15/04/2025;"CACILDA PEREIRA BUENO";71;IGNORADO;"Morte a esclarecer - Consumado";"Não identificado";"41015848
+41082881";N/A;NÃO;N/A;"MORTE NATURAL";"Rafaela Dallagnol Secorun"
+IP;2506316553;"Enviado ao PJ com autoria";APF;28/04/2025;"MIGUEL DE JESUS BARROS DA COSTA";22;"MAURICIO FERREIRA BARROS MAXIMO";"Homicídio - Tentado";"Arma de Fogo";41474113;"5322860-98.2025.8.09.0011
+5394797-81.2025.8.09.0137";NÃO;21/05/2025;"DESACORDO DURANTE PROGRAMA SEXUAL";"Fernando Michel de Freitas"
+IP;2506332193;"Apurando com autoria";Portaria;15/05/2025;"ZILIOMAR DA SILVA FERREIRA";31;"CONFRONTO POLICIAL";"Morte por intervenção policial - Consumado";"Arma de Fogo";41736758;N/A;NÃO;N/A;"UMA EQUIPE DA POLÍCIA MILITAR (CPE) AO TENTAR REALIZAR A ABORDAGEM DE UM VEÍCULO VW/GOL, COR BRANCA, PLACAS KEO-9830, FOI SURPREENDIDA COM O DESEMBARQUE DO MOTORISTA COM O VEÍCULO AINDA EM MOVIMENTO E DESFERINDO DISPAROS DE ARMA DE FOGO CONTRA A GUARNIÇÃO, TORNANDO NECESSÁRIO O REVIDE DA INJUSTA AGRESSÃO, OCASIONANDO A MORTE DE ZILIOMAR DA SILVA FERREIRA";"Fernando Michel de Freitas"
+IP;teste;"Enviado ao PJ com autoria";Portaria;16/05/2025;TESTE;20;TESTE;"FALSA IDENTIDADE E DESOBEDIÊNCIA - Consumado";Incêndio;N/A;;NÃO;16/05/2025;TESTE;"Fernando Michel de Freitas"
+IP;2506339351;"Enviado ao PJ com autoria";APF;22/05/2025;"ANAYSA CARDOSO MATOS";23;"MARCIO FERREIRA DE SOUSA";"Feminicídio - Consumado";"Objeto Contundente";41869812;"5400282-62.2025.8.09.0137
+5423735-86.2025.8.09.0137";NÃO;30/05/2025;"DISCUSSÃO ENTRE USUÁRIOS DE DROGAS.";"Rafaela Dallagnol Secorun"
+IP;2506340553;"Enviado ao PJ com autoria";APF;23/05/2025;"CHARLES DANIEL FIGUEIREDO";51;"ANTONIO DA SILVA ROCHA";"Homicídio - Consumado";"OBJETO CORTOCONTUNDENTE";41889101;"5404503-78.2025.8.09.0011
+5423750-55.2025.8.09.0137";NÃO;30/05/2025;IGNORADO.;"Fernando Michel de Freitas"
+VPI;2510339531;"Encaminhada para outra delegacia (VPI)";Despacho;23/05/2025;"WHATSON MARTINS KARAMOTO";42;IGNORADO;"Suicídio - Consumado";Enforcamento;41863752;N/A;NÃO;N/A;SUICIDIO;"Rafaela Dallagnol Secorun"
+IP;2506342886;"Apurando com autoria";APF;27/05/2025;"JOSÉ OSVALDO GOMES DA SILVA";21;"CARLOS MANOEL SILVA OLIVEIRA";"Homicídio - Tentado";"Arma Branca";41941717;5410065-78.2025.8.09.0137;NÃO;N/A;;"Rafaela Dallagnol Secorun"
