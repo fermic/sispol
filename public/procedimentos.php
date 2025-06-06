@@ -1111,103 +1111,189 @@ document.addEventListener('DOMContentLoaded', function () {
 <!-- Adicionar antes do fechamento do body -->
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // Função para copiar texto
-    function copyToClipboard(text) {
-        // Criar um elemento textarea temporário
-        const textarea = document.createElement('textarea');
-        textarea.value = text;
-        textarea.style.position = 'fixed';  // Evitar scroll
-        textarea.style.opacity = '0';       // Tornar invisível
-        document.body.appendChild(textarea);
-        textarea.select();
-        
-        try {
-            // Executar o comando de cópia
-            const successful = document.execCommand('copy');
-            if (!successful) {
-                throw new Error('Falha ao copiar');
-            }
-            return true;
-        } catch (err) {
-            console.error('Erro ao copiar:', err);
-            return false;
-        } finally {
-            // Remover o textarea temporário
-            document.body.removeChild(textarea);
-        }
+    // Função para carregar anotações
+    function carregarAnotacoes(procedimentoId, containerId) {
+        fetch(`buscar_anotacoes.php?procedimento_id=${procedimentoId}`)
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById(containerId);
+                
+                if (data.error) {
+                    container.innerHTML = `
+                        <div class="alert alert-danger d-flex align-items-center">
+                            <i class="bi bi-exclamation-triangle-fill me-2"></i>
+                            <div>${data.error}</div>
+                        </div>`;
+                    return;
+                }
+                
+                if (data.length === 0) {
+                    container.innerHTML = `
+                        <div class="text-center py-5">
+                            <div class="mb-3">
+                                <i class="bi bi-journal-x text-muted" style="font-size: 3rem;"></i>
+                            </div>
+                            <h6 class="text-muted mb-2">Nenhuma anotação registrada</h6>
+                            <p class="text-muted small mb-0">Seja o primeiro a adicionar uma anotação para este procedimento.</p>
+                        </div>`;
+                    return;
+                }
+
+                let html = '';
+                data.forEach((anotacao, index) => {
+                    html += `
+<div class="anotacao-item p-4 ${index !== data.length - 1 ? 'border-bottom' : ''}" id="anotacao-${anotacao.id}">
+    <div class="d-flex justify-content-between align-items-start mb-3">
+        <div class="d-flex align-items-center">
+            <div class="avatar-circle bg-primary text-white me-3">
+                <i class="bi bi-person-fill"></i>
+            </div>
+            <div>
+                <h6 class="mb-1 fw-bold text-dark">${anotacao.usuario}</h6>
+                <small class="text-muted">
+                    <i class="bi bi-clock me-1"></i>${anotacao.data}
+                </small>
+            </div>
+        </div>
+        <button type="button" 
+                class="btn btn-sm btn-outline-danger rounded-pill excluir-anotacao" 
+                data-anotacao-id="${anotacao.id}"
+                data-procedimento-id="${procedimentoId}"
+                title="Excluir anotação">
+            <i class="bi bi-trash"></i>
+        </button>
+    </div>
+    <div class="anotacao-conteudo bg-white p-3 rounded border-start border-4 border-primary">
+        ${anotacao.anotacao}
+    </div>
+</div>
+                    `;
+                });
+                container.innerHTML = html;
+
+                // Adicionar event listeners para os botões de exclusão
+                document.querySelectorAll('.excluir-anotacao').forEach(button => {
+                    button.addEventListener('click', function() {
+                        if (confirm('Tem certeza que deseja excluir esta anotação?')) {
+                            excluirAnotacao(this.dataset.anotacaoId, this.dataset.procedimentoId);
+                        }
+                    });
+                });
+            })
+            .catch(error => {
+                const container = document.getElementById(containerId);
+                container.innerHTML = `
+                    <div class="alert alert-danger d-flex align-items-center">
+                        <i class="bi bi-exclamation-triangle-fill me-2"></i>
+                        <div>Erro ao carregar anotações. Detalhes: ${error.message}</div>
+                    </div>`;
+            });
     }
 
-    // Inicializar tooltips
-    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
-    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-        return new bootstrap.Tooltip(tooltipTriggerEl, {
-            trigger: 'hover'
-        });
-    });
-
-    // Adicionar evento de clique para os botões de cópia
-    document.querySelectorAll('.copy-btn').forEach(button => {
-        button.addEventListener('click', function(e) {
-            e.preventDefault(); // Prevenir comportamento padrão do botão
-            
-            const textToCopy = this.getAttribute('data-copy-text');
-            const tooltip = bootstrap.Tooltip.getInstance(this);
-            
-            // Tentar copiar o texto
-            if (copyToClipboard(textToCopy)) {
-                // Atualizar o ícone temporariamente
-                const icon = this.querySelector('i');
-                const originalClass = icon.className;
-                
-                // Mudar para ícone de check
-                icon.className = 'bi bi-check2';
-                this.classList.add('text-success');
-                
-                // Atualizar tooltip
-                if (tooltip) {
-                    tooltip.dispose();
+    // Função para excluir anotação
+    function excluirAnotacao(anotacaoId, procedimentoId) {
+        fetch('excluir_anotacao.php', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                anotacao_id: anotacaoId,
+                procedimento_id: procedimentoId
+            })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                // Remover a anotação do DOM
+                const elemento = document.getElementById(`anotacao-${anotacaoId}`);
+                if (elemento) {
+                    elemento.remove();
                 }
+                // Atualizar o contador de anotações
+                const botao = document.querySelector(`[data-procedimento-id="${procedimentoId}"]`);
+                const contador = botao.querySelector('span');
+                if (contador) {
+                    contador.textContent = parseInt(contador.textContent) - 1;
+                }
+            } else {
+                alert('Erro ao excluir anotação: ' + data.message);
+            }
+        })
+        .catch(error => {
+            alert('Erro ao excluir anotação. Detalhes: ' + error.message);
+        });
+    }
+
+    // Função para adicionar anotação
+    function adicionarAnotacao(form) {
+        const formData = new FormData(form);
+        const procedimentoId = formData.get('procedimento_id');
+        const containerId = `anotacoesLista${procedimentoId}`;
+
+        fetch('adicionar_anotacao.php', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                // Limpar o formulário
+                form.reset();
                 
-                const newTooltip = new bootstrap.Tooltip(this, {
-                    title: 'Copiado!',
-                    trigger: 'manual'
+                // Recarregar as anotações
+                carregarAnotacoes(procedimentoId, containerId);
+                
+                // Atualizar o contador de anotações
+                const botao = document.querySelector(`[data-procedimento-id="${procedimentoId}"]`);
+                const contador = botao.querySelector('span');
+                if (contador) {
+                    contador.textContent = parseInt(contador.textContent || '0') + 1;
+                }
+
+                // Mostrar mensagem de sucesso
+                Swal.fire({
+                    icon: 'success',
+                    title: 'Sucesso!',
+                    text: 'Anotação adicionada com sucesso.',
+                    timer: 2000,
+                    showConfirmButton: false
                 });
-                newTooltip.show();
-                
-                // Restaurar após 2 segundos
-                setTimeout(() => {
-                    icon.className = originalClass;
-                    this.classList.remove('text-success');
-                    if (newTooltip) {
-                        newTooltip.dispose();
-                    }
-                    new bootstrap.Tooltip(this, {
-                        title: this.getAttribute('title'),
-                        trigger: 'hover'
-                    });
-                }, 2000);
             } else {
                 // Mostrar mensagem de erro
-                if (tooltip) {
-                    tooltip.dispose();
-                }
-                
-                const errorTooltip = new bootstrap.Tooltip(this, {
-                    title: 'Erro ao copiar!',
-                    trigger: 'manual'
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Erro!',
+                    text: data.message || 'Erro ao adicionar anotação.'
                 });
-                errorTooltip.show();
-                
-                setTimeout(() => {
-                    if (errorTooltip) {
-                        errorTooltip.dispose();
-                    }
-                    new bootstrap.Tooltip(this, {
-                        title: this.getAttribute('title'),
-                        trigger: 'hover'
-                    });
-                }, 2000);
             }
+        })
+        .catch(error => {
+            // Mostrar mensagem de erro
+            Swal.fire({
+                icon: 'error',
+                title: 'Erro!',
+                text: 'Erro ao adicionar anotação. Detalhes: ' + error.message
+            });
+        });
+    }
+
+    // Adicionar event listeners para os modais
+    document.querySelectorAll('[data-bs-toggle="modal"][data-procedimento-id]').forEach(button => {
+        const procedimentoId = button.dataset.procedimentoId;
+        const modalId = `modalAnotacoes${procedimentoId}`;
+        const containerId = `anotacoesLista${procedimentoId}`;
+        const formId = `formAnotacao${procedimentoId}`;
+
+        // Carregar anotações quando o modal for aberto
+        document.getElementById(modalId).addEventListener('show.bs.modal', () => {
+            carregarAnotacoes(procedimentoId, containerId);
+        });
+
+        // Adicionar event listener para o formulário
+        document.getElementById(formId).addEventListener('submit', function(e) {
+            e.preventDefault();
+            adicionarAnotacao(this);
         });
     });
 });
@@ -1388,8 +1474,69 @@ document.addEventListener('DOMContentLoaded', function() {
     margin-left: 0 !important;
     margin-right: 1rem !important;
 }
+</style>
 
-/* Estilo para o botão de cópia */
+<script>
+// Adicionar apenas o código para o botão de cópia
+document.addEventListener('DOMContentLoaded', function() {
+    // Função para copiar texto
+    function copyToClipboard(text) {
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        textarea.style.position = 'fixed';
+        textarea.style.opacity = '0';
+        document.body.appendChild(textarea);
+        textarea.select();
+        
+        try {
+            const successful = document.execCommand('copy');
+            if (!successful) throw new Error('Falha ao copiar');
+            return true;
+        } catch (err) {
+            console.error('Erro ao copiar:', err);
+            return false;
+        } finally {
+            document.body.removeChild(textarea);
+        }
+    }
+
+    // Adicionar evento de clique para os botões de cópia
+    document.querySelectorAll('.copy-btn').forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
+            const textToCopy = this.getAttribute('data-copy-text');
+            const tooltip = bootstrap.Tooltip.getInstance(this);
+            
+            if (copyToClipboard(textToCopy)) {
+                const icon = this.querySelector('i');
+                const originalClass = icon.className;
+                icon.className = 'bi bi-check2';
+                this.classList.add('text-success');
+                
+                if (tooltip) tooltip.dispose();
+                const newTooltip = new bootstrap.Tooltip(this, {
+                    title: 'Copiado!',
+                    trigger: 'manual'
+                });
+                newTooltip.show();
+                
+                setTimeout(() => {
+                    icon.className = originalClass;
+                    this.classList.remove('text-success');
+                    if (newTooltip) newTooltip.dispose();
+                    new bootstrap.Tooltip(this, {
+                        title: this.getAttribute('title'),
+                        trigger: 'hover'
+                    });
+                }, 2000);
+            }
+        });
+    });
+});
+</script>
+
+<style>
+/* Adicionar apenas os estilos para o botão de cópia */
 .copy-btn {
     color: #6c757d;
     transition: all 0.2s ease;

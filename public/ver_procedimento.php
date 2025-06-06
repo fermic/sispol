@@ -190,6 +190,15 @@ $processosJudiciais = $stmtProcessosJudiciais->fetchAll(PDO::FETCH_ASSOC);
        class="text-decoration-none">
         <?= htmlspecialchars($procedimento['NumeroProcedimento']) ?>
     </a>
+    <!-- Ícone de cópia para o número do procedimento -->
+    <button type="button" 
+            class="btn btn-link btn-sm p-0 ms-1 copy-btn" 
+            data-copy-text="<?= htmlspecialchars($procedimento['NumeroProcedimento']) ?>"
+            data-bs-toggle="tooltip"
+            data-bs-placement="top"
+            title="Copiar número do procedimento">
+        <i class="bi bi-clipboard"></i>
+    </button>
 </p>
 
                     <p><strong>Data da Instauração:</strong> <?= htmlspecialchars(formatarDataBrasileira($procedimento['DataInstauracao'] ?? null)) ?></p>
@@ -239,11 +248,19 @@ $processosJudiciais = $stmtProcessosJudiciais->fetchAll(PDO::FETCH_ASSOC);
                 <?php else: ?>
                     <ul class="list-group">
                         <?php foreach ($processosJudiciais as $processo): ?>
-<li class="list-group-item">
-    <strong><?= formatar_numero_processo(htmlspecialchars($processo['Numero']) ?? 'Não informado') ?></strong>
-    <br> <?= htmlspecialchars($processo['Descricao'] ?? 'Sem descrição') ?>
-</li>
-
+                            <li class="list-group-item">
+                                <strong><?= formatar_numero_processo(htmlspecialchars($processo['Numero']) ?? 'Não informado') ?></strong>
+                                <!-- Ícone de cópia para o processo judicial -->
+                                <button type="button" 
+                                        class="btn btn-link btn-sm p-0 ms-1 copy-btn" 
+                                        data-copy-text="<?= htmlspecialchars($processo['Numero']) ?>"
+                                        data-bs-toggle="tooltip"
+                                        data-bs-placement="top"
+                                        title="Copiar número do processo">
+                                    <i class="bi bi-clipboard"></i>
+                                </button>
+                                <br> <?= htmlspecialchars($processo['Descricao'] ?? 'Sem descrição') ?>
+                            </li>
                         <?php endforeach; ?>
                     </ul>
                 <?php endif; ?>
@@ -263,10 +280,17 @@ $processosJudiciais = $stmtProcessosJudiciais->fetchAll(PDO::FETCH_ASSOC);
                                    class="text-decoration-none">
                                     <strong><?= htmlspecialchars($rai['Numero']) ?></strong>
                                 </a>
+                                <!-- Ícone de cópia para o RAI -->
+                                <button type="button" 
+                                        class="btn btn-link btn-sm p-0 ms-1 copy-btn" 
+                                        data-copy-text="<?= htmlspecialchars($rai['Numero']) ?>"
+                                        data-bs-toggle="tooltip"
+                                        data-bs-placement="top"
+                                        title="Copiar número do RAI">
+                                    <i class="bi bi-clipboard"></i>
+                                </button>
                                 - <?= htmlspecialchars($rai['Descricao'] ?? 'Sem descrição') ?>
                             </li>
-
-
                         <?php endforeach; ?>
                     </ul>
                 <?php endif; ?>
@@ -433,6 +457,17 @@ $processosJudiciais = $stmtProcessosJudiciais->fetchAll(PDO::FETCH_ASSOC);
                             <div class="card-header bg-light text-dark">
                                 <strong>Processo Judicial:</strong><br>
                                 <?= htmlspecialchars($cautelar['ProcessoJudicial'] ?? 'Não informado', ENT_QUOTES, 'UTF-8') ?>
+                                <!-- Ícone de cópia para o processo judicial da cautelar -->
+                                <?php if (!empty($cautelar['ProcessoJudicial'])): ?>
+                                    <button type="button" 
+                                            class="btn btn-link btn-sm p-0 ms-1 copy-btn" 
+                                            data-copy-text="<?= htmlspecialchars($cautelar['ProcessoJudicial']) ?>"
+                                            data-bs-toggle="tooltip"
+                                            data-bs-placement="top"
+                                            title="Copiar número do processo">
+                                        <i class="bi bi-clipboard"></i>
+                                    </button>
+                                <?php endif; ?>
                             </div>
                             <div class="card-body">
                                 <p><strong>Tipos de Cautelares:</strong><br><?= $cautelar['TiposCautelares'] ?></p>
@@ -1236,4 +1271,133 @@ function gerenciarFavorito(procedimentoId, acao) {
 .modal-footer {
     border-top: none;
 }
+
+/* Estilo para o botão de cópia */
+.copy-btn {
+    color: #6c757d;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+    margin-left: 0.25rem;
+}
+
+.copy-btn:hover {
+    color: #007bff;
+    transform: scale(1.1);
+}
+
+.copy-btn.text-success {
+    color: #28a745 !important;
+}
+
+.copy-btn:focus {
+    outline: none;
+    box-shadow: none;
+}
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Função para copiar texto
+    function copyToClipboard(text) {
+        // Criar um elemento textarea temporário
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        textarea.style.position = 'fixed';  // Evitar scroll
+        textarea.style.opacity = '0';       // Tornar invisível
+        document.body.appendChild(textarea);
+        textarea.select();
+        
+        try {
+            // Executar o comando de cópia
+            const successful = document.execCommand('copy');
+            if (!successful) {
+                throw new Error('Falha ao copiar');
+            }
+            return true;
+        } catch (err) {
+            console.error('Erro ao copiar:', err);
+            return false;
+        } finally {
+            // Remover o textarea temporário
+            document.body.removeChild(textarea);
+        }
+    }
+
+    // Inicializar tooltips
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl, {
+            trigger: 'hover'
+        });
+    });
+
+    // Adicionar evento de clique para os botões de cópia
+    document.querySelectorAll('.copy-btn').forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault(); // Prevenir comportamento padrão do botão
+            
+            const textToCopy = this.getAttribute('data-copy-text');
+            const tooltip = bootstrap.Tooltip.getInstance(this);
+            
+            // Tentar copiar o texto
+            if (copyToClipboard(textToCopy)) {
+                // Atualizar o ícone temporariamente
+                const icon = this.querySelector('i');
+                const originalClass = icon.className;
+                
+                // Mudar para ícone de check
+                icon.className = 'bi bi-check2';
+                this.classList.add('text-success');
+                
+                // Atualizar tooltip
+                if (tooltip) {
+                    tooltip.dispose();
+                }
+                
+                const newTooltip = new bootstrap.Tooltip(this, {
+                    title: 'Copiado!',
+                    trigger: 'manual'
+                });
+                newTooltip.show();
+                
+                // Restaurar após 2 segundos
+                setTimeout(() => {
+                    icon.className = originalClass;
+                    this.classList.remove('text-success');
+                    if (newTooltip) {
+                        newTooltip.dispose();
+                    }
+                    new bootstrap.Tooltip(this, {
+                        title: this.getAttribute('title'),
+                        trigger: 'hover'
+                    });
+                }, 2000);
+            } else {
+                // Mostrar mensagem de erro
+                if (tooltip) {
+                    tooltip.dispose();
+                }
+                
+                const errorTooltip = new bootstrap.Tooltip(this, {
+                    title: 'Erro ao copiar!',
+                    trigger: 'manual'
+                });
+                errorTooltip.show();
+                
+                setTimeout(() => {
+                    if (errorTooltip) {
+                        errorTooltip.dispose();
+                    }
+                    new bootstrap.Tooltip(this, {
+                        title: this.getAttribute('title'),
+                        trigger: 'hover'
+                    });
+                }, 2000);
+            }
+        });
+    });
+});
+</script>
