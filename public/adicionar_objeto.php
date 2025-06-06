@@ -480,6 +480,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         logAcaoUsuario($pdo, 'erro_sistema', $objetoID ?? null, $e->getMessage());
     }
 }
+
+// Determinar se deve mostrar o card de arma inicialmente
+$mostrarArmaCard = ($isEditing && $tipoID == 4);
 ?>
 
 <!DOCTYPE html>
@@ -660,14 +663,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div>
 
         <!-- Mensagens -->
-<?php if (!empty($_SESSION['success_message'])): ?>
-    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <?php if (!empty($_SESSION['success_message'])): ?>
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
                 <i class="fas fa-check-circle me-2"></i>
-        <?= htmlspecialchars($_SESSION['success_message']) ?>
+                <?= htmlspecialchars($_SESSION['success_message']) ?>
                 <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-    </div>
-    <?php unset($_SESSION['success_message']); ?>
-<?php endif; ?>
+            </div>
+            <?php unset($_SESSION['success_message']); ?>
+        <?php endif; ?>
 
         <?php if (!empty($_SESSION['error_message'])): ?>
             <div class="alert alert-danger alert-dismissible fade show" role="alert">
@@ -704,25 +707,25 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     </h5>
                 </div>
                 <div class="card-body">
-    <div class="row">
-        <div class="col-md-6 mb-3">
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
                             <label for="tipo_id" class="form-label required-field">Tipo de Objeto</label>
                             <select name="tipo_id" id="tipo_id" class="form-select select2" required>
-                <option value="">Selecione o Tipo</option>
-                <?php foreach ($tiposObjeto as $tipo): ?>
-                    <option value="<?= htmlspecialchars($tipo['ID']) ?>" 
-                        <?= isset($tipoID) && $tipoID == $tipo['ID'] ? 'selected' : '' ?>>
-                        <?= htmlspecialchars($tipo['Nome']) ?>
-                    </option>
-                <?php endforeach; ?>
-            </select>
+                                <option value="">Selecione o Tipo</option>
+                                <?php foreach ($tiposObjeto as $tipo): ?>
+                                    <option value="<?= htmlspecialchars($tipo['ID']) ?>" 
+                                        <?= isset($tipoID) && $tipoID == $tipo['ID'] ? 'selected' : '' ?>>
+                                        <?= htmlspecialchars($tipo['Nome']) ?>
+                                    </option>
+                                <?php endforeach; ?>
+                            </select>
                             <div class="field-hint">
                                 <i class="fas fa-info-circle"></i>
                                 Selecione o tipo do objeto apreendido
-        </div>
+                            </div>
                         </div>
                         
-        <div class="col-md-6 mb-3">
+                        <div class="col-md-6 mb-3">
                             <label for="lacre_atual" class="form-label">Lacre Atual</label>
                             <input type="text" name="lacre_atual" id="lacre_atual" class="form-control" 
                                    value="<?= htmlspecialchars($lacreAtual ?? '') ?>" 
@@ -731,11 +734,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <i class="fas fa-tag"></i>
                                 Número de identificação do lacre (opcional)
                             </div>
-        </div>
-    </div>
+                        </div>
+                    </div>
 
-        <div class="row">
-            <div class="col-md-6 mb-3">
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
                             <div class="form-floating">
                                 <input type="number" name="quantidade" id="quantidade" class="form-control" 
                                        min="1" value="<?= htmlspecialchars($isEditing ? $quantidade : 1) ?>" 
@@ -778,7 +781,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             </div>
 
             <!-- Card 2: Detalhes da Arma de Fogo -->
-            <div class="card mb-4 shadow" id="arma-card" style="display: none;">
+            <div class="card mb-4 shadow" id="arma-card" style="display: <?= $mostrarArmaCard ? 'block' : 'none' ?>;">
                 <div class="card-header text-white">
                     <h5 class="mb-0">
                         <i class="fas fa-crosshairs me-2"></i>
@@ -789,126 +792,126 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <div class="row">
                         <div class="col-md-6 mb-3">
                             <label for="arma_especie_id" class="form-label required-field">Espécie</label>
-<select name="arma_especie_id" id="arma_especie_id" class="form-select select2">
-    <option value="">Selecione a Espécie</option>
+                            <select name="arma_especie_id" id="arma_especie_id" class="form-select select2">
+                                <option value="">Selecione a Espécie</option>
                                 <?php 
                                 $queryEspecies = "SELECT ID, Nome FROM ArmaEspecie ORDER BY Nome ASC";
                                 $stmtEspecies = $pdo->query($queryEspecies);
                                 $especiesObjeto = $stmtEspecies->fetchAll(PDO::FETCH_ASSOC);
                                 foreach ($especiesObjeto as $especie): 
                                 ?>
-        <option value="<?= htmlspecialchars($especie['ID']) ?>" 
-            <?= isset($especieID) && $especieID == $especie['ID'] ? 'selected' : '' ?>>
-            <?= htmlspecialchars($especie['Nome']) ?>
-        </option>
-    <?php endforeach; ?>
-</select>
+                                    <option value="<?= htmlspecialchars($especie['ID']) ?>" 
+                                        <?= isset($especieID) && $especieID == $especie['ID'] ? 'selected' : '' ?>>
+                                        <?= htmlspecialchars($especie['Nome']) ?>
+                                    </option>
+                                <?php endforeach; ?>
+                            </select>
                             <div class="field-hint">
                                 <i class="fas fa-list"></i>
                                 Tipo específico da arma de fogo
-            </div>
+                            </div>
                         </div>
                         
-            <div class="col-md-6 mb-3">
+                        <div class="col-md-6 mb-3">
                             <label for="arma_calibre_id" class="form-label required-field">Calibre</label>
                             <select name="arma_calibre_id" id="arma_calibre_id" class="form-select select2">
-                    <option value="">Selecione o Calibre</option>
+                                <option value="">Selecione o Calibre</option>
                                 <?php 
                                 $queryCalibres = "SELECT ID, Nome FROM ArmaCalibre ORDER BY Nome ASC";
                                 $stmtCalibres = $pdo->query($queryCalibres);
                                 $calibresObjeto = $stmtCalibres->fetchAll(PDO::FETCH_ASSOC);
                                 foreach ($calibresObjeto as $calibre): 
                                 ?>
-                        <option value="<?= htmlspecialchars($calibre['ID']) ?>" 
-                            <?= isset($calibreID) && $calibreID == $calibre['ID'] ? 'selected' : '' ?>>
-                            <?= htmlspecialchars($calibre['Nome']) ?>
-                        </option>
-                    <?php endforeach; ?>
-                </select>
+                                    <option value="<?= htmlspecialchars($calibre['ID']) ?>" 
+                                        <?= isset($calibreID) && $calibreID == $calibre['ID'] ? 'selected' : '' ?>>
+                                        <?= htmlspecialchars($calibre['Nome']) ?>
+                                    </option>
+                                <?php endforeach; ?>
+                            </select>
                             <div class="field-hint">
                                 <i class="fas fa-bullseye"></i>
                                 Calibre da munição utilizada
-            </div>
-        </div>
+                            </div>
+                        </div>
                     </div>
                     
-        <div class="row">
-            <div class="col-md-6 mb-3">
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
                             <label for="numero_serie" class="form-label required-field">Número de Série</label>
-                <input type="text" name="numero_serie" id="numero_serie" class="form-control" 
+                            <input type="text" name="numero_serie" id="numero_serie" class="form-control" 
                                    value="<?= htmlspecialchars($numeroSerie ?? '') ?>" 
                                    placeholder="Número de Série">
                             <div class="field-hint">
                                 <i class="fas fa-barcode"></i>
                                 Numeração de identificação da arma
-            </div>
+                            </div>
                         </div>
                         
-            <div class="col-md-6 mb-3">
-                <label for="arma_marca_id" class="form-label">Marca</label>
+                        <div class="col-md-6 mb-3">
+                            <label for="arma_marca_id" class="form-label">Marca</label>
                             <select name="arma_marca_id" id="arma_marca_id" class="form-select select2">
-                    <option value="">Selecione a Marca</option>
+                                <option value="">Selecione a Marca</option>
                                 <?php 
                                 $queryMarcas = "SELECT ID, Nome FROM ArmaMarca ORDER BY Nome ASC";
                                 $stmtMarcas = $pdo->query($queryMarcas);
                                 $marcasObjeto = $stmtMarcas->fetchAll(PDO::FETCH_ASSOC);
                                 foreach ($marcasObjeto as $marca): 
                                 ?>
-                        <option value="<?= htmlspecialchars($marca['ID']) ?>" 
-                            <?= isset($marcaID) && $marcaID == $marca['ID'] ? 'selected' : '' ?>>
-                            <?= htmlspecialchars($marca['Nome']) ?>
-                        </option>
-                    <?php endforeach; ?>
-                </select>
+                                    <option value="<?= htmlspecialchars($marca['ID']) ?>" 
+                                        <?= isset($marcaID) && $marcaID == $marca['ID'] ? 'selected' : '' ?>>
+                                        <?= htmlspecialchars($marca['Nome']) ?>
+                                    </option>
+                                <?php endforeach; ?>
+                            </select>
                             <div class="field-hint">
                                 <i class="fas fa-industry"></i>
                                 Fabricante da arma de fogo
-            </div>
-        </div>
+                            </div>
+                        </div>
                     </div>
                     
-        <div class="row">
-            <div class="col-md-6 mb-3">
-                <label for="arma_modelo_id" class="form-label">Modelo</label>
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="arma_modelo_id" class="form-label">Modelo</label>
                             <select name="arma_modelo_id" id="arma_modelo_id" class="form-select select2">
-                    <option value="">Selecione o Modelo</option>
+                                <option value="">Selecione o Modelo</option>
                                 <?php 
                                 $queryModelos = "SELECT ID, Nome FROM ArmaModelo ORDER BY Nome ASC";
                                 $stmtModelos = $pdo->query($queryModelos);
                                 $modelosObjeto = $stmtModelos->fetchAll(PDO::FETCH_ASSOC);
                                 foreach ($modelosObjeto as $modelo): 
                                 ?>
-                        <option value="<?= htmlspecialchars($modelo['ID']) ?>" 
-                            <?= isset($modeloID) && $modeloID == $modelo['ID'] ? 'selected' : '' ?>>
-                            <?= htmlspecialchars($modelo['Nome']) ?>
-                        </option>
-                    <?php endforeach; ?>
-                </select>
+                                    <option value="<?= htmlspecialchars($modelo['ID']) ?>" 
+                                        <?= isset($modeloID) && $modeloID == $modelo['ID'] ? 'selected' : '' ?>>
+                                        <?= htmlspecialchars($modelo['Nome']) ?>
+                                    </option>
+                                <?php endforeach; ?>
+                            </select>
                             <div class="field-hint">
                                 <i class="fas fa-tag"></i>
                                 Modelo específico da arma
-            </div>
+                            </div>
                         </div>
                         
-            <div class="col-md-6 mb-3">
-                <label for="processo_judicial_id" class="form-label">Processo Judicial</label>
+                        <div class="col-md-6 mb-3">
+                            <label for="processo_judicial_id" class="form-label">Processo Judicial</label>
                             <select name="processo_judicial_id" id="processo_judicial_id" class="form-select select2">
                                 <option value="">Selecione o Processo</option>
-                    <?php foreach ($processosJudiciais as $processo): ?>
-                        <option value="<?= htmlspecialchars($processo['ID']) ?>" 
-                            <?= isset($processoJudicialID) && $processoJudicialID == $processo['ID'] ? 'selected' : '' ?>>
-                            <?= htmlspecialchars($processo['Numero']) ?>
-                        </option>
-                    <?php endforeach; ?>
-                </select>
+                                <?php foreach ($processosJudiciais as $processo): ?>
+                                    <option value="<?= htmlspecialchars($processo['ID']) ?>" 
+                                        <?= isset($processoJudicialID) && $processoJudicialID == $processo['ID'] ? 'selected' : '' ?>>
+                                        <?= htmlspecialchars($processo['Numero']) ?>
+                                    </option>
+                                <?php endforeach; ?>
+                            </select>
                             <div class="field-hint">
                                 <i class="fas fa-gavel"></i>
                                 Processo judicial relacionado (opcional)
                             </div>
-            </div>
-        </div>
+                        </div>
+                    </div>
 
-<div class="row">
+                    <div class="row">
                         <div class="col-12 mb-3">
                             <button type="button" id="copiar-detalhes-btn" class="btn btn-outline-primary">
                                 <i class="fas fa-copy me-2"></i>
@@ -919,8 +922,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             </small>
                         </div>
                     </div>
-    </div>
-</div>
+                </div>
+            </div>
 
             <!-- Botões de Ação -->
             <div class="card mb-4 shadow">
@@ -938,7 +941,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     Salvar e Adicionar Novo
                                 </button>
                             <?php endif; ?>
-    </div>
+                        </div>
 
                         <div class="d-flex gap-2">
                             <button type="button" class="btn btn-outline-info" id="btn-preview">
@@ -951,8 +954,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <i class="fas fa-times me-2"></i>
                                 Cancelar
                             </a>
-        </div>
-        </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </form>
@@ -973,7 +976,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         Ajuda - Cadastro de Objetos
                     </h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-        </div>
+                </div>
                 <div class="modal-body">
                     <div class="accordion" id="helpAccordion">
                         <div class="accordion-item">
@@ -991,9 +994,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                         <li><kbd>Esc</kbd> - Cancelar e voltar</li>
                                         <li><kbd>Tab</kbd> - Navegar entre campos</li>
                                     </ul>
-        </div>
-    </div>
-    </div>
+                                </div>
+                            </div>
+                        </div>
                         
                         <div class="accordion-item">
                             <h2 class="accordion-header">
@@ -1018,7 +1021,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </div>
             </div>
         </div>
-</div>
+    </div>
 
     <!-- Scripts -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
@@ -1026,11 +1029,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
-<script>
+    <script>
         $(document).ready(function() {
             // Variáveis globais
             const procedimentoID = <?= json_encode($procedimentoID) ?>;
             const isEditing = <?= json_encode($isEditing) ?>;
+            const mostrarArmaInicial = <?= json_encode($mostrarArmaCard) ?>;
             const autoSaveInterval = 30000; // 30 segundos
             
             // Inicializar progress bar
@@ -1074,15 +1078,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 if (savedData && !isEditing) {
                     const data = JSON.parse(savedData);
                     
-                Swal.fire({
+                    Swal.fire({
                         title: 'Dados Salvos Encontrados',
                         text: 'Deseja restaurar os dados salvos automaticamente?',
-                    icon: 'question',
-                    showCancelButton: true,
+                        icon: 'question',
+                        showCancelButton: true,
                         confirmButtonText: 'Sim, restaurar',
                         cancelButtonText: 'Não, começar novo'
-                }).then((result) => {
-                    if (result.isConfirmed) {
+                    }).then((result) => {
+                        if (result.isConfirmed) {
                             Object.keys(data).forEach(key => {
                                 const element = $(`[name="${key}"]`);
                                 if (element.length) {
@@ -1090,11 +1094,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 }
                             });
                             Swal.fire('Restaurado!', 'Dados restaurados com sucesso.', 'success');
-                    } else {
+                        } else {
                             localStorage.removeItem('form_backup_' + procedimentoID);
-                    }
-                });
-            }
+                        }
+                    });
+                }
             }
             
             // Inicializar Select2 básico para campos estáticos
@@ -1104,17 +1108,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 allowClear: true
             });
             
-            // Controlar exibição dos campos de arma
-            $('#tipo_id').on('change', function() {
-                const isArma = $(this).val() === '4';
+            // Função para controlar campos de arma
+            function toggleArmaFields(show) {
                 const armaCard = $('#arma-card');
+                const camposObrigatorios = $('#arma_especie_id, #arma_calibre_id, #numero_serie');
+                const todosCamposArma = $('#arma_especie_id, #arma_calibre_id, #arma_marca_id, #arma_modelo_id, #numero_serie, #processo_judicial_id');
                 
-                if (isArma) {
+                if (show) {
                     armaCard.slideDown(300);
                     // Tornar campos obrigatórios
-                    $('#arma_especie_id, #arma_calibre_id, #numero_serie').prop('required', true);
+                    camposObrigatorios.prop('required', true);
                     // Reinicializar Select2 para garantir que os valores estejam visíveis
-                    $('#arma_especie_id, #arma_calibre_id, #arma_marca_id, #arma_modelo_id').select2({
+                    $('#arma_especie_id, #arma_calibre_id, #arma_marca_id, #arma_modelo_id, #processo_judicial_id').select2({
                         theme: 'bootstrap-5',
                         width: '100%',
                         allowClear: true
@@ -1122,14 +1127,40 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 } else {
                     armaCard.slideUp(300);
                     // Remover obrigatoriedade
-                    $('#arma_especie_id, #arma_calibre_id, #numero_serie').prop('required', false);
-                    // Limpar valores
-                    $('#arma_especie_id, #arma_calibre_id, #arma_marca_id, #arma_modelo_id').val(null).trigger('change');
-                    $('#numero_serie').val('');
+                    camposObrigatorios.prop('required', false);
+                    // Limpar valores apenas se não estiver em modo de edição
+                    if (!isEditing) {
+                        todosCamposArma.val('').trigger('change');
+                        $('#arma_especie_id, #arma_calibre_id, #arma_marca_id, #arma_modelo_id, #processo_judicial_id').val(null).trigger('change');
+                    }
                 }
                 
                 updateProgressBar();
-            }).trigger('change');
+            }
+            
+            // Controlar exibição dos campos de arma
+            $('#tipo_id').on('change', function() {
+                const valorSelecionado = $(this).val();
+                const isArma = (valorSelecionado === '4');
+                
+                console.log('Tipo selecionado:', valorSelecionado, 'É arma:', isArma);
+                
+                toggleArmaFields(isArma);
+            });
+
+            // Verificar o tipo inicial após o carregamento da página
+            $(document).ready(function() {
+                // Se estiver editando e for arma, mostrar campos
+                if (mostrarArmaInicial) {
+                    toggleArmaFields(true);
+                }
+                
+                // Verificar valor inicial do select
+                const tipoInicial = $('#tipo_id').val();
+                if (tipoInicial === '4') {
+                    toggleArmaFields(true);
+                }
+            });
             
             // Gerar descrição automática para armas
             $('#copiar-detalhes-btn').on('click', function() {
@@ -1147,8 +1178,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     text: 'A descrição foi preenchida automaticamente.',
                     timer: 2000,
                     showConfirmButton: false
-    });
-});
+                });
+            });
 
             // Função para gerar descrição da arma
             function gerarDescricaoArma() {
@@ -1187,7 +1218,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     if (feedback.length === 0) {
                         $(this).after(`<div class="invalid-feedback">A descrição deve ter pelo menos ${minLength} caracteres.</div>`);
                     }
-                            } else {
+                } else {
                     $(this).addClass('is-valid').removeClass('is-invalid');
                     feedback.remove();
                 }
@@ -1200,7 +1231,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 const value = $(this).val();
                 if (!value || value.trim() === '') {
                     $(this).addClass('is-invalid').removeClass('is-valid');
-                    } else {
+                } else {
                     $(this).addClass('is-valid').removeClass('is-invalid');
                 }
                 updateProgressBar();
@@ -1246,8 +1277,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     html: previewHtml,
                     width: '600px',
                     confirmButtonText: 'Fechar'
-    });
-});
+                });
+            });
 
             // Atalhos de teclado
             $(document).on('keydown', function(e) {
@@ -1307,13 +1338,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             });
             
             // Prevenir perda de dados apenas se houver mudanças não salvas
-            let formChanged = false;
-            $('#form-objeto input, #form-objeto select, #form-objeto textarea').on('change input', function() {
-                formChanged = true;
-                clearTimeout(autoSaveTimer);
-                autoSaveTimer = setTimeout(autoSave, autoSaveInterval);
-            });
-            
             window.addEventListener('beforeunload', function(e) {
                 if (formChanged && !$('#loading-overlay').is(':visible')) {
                     e.preventDefault();
@@ -1326,6 +1350,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             
             // Inicializar progress bar
             setTimeout(updateProgressBar, 500);
+            
+            // Debug: adicionar logs para verificar funcionamento
+            console.log('Script inicializado');
+            console.log('Modo edição:', isEditing);
+            console.log('Mostrar arma inicial:', mostrarArmaInicial);
+            console.log('Valor inicial do tipo:', $('#tipo_id').val());
         });
     </script>
 </body>
